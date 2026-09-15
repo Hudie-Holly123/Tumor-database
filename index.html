@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bioinformatics Database Summary Categories</title>
+    <style>
+        :root {
+            --link-blue: #0000CC;
+            --link-hover: #CC0000;
+            --text-dark: #222222;
+            --bg-gray: #F9F9F9;
+            --border-gray: #CCCCCC;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        body {
+            color: var(--text-dark);
+            background-color: #ffffff;
+            font-size: 14px;
+            line-height: 1.5;
+            padding: 20px;
+        }
+
+        .site-container {
+            max-width: 1100px;
+            margin: 0 auto;
+        }
+
+        /* 顶部面包屑导航 */
+        .breadcrumb {
+            font-size: 12px;
+            margin-bottom: 25px;
+            color: #555555;
+        }
+        .breadcrumb a {
+            color: var(--link-blue);
+            text-decoration: none;
+        }
+        .breadcrumb a:hover {
+            text-decoration: underline;
+        }
+
+        /* 主体标题 */
+        .main-title {
+            font-size: 20px;
+            font-weight: bold;
+            color: #000;
+            margin-bottom: 20px;
+            border-bottom: 1px solid #000;
+            padding-bottom: 5px;
+        }
+
+        /* 两栏布局 */
+        .layout-grid {
+            display: grid;
+            grid-template-columns: 7fr 3fr;
+            gap: 40px;
+            align-items: start;
+        }
+
+        @media (max-width: 768px) {
+            .layout-grid {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        /* 左侧分类列表样式 */
+        .category-list {
+            list-style: none;
+        }
+
+        .category-item {
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+
+        .category-item a {
+            color: var(--link-blue);
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .category-item a:hover {
+            color: var(--link-hover);
+            text-decoration: underline;
+        }
+
+        /* 右侧快捷侧边栏 */
+        .quick-box {
+            border: 1px solid var(--border-gray);
+            background-color: var(--bg-gray);
+            padding: 15px;
+            border-radius: 2px;
+        }
+
+        .quick-box h3 {
+            font-size: 13px;
+            margin-bottom: 10px;
+            color: #333;
+            border-bottom: 1px solid var(--border-color);
+            padding-bottom: 3px;
+        }
+
+        .quick-links {
+            list-style: none;
+        }
+
+        .quick-links li {
+            margin-bottom: 6px;
+            font-size: 12px;
+            padding-left: 10px;
+            position: relative;
+        }
+
+        /* 模拟截图中的小箭头 */
+        .quick-links li::before {
+            content: "▶";
+            font-size: 8px;
+            color: var(--link-blue);
+            position: absolute;
+            left: 0;
+            top: 3px;
+        }
+
+        .quick-links a {
+            color: var(--link-blue);
+            text-decoration: none;
+        }
+
+        .quick-links a:hover {
+            text-decoration: underline;
+        }
+
+        /* 底部版权与免责声明声明栏 */
+        .disclaimer {
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666666;
+            border-top: 1px dashed var(--border-gray);
+            padding-top: 10px;
+            font-style: italic;
+        }
+
+        footer {
+            margin-top: 50px;
+            border-top: 1px solid var(--border-gray);
+            padding-top: 20px;
+            display: grid;
+            grid-template-columns: repeat(4, 1fr);
+            gap: 20px;
+            font-size: 12px;
+        }
+
+        @media (max-width: 600px) {
+            footer {
+                grid-template-columns: 1fr;
+            }
+        }
+
+        footer h4 {
+            font-size: 13px;
+            color: #333;
+            margin-bottom: 10px;
+        }
+
+        footer ul {
+            list-style: none;
+        }
+
+        footer ul li {
+            margin-bottom: 5px;
+        }
+
+        footer ul li a {
+            color: #666666;
+            text-decoration: none;
+        }
+
+        footer ul li a:hover {
+            color: #000;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="site-container">
+        
+        <!-- 面包屑路径 -->
+        <div class="breadcrumb">
+            You are here: <a href="#">Home</a> » <a href="#">Bioinformatics Portal</a> » Database Summary Categories
+        </div>
+
+        <!-- 页面主标题 -->
+        <h2 class="main-title">Cancer & General Bioinformatics Database Category List</h2>
+
+        <!-- 双栏核心内容 -->
+        <div class="layout-grid">
+            
+            <!-- 左侧主分类 -->
+            <ul class="category-list">
+                <li class="category-item"><a href="https://cancer.gov">Tumor Genomics Databases (TCGA / GDC Portal)</a></li>
+                <li class="category-item"><a href="https://nih.gov">Nucleotide & Expression Expression Omnibuses (NCBI GEO)</a></li>
+                <li class="category-item"><a href="https://cbioportal.org">Cancer Genomics Visualization Platforms (cBioPortal)</a></li>
+                <li class="category-item"><a href="http://cistrome.org">Tumor Immune Infiltration Resources (TIMER 2.0)</a></li>
+                <li class="category-item"><a href="http://comp-genomics.org">Single-Cell RNA-Seq Repositories (TISCH2)</a></li>
+                <li class="category-item"><a href="https://icgc.org">International Cancer Genomes (ICGC Portal)</a></li>
+                <li class="category-item"><a href="#">Metabolic and Signaling Pathways</a></li>
+                <li class="category-item"><a href="#">Proteomics and Mass Spectrometry Resources</a></li>
+                <li class="category-item"><a href="#">Immunological and Microenvironment Databases</a></li>
+            </ul>
+
+            <!-- 右侧快捷跳转框 -->
+            <div class="quick-box">
+                <h3>Navigation Shortcuts</h3>
+                <ul class="quick-links">
+                    <li><a href="#">Compilation Paper</a></li>
+                    <li><a href="#">Category List</a></li>
+                    <li><a href="#">Alphabetical List</a></li>
+                    <li><a href="#">Search Summary Papers</a></li>
+                </ul>
+            </div>
+
+        </div>
+
+        <!-- 免责声明 -->
+        <p class="disclaimer">Disclaimer: This data repository directory is maintained for open-access scholarly sharing. Users are responsible for checking license agreements on external primary database hosts.</p>
+
+        <!-- 页脚 -->
+        <footer>
+            <div>
+                <h4>About The Portal</h4>
+                <ul>
+                    <li><a href="#">Overview</a></li>
+                    <li><a href="#">Contact Us</a></li>
+                    <li><a href="#">Data Privacy</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Data Hubs</h4>
+                <ul>
+                    <li><a href="#">Primary Genomic Repositories</a></li>
+                    <li><a href="#">Single-Cell Atlases</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Resources</h4>
+                <ul>
+                    <li><a href="#">Bioinformatics Tools</a></li>
+                    <li><a href="#">Citation Guidelines</a></li>
+                </ul>
+            </div>
+            <div>
+                <h4>Academic Links</h4>
+                <ul>
+                    <li><a href="#">Indiana University Pages</a></li>
+                    <li><a href="#">UITS Documentation</a></li>
+                </ul>
+            </div>
+        </footer>
+
+    </div>
+
+</body>
+</html>
