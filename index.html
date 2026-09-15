@@ -1,1 +1,123 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Cancer Data Resource Directory</title>
+  <meta name="description" content="A searchable directory of online resources for cancer and tumor-related data, organized by research category.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <div>
+        <div class="eyebrow">Cancer Bioinformatics</div>
+        <h1>Cancer Data Resource Directory</h1>
+        <p class="subtitle">A searchable, category-based map of online resources for finding cancer and tumor-related data.</p>
+      </div>
+      <div class="header-actions">
+        <a class="button ghost" href="https://www.oxfordjournals.org/nar/database/c/" target="_blank" rel="noopener">NAR Collection</a>
+        <button class="button" id="exportAll">Export CSV</button>
+      </div>
+    </div>
+  </header>
 
+  <main class="page">
+    <section class="stats" aria-label="Directory statistics">
+      <div class="stat-card"><span id="uniqueCount">-</span><small>Resource names</small></div>
+      <div class="stat-card"><span id="entryCount">-</span><small>Category entries</small></div>
+      <div class="stat-card"><span id="categoryCount">-</span><small>Categories</small></div>
+      <div class="stat-card"><span id="verifiedCount">-</span><small>Official URLs checked</small></div>
+    </section>
+
+    <section id="homeView">
+      <div class="section-heading">
+        <div>
+          <div class="eyebrow">Browse by need</div>
+          <h2>Choose a data category</h2>
+        </div>
+        <div class="search-wrap home-search">
+          <label for="globalSearch" class="sr-only">Search all resources</label>
+          <input id="globalSearch" type="search" placeholder="Search resource, cancer type, data modality, treatment, etc.">
+        </div>
+      </div>
+      <div id="categoryGrid" class="category-grid"></div>
+    </section>
+
+    <section id="categoryView" class="hidden">
+      <div class="section-heading category-heading">
+        <div>
+          <button class="back-link" id="backHome">← All categories</button>
+          <div class="eyebrow" id="categoryEyebrow"></div>
+          <h2 id="categoryTitle"></h2>
+          <p class="category-description" id="categoryDescription"></p>
+        </div>
+        <div class="category-tools">
+          <div class="search-wrap">
+            <label for="categorySearch" class="sr-only">Search this category</label>
+            <input id="categorySearch" type="search" placeholder="Search this category...">
+          </div>
+          <select id="usageFilter" aria-label="Minimum usage score">
+            <option value="0">All usage scores</option>
+            <option value="10">Usage 10+</option>
+            <option value="9">Usage 9+</option>
+            <option value="8">Usage 8+</option>
+            <option value="7">Usage 7+</option>
+            <option value="6">Usage 6+</option>
+            <option value="5">Usage 5+</option>
+          </select>
+        </div>
+      </div>
+
+      <div class="table-meta">
+        <span id="resultCount"></span>
+        <span>Click a resource to see full details and the official website.</span>
+      </div>
+      <div class="table-wrap">
+        <table id="resourceTable">
+          <thead>
+            <tr>
+              <th>Resource</th>
+              <th>Resource Type</th>
+              <th>Year</th>
+              <th>Cancer Coverage</th>
+              <th>Data Available</th>
+              <th>Data Amount</th>
+              <th>Clinical / Treatment / Outcome</th>
+              <th>Access</th>
+              <th>Cost</th>
+              <th>Usage</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <div id="modal" class="modal hidden" role="dialog" aria-modal="true" aria-labelledby="modalTitle">
+    <div class="modal-backdrop" id="modalBackdrop"></div>
+    <div class="modal-panel">
+      <button class="modal-close" id="modalClose" aria-label="Close">×</button>
+      <div class="eyebrow" id="modalCategory"></div>
+      <h2 id="modalTitle"></h2>
+      <div class="modal-actions">
+        <a id="officialLink" class="button" href="#" target="_blank" rel="noopener">Open official website</a>
+        <button id="copyLink" class="button ghost">Copy official URL</button>
+      </div>
+      <div id="modalFields" class="detail-grid"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div>
+      <strong>Cancer Data Resource Directory</strong><br>
+      Static GitHub Pages site generated from the standardized resource workbook.
+    </div>
+    <div id="footerMeta"></div>
+  </footer>
+
+  <script src="data/resources.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
