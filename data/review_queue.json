@@ -1,0 +1,2042 @@
+[
+  {
+    "resource": "TCGA",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": ">20,000 primary and matched-normal samples across 33 cancer types",
+    "observed_facts": [
+      {
+        "value": 33,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "cs program, molecularly characterized over 20,000 primary cancer and matched normal samples spanning 33 cancer types. This joint effort between NCI and the National Human Genome Research Institute began in 2006, bringing together researchers from diverse d",
+        "source_url": "https://www.cancer.gov/ccg/research/genome-sequencing/tcga",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HTAN",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current release: 2,383 cases, 10,608 biospecimens, 15 atlases, 34 assay types",
+    "observed_facts": [
+      {
+        "value": 20,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "evolve from precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2383,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "m precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach Bone Pleur",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ICGC-ARGO",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Thousands of donors across international programs; expanding",
+    "observed_facts": [
+      {
+        "value": 5528,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "he number of donors available to researchers compared to the previous release, bringing the total to 5,528 donors. The platform now has registered over 8,000 patients, supporting a wide range of cancer studies and comparative analyses. Find out more \"We",
+        "source_url": "https://www.icgc-argo.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 8000,
+        "unit": "patients",
+        "qualifier": "over",
+        "evidence": "mpared to the previous release, bringing the total to 5,528 donors. The platform now has registered over 8,000 patients, supporting a wide range of cancer studies and comparative analyses. Find out more \"We need to remove the element of chance to improve surv",
+        "source_url": "https://www.icgc-argo.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 7056,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "ital to our quest to defeat cancer. 24 programs currently enrolled across 13 countries Find out more 7,056 donors in the ICGC ARGO data platform Browse the Data 63,116 committed donors representing 20 tumour types Find out more Latest News View all news",
+        "source_url": "https://www.icgc-argo.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 20,
+        "unit": "tumour types",
+        "qualifier": "",
+        "evidence": "ore 7,056 donors in the ICGC ARGO data platform Browse the Data 63,116 committed donors representing 20 tumour types Find out more Latest News View all news Program Spotlight: Mutographs, reading the geography of cancer causation Mutographs asks what a tum",
+        "source_url": "https://www.icgc-argo.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CGGA",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Thousands of glioma samples across datasets",
+    "observed_facts": [
+      {
+        "value": 6148,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": "orage and\r\n\t\t\t\texploration. Currently, the CGGA includes image-genomic data (268) , scRNA-seq data (6,148 cells, 73\r\n\t\t\t\t\tregions from 14 patients) , whole-exome\r\n\t\t\t\t\tsequencing data (286) , mRNA\r\n\t\t\t\t\tsequencing data (693, batch 2) , mRNA\r\n\t\t\t\t\tsequ",
+        "source_url": "https://www.cgga.org.cn/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 14,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "tly, the CGGA includes image-genomic data (268) , scRNA-seq data (6,148 cells, 73\r\n\t\t\t\t\tregions from 14 patients) , whole-exome\r\n\t\t\t\t\tsequencing data (286) , mRNA\r\n\t\t\t\t\tsequencing data (693, batch 2) , mRNA\r\n\t\t\t\t\tsequencing data (325, batch 1) , mRNA\r\n",
+        "source_url": "https://www.cgga.org.cn/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 325,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "y SCI\r\n\t\t\t\t\t\t\tIF (2022) (June 28, 2022) Open access to read counts data for mRNAseq_693 and mRNAseq_325 datasets (June 20,\r\n\t\t\t\t\t\t2022) CGGA\r\n\t\t\t\t\t\t\thas been recognized as one of 2021 China’s top 10 research\r\n\t\t\t\t\t\t\tadvances in bioinformatics (February",
+        "source_url": "https://www.cgga.org.cn/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HCMI",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Expression Atlas",
+    "category": "General Omics Repositories Containing Cancer Data",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.ebi.ac.uk', port=443): Read timed out. (read timeout=25)",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HTAN",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current release: 2,383 cases, 10,608 biospecimens, 15 atlases, 34 assay types",
+    "observed_facts": [
+      {
+        "value": 20,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "evolve from precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2383,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "m precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach Bone Pleur",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TISCH",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TISCH2",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Broad Single Cell Portal",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds of studies overall",
+    "observed_facts": [
+      {
+        "value": 1043,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "ate study Sign in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1043 studies 87,217,342 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Priv",
+        "source_url": "https://singlecell.broadinstitute.org/single_cell",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 87217342,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": "n in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1043 studies 87,217,342 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Privacy Policy Terms ",
+        "source_url": "https://singlecell.broadinstitute.org/single_cell",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Single Cell Expression Atlas",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large multi-study collection",
+    "observed_facts": [
+      {
+        "value": 384,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "n Atlas Home Browse experiments Download Release notes Help About Support Search across 21 species , 384 studies , 10,051,914 cells Ensembl 104 ,\n        Ensembl Genomes 51 ,\n        WormBase ParaSite 15 ,\n        EFO 3.10.0 Search Show experiments of ",
+        "source_url": "https://www.ebi.ac.uk/gxa/sc/home",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 10051914,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": "rowse experiments Download Release notes Help About Support Search across 21 species , 384 studies , 10,051,914 cells Ensembl 104 ,\n        Ensembl Genomes 51 ,\n        WormBase ParaSite 15 ,\n        EFO 3.10.0 Search Show experiments of all species Tools S",
+        "source_url": "https://www.ebi.ac.uk/gxa/sc/home",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerSEA",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Specialized cancer single-cell collection",
+    "observed_facts": [
+      {
+        "value": 25,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "ctional state atlas, involving\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t14 functional states of 41,900 cancer single cells from 25\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tcancer types. Querying which functional states the gene (including PCG and\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tlncRNA) or gene list of interest is related to across different",
+        "source_url": "http://biocc.hrbmu.edu.cn/CancerSEA/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TE-SCALE",
+    "category": "Cancer Single-Cell Data Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Integrated cancer single-cell datasets",
+    "observed_facts": [
+      {
+        "value": 1317803,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": " E xploration A database of transposable element (TE) expression at single-cell resolution, covering 1,317,803 cells across 20 cancer types based on a large volume of scRNA-seq datasets. Multi-layer\n\t\t\tanalyses were performed to characterize TE activity in",
+        "source_url": "https://ngdc.cncb.ac.cn/te-scale/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 20,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "e of transposable element (TE) expression at single-cell resolution, covering 1,317,803 cells across 20 cancer types based on a large volume of scRNA-seq datasets. Multi-layer\n\t\t\tanalyses were performed to characterize TE activity in tumor microenvironment",
+        "source_url": "https://ngdc.cncb.ac.cn/te-scale/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 24,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "mmunotherapies. Previous Next Cancer Select a cancer type, e.g. Basal cell carcinoma Search Projects 24 Samples 330 Tissues 12 Cancer Types 20 Cells 1,317,803 TE Subfamilies 1,051 Highlights Pan-cancer landscape Covers scRNA-seq data from 20 cancer ty",
+        "source_url": "https://ngdc.cncb.ac.cn/te-scale/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 12,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "s Next Cancer Select a cancer type, e.g. Basal cell carcinoma Search Projects 24 Samples 330 Tissues 12 Cancer Types 20 Cells 1,317,803 TE Subfamilies 1,051 Highlights Pan-cancer landscape Covers scRNA-seq data from 20 cancer types across 12 tissues, provi",
+        "source_url": "https://ngdc.cncb.ac.cn/te-scale/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 20,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": "lect a cancer type, e.g. Basal cell carcinoma Search Projects 24 Samples 330 Tissues 12 Cancer Types 20 Cells 1,317,803 TE Subfamilies 1,051 Highlights Pan-cancer landscape Covers scRNA-seq data from 20 cancer types across 12 tissues, providing the ",
+        "source_url": "https://ngdc.cncb.ac.cn/te-scale/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HTAN",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current release: 2,383 cases, 10,608 biospecimens, 15 atlases, 34 assay types",
+    "observed_facts": [
+      {
+        "value": 20,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "evolve from precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2383,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "m precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach Bone Pleur",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "10x Genomics Public Datasets",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 429,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CosMx Public Datasets",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Multiple public datasets",
+    "observed_facts": [
+      {
+        "value": 160,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": ". Nigel B Jamieson Professor of Surgery, University of Glasgow, UK “At last count, we have processed 160 samples with the CosMx SMI, including tumor and mouse brain samples. This technology uncovers vital insights into cell biology, enhancing our under",
+        "source_url": "https://brukerspatialbiology.com/products/cosmx-spatial-molecular-imager/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "STOmicsDB",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large curated spatial collection",
+    "observed_facts": [
+      {
+        "value": 377,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "ent tools for Data analysis, search and visualization. All arrow_drop_down Search 7,339 Publications 377 Datasets 17 Species 128 Tissues 16,229 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOm",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 16229,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "and visualization. All arrow_drop_down Search 7,339 Publications 377 Datasets 17 Species 128 Tissues 16,229 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOmicsDB Submit Example Data Visualizatio",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 175,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "ization for expression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cyno",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 5461,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "xpression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 177,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "ts Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegic",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 9273,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "mple Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) ",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 4,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 60,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) ",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 5,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) ",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 104,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "es Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 5",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 3,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cr",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 26,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "aca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Data",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "s) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familia",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 15,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ts 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familiaris (Dog) 3",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 1,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "t) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familiaris (Dog) 3 Datasets 27 Samples Caenorhabditis elega",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 56,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ts 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familiaris (Dog) 3 Datasets 27 Samples Caenorhabditis elegans (Roundwo",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 52,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "es Ambystoma mexicanum (Axolotl) 1 Datasets 56 Samples Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familiaris (Dog) 3 Datasets 27 Samples Caenorhabditis elegans (Roundworm) 1 Datasets 10 Samples Glycine max (Soybean) 2 Dataset",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 27,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "les Arabidopsis thaliana (Thale-cress) 2 Datasets 52 Samples Canis lupus familiaris (Dog) 3 Datasets 27 Samples Caenorhabditis elegans (Roundworm) 1 Datasets 10 Samples Glycine max (Soybean) 2 Datasets 80 Samples Drosophila melanogaster (Fruit fly) 1 ",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 10,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "les Canis lupus familiaris (Dog) 3 Datasets 27 Samples Caenorhabditis elegans (Roundworm) 1 Datasets 10 Samples Glycine max (Soybean) 2 Datasets 80 Samples Drosophila melanogaster (Fruit fly) 1 Datasets 85 Samples Oryctolagus cuniculus (European rabbi",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 80,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "27 Samples Caenorhabditis elegans (Roundworm) 1 Datasets 10 Samples Glycine max (Soybean) 2 Datasets 80 Samples Drosophila melanogaster (Fruit fly) 1 Datasets 85 Samples Oryctolagus cuniculus (European rabbit) 1 Datasets 6 Samples Phalaenopsis aphrodi",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 85,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "0 Samples Glycine max (Soybean) 2 Datasets 80 Samples Drosophila melanogaster (Fruit fly) 1 Datasets 85 Samples Oryctolagus cuniculus (European rabbit) 1 Datasets 6 Samples Phalaenopsis aphrodite (Phalaenopsis aphrodite) 1 Datasets 3 Samples Sus scrof",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 6,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "la melanogaster (Fruit fly) 1 Datasets 85 Samples Oryctolagus cuniculus (European rabbit) 1 Datasets 6 Samples Phalaenopsis aphrodite (Phalaenopsis aphrodite) 1 Datasets 3 Samples Sus scrofa (Pig) 3 Datasets 12 Samples Xenopus laevis (Common platanna",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 3,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "us (European rabbit) 1 Datasets 6 Samples Phalaenopsis aphrodite (Phalaenopsis aphrodite) 1 Datasets 3 Samples Sus scrofa (Pig) 3 Datasets 12 Samples Xenopus laevis (Common platanna) 1 Datasets 2 Samples Xenopus tropicalis (Tropicalclawed frog) 1 Dat",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 12,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "les Phalaenopsis aphrodite (Phalaenopsis aphrodite) 1 Datasets 3 Samples Sus scrofa (Pig) 3 Datasets 12 Samples Xenopus laevis (Common platanna) 1 Datasets 2 Samples Xenopus tropicalis (Tropicalclawed frog) 1 Datasets 2 Samples Collections MOSTA Mouse",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "atasets 3 Samples Sus scrofa (Pig) 3 Datasets 12 Samples Xenopus laevis (Common platanna) 1 Datasets 2 Samples Xenopus tropicalis (Tropicalclawed frog) 1 Datasets 2 Samples Collections MOSTA Mouse Organogenesis Spatiotemporal Transcriptomic Atlas ART",
+        "source_url": "https://db.cngb.org/stomics/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "SpatialDB",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.spatialomics.org', port=443): Max retries exceeded with url: /SpatialDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DeepSpaceDB",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "New/expanding collection",
+    "observed_facts": [
+      {
+        "value": 3600,
+        "unit": "samples",
+        "qualifier": "over",
+        "evidence": "ck to all samples Welcome to DeepSpaceDB , a comprehensive spatial transcriptomics database hosting over 3,600 samples across human and mouse tissues. Our platform integrates high-resolution spatial data with powerful analysis tools, enabling researchers to ",
+        "source_url": "https://genomics.virus.kyoto-u.ac.jp/deepspacedb/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ProteomeXchange",
+    "category": "Cancer Proteomics & Proteogenomics",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.proteomecentral.proteomexchange.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.proteomecentral.proteomexchange.org', port=80): Failed to resolve 'www.proteomecentral.proteomexchange.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CanProVar",
+    "category": "Cancer Proteomics & Proteogenomics",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 502,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "dbDEPC",
+    "category": "Cancer Proteomics & Proteogenomics",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/ (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DepMap",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current ecosystem ~2,100 models; release-dependent",
+    "observed_facts": [
+      {
+        "value": 161,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "l language processing to uncover biology across the portal Olink Proteomics dataset We have profiled 161 cell lines covering 24 different cell line lineages using the Olink Explore HT platform.  To learn more about Olink, please visit their website here. ",
+        "source_url": "https://depmap.org/portal/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GDSC",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "~1,000 models; hundreds of compounds, release-dependent",
+    "observed_facts": [
+      {
+        "value": 2,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "pMap Miner. How to access the Genomics of Drug Sensitivity in Cancer data: Download the GDSC1 & GDSC2 datasets from the Cell Model Passports . Explore the data using the DepMap Miner . Learn more about the dataset from the Sanger DepMap documentation",
+        "source_url": "https://www.cancerrxgene.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GDSC",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 410,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Project Achilles",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds to >1,000 models depending release",
+    "observed_facts": [
+      {
+        "value": 161,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "l language processing to uncover biology across the portal Olink Proteomics dataset We have profiled 161 cell lines covering 24 different cell line lineages using the Olink Explore HT platform.  To learn more about Olink, please visit their website here. ",
+        "source_url": "https://depmap.org/portal/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PDX Finder",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.pdxfinder.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pdxfinder.org'. (_ssl.c:1082)\")))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "BioGRID ORCS",
+    "category": "Cancer Models & Functional Genomics / CRISPR",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large published screen collection",
+    "observed_facts": [
+      {
+        "value": 825,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "18 publications and 94,219 genes to return 2,217 CRISPR screens from 5 major model organism species, 825 cell lines, and 145 cell types. All screen data are freely provided through our search index and available via download in a wide variety of standardi",
+        "source_url": "https://orcs.thebiogrid.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DepMap",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current ecosystem ~2,100 models; release-dependent",
+    "observed_facts": [
+      {
+        "value": 161,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "l language processing to uncover biology across the portal Olink Proteomics dataset We have profiled 161 cell lines covering 24 different cell line lineages using the Olink Explore HT platform.  To learn more about Olink, please visit their website here. ",
+        "source_url": "https://depmap.org/portal/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GDSC",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "~1,000 models; hundreds of compounds, release-dependent",
+    "observed_facts": [
+      {
+        "value": 2,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "pMap Miner. How to access the Genomics of Drug Sensitivity in Cancer data: Download the GDSC1 & GDSC2 datasets from the Cell Model Passports . Explore the data using the DepMap Miner . Learn more about the dataset from the Sanger DepMap documentation",
+        "source_url": "https://www.cancerrxgene.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GDSC",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 410,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Connectivity Map / CLUE",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": ">1 million profiles in current ecosystem",
+    "observed_facts": [
+      {
+        "value": 5000,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ning t-SNE here are: 50 initial dimensions, perplexity of 30, and theta of 0.5. For datasets with <= 5000 samples, the standard t-SNE algorithm is used. For larger datasets, the Barnes-Hut algorithm is employed. A dimensionality reduction technique in w",
+        "source_url": "https://clue.io/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 9,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "Touchstone is our reference dataset, made from well-annotated perturbagens profiled in a core set of 9 cell lines. Detailed List is unavailable for Touchstone v1.1.1.1. A new data visualization approach is in development, but to get results in a table f",
+        "source_url": "https://clue.io/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 1022,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "D was used Median and MAD  expression values were calculated  using RNA-Seq profiles from a total of 1022 cell lines, comprising data from the Cancer Cell Line Encyclopedia (CCLE; Barretina, et al.) and cell lines nominated by the CMap team. Plots show z-s",
+        "source_url": "https://clue.io/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 1000,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "ssays in which this compound has been profiled. L1000 cell/dose coverage For compounds profiled by L1000, cell lines and dose range for which signatures are available are indicated by dark gray bars (lighter gray bar indicates no data is available for that",
+        "source_url": "https://clue.io/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DrugBank",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PRISM",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds of drugs across hundreds of models; release-dependent",
+    "observed_facts": [
+      {
+        "value": 161,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "l language processing to uncover biology across the portal Olink Proteomics dataset We have profiled 161 cell lines covering 24 different cell line lineages using the Olink Explore HT platform.  To learn more about Olink, please visit their website here. ",
+        "source_url": "https://depmap.org/portal/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CellMinerCDB",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Many cancer cell lines; dynamic",
+    "observed_facts": [
+      {
+        "value": 60,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": ". Figure 4 : Shows correlation results for SLFN11 gene with all other molecular features for all NCI60 datasets sorted by correlation value with gene location and target pathways (annotation field). Tissue Correlation This option enables to display pe",
+        "source_url": "https://discover.nci.nih.gov/cellminercdb/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 60,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "d SLFLN11 and BPTF gene expression as predictor variables. In this example, we chose to display only 60 cell lines that have the most 30 highest and 30 lowest values for topotecan activity. If the Lasso algorithm is selected (see below) more predicted va",
+        "source_url": "https://discover.nci.nih.gov/cellminercdb/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CTRP",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds of cell lines and compounds",
+    "observed_facts": [
+      {
+        "value": 1000,
+        "unit": "cell lines",
+        "qualifier": "about",
+        "evidence": "cer Cell Line Encyclopedia Â provides public access to genomic data, analysis and visualization for about 1000 cell lines. TheÂ Genomics of Drug Sensitivity in Cancer Â provides public access to data on the sensitivity of genomically characterized cancer cell l",
+        "source_url": "https://portals.broadinstitute.org/ctrp/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerDR",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='bioinf-mini.iitd.ac.in', port=80): Max retries exceeded with url: /cancer_drug/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinf-mini.iitd.ac.in', port=80): Failed to resolve 'bioinf-mini.iitd.ac.in' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ClinicalOmicsDB",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='clinicalomicsdb.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='clinicalomicsdb.org', port=443): Failed to resolve 'clinicalomicsdb.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DrugComb",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='drugcomb.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='drugcomb.org', port=443) at 0x7fdb6107d590>, 'Connection to drugcomb.org timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DRMref",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ncRNADrug",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.jianglab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jianglab.cn', port=443) at 0x7fdb6107d950>, 'Connection to www.jianglab.cn timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PMADS",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Thousands of curated links plus predicted associations",
+    "observed_facts": [
+      {
+        "value": 2025,
+        "unit": "records",
+        "qualifier": "",
+        "evidence": "2360 Proteins 536 6080 Drugs 1011 39 Diseases 18 1 Diseases (sub) 298 18 Current release: August 10, 2025 Records PTMs Disease Species Drug Updates 2025-07: Added PRIDE inferred terms. 2025-06: Added non-cancer-related terms. 2025-03: Added cross-refere",
+        "source_url": "https://pmads-db.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "VARIDT",
+    "category": "Cancer Drug Response & Resistance",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Not separately reported",
+    "observed_facts": [
+      {
+        "value": 1201,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "orters across 180 cell types; Cell Line Transcriptomics: 340,777 entries for 402 transporters across 1,201 cell lines; Cell Line Proteomics: 59,409 entries for 111 transporters across 949 cell lines. γ. Organelle Distribution (OD) of DTs This module offers ",
+        "source_url": "https://idrblab.org/varidt/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 949,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "ansporters across 1,201 cell lines; Cell Line Proteomics: 59,409 entries for 111 transporters across 949 cell lines. γ. Organelle Distribution (OD) of DTs This module offers 1,034 subcellular localization entries for 422 transporters across 68 organelles.",
+        "source_url": "https://idrblab.org/varidt/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 593,
+        "unit": "records",
+        "qualifier": "",
+        "evidence": "ies for 422 transporters across 68 organelles. The dataset is composed of: Experimentally Validated: 593 records for 422 DTs; Computationally Predicted: 441 entries for 316 DTs. δ. Update of Previous Versions In parallel with these new modules, all 197",
+        "source_url": "https://idrblab.org/varidt/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 59,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "381 DTs that were regulated by 357 TFs, and the differential expression profiles of these TFs across 59 organs and 106 diseases δ. Epigenetic Regulation (EGR) of DTs 46,748 EGR data of 287 DTs related to 3 types of EGR ε. Exogenous Modulation (EGM) o",
+        "source_url": "https://idrblab.org/varidt/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 21781,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "ific Protein Abundances (DSTSPA) Differential abundance profiles and downloadable data of 257 DTs in 21,781 patients/healthy individuals of 61 tissues and 108 diseases Protein abundances of 245 DTs in 67 tissues of Homo sapiens or model organisms ( Mus mus",
+        "source_url": "https://idrblab.org/varidt/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "UCSC Cancer Genomics Browser",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "UCSC Xena",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='xena.ucsc.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ChimerDB",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.chimerdb.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.chimerdb.net', port=443): Failed to resolve 'www.chimerdb.net' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DriverDBv4",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "intOGen",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Tens of thousands of tumors in aggregated cohorts",
+    "observed_facts": [
+      {
+        "value": 271,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ons in AML Release 2024-09-20 Paste this link in an email or IM × Plot Table Cancer types 87 Cohorts 271 Samples 33,218 Mutations 257,898,749 Driver genes 633 IntOGen collects and analyses somatic\n                mutations in thousands of tumor genomes",
+        "source_url": "https://www.intogen.org/search",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "IntOGen",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Tens of thousands of tumors across cohorts",
+    "observed_facts": [
+      {
+        "value": 271,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ons in AML Release 2024-09-20 Paste this link in an email or IM × Plot Table Cancer types 87 Cohorts 271 Samples 33,218 Mutations 257,898,749 Driver genes 633 IntOGen collects and analyses somatic\n                mutations in thousands of tumor genomes",
+        "source_url": "https://www.intogen.org/search",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "OncoDB 2.0",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large integrated pan-cancer data; dynamic",
+    "observed_facts": [
+      {
+        "value": 10000,
+        "unit": "patients",
+        "qualifier": "approximately",
+        "evidence": "DB2.0 is a robust database designed for cancer researchers, offering integrated multi-omic data for approximately 10,000 patients across 33 cancer types. It encompasses gene expression, DNA methylation, somatic mutations, proteomic profiles, and chromatin accessibility",
+        "source_url": "https://oncodb.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 33,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "for cancer researchers, offering integrated multi-omic data for approximately 10,000 patients across 33 cancer types. It encompasses gene expression, DNA methylation, somatic mutations, proteomic profiles, and chromatin accessibility, drawing from TCGA, GT",
+        "source_url": "https://oncodb.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PRECOG update",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds of cohorts; dynamic",
+    "observed_facts": [
+      {
+        "value": 46000,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "survival. PRECOG includes 335 cancer datasets \n                 with survival or response data for >46,000 patients, covering ~55 malignancies. Gentles/Newman et al. Nature Medicine (2015) Benard/Lalgudi et al. Nucleic Acids Research (2025) Adult Explore ",
+        "source_url": "https://precog.stanford.edu/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "UALCAN",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "TCGA/CPTAC-scale cohorts",
+    "observed_facts": [
+      {
+        "value": 20000,
+        "unit": "samples",
+        "qualifier": "over",
+        "evidence": "7-y\" 04/21/2025 MammOnc-DB , an integrative breast cancer proteogenomic data analysis platform with over 20,000 samples including single cell sequencing data is now online: http://resource.path.uab.edu/MammOnc-Home.html Publuication in npj Breast Cancer: Kart",
+        "source_url": "https://ualcan.path.uab.edu/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Cancer RNA-Seq Nexus",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='syslab4.nchu.edu.tw', port=80): Max retries exceeded with url: /CRN (Caused by ConnectTimeoutError(<HTTPConnection(host='syslab4.nchu.edu.tw', port=80) at 0x7fdb60e8d260>, 'Connection to syslab4.nchu.edu.tw timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "IARC TP53 Database",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "MethHC",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='methhc.mbc.nctu.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methhc.mbc.nctu.edu.tw', port=80): Failed to resolve 'methhc.mbc.nctu.edu.tw' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Network of Cancer Genes (NCG)",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Thousands of cancer genes in historical versions",
+    "observed_facts": [
+      {
+        "value": 127,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "e cancer drivers 2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healt",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 41780,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 122,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in codin",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 17,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "oding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in coding sequence 0 altered in non-codi",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 32895,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "ivers 37 altered in coding sequence 0 altered in non-coding sequence 18 publications 12 tissue types 32895 donors 9 healthy tissues 3 diseased tissues TIME Drivers Cancer genes interacting with the TIME 201 canonical TIME drivers 201 altered in coding s",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 30,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "andidate TIME drivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for C",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 6921,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "ivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for Cancer Evolut",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Progenetix",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "BioMuta",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='hive.biochemistry.gwu.edu', port=443): Max retries exceeded with url: /biomuta/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CaSNP",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "MethyCancer",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='methycancer.psych.ac.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methycancer.psych.ac.cn', port=80): Failed to resolve 'methycancer.psych.ac.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Tumor Associated Gene database",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.binfo.ncku.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.binfo.ncku.edu.tw', port=80): Failed to resolve 'www.binfo.ncku.edu.tw' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CNAScope",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Not separately reported",
+    "observed_facts": [
+      {
+        "value": 810,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": " CNAScope curates and functionally annotates over 3,954,361 CNA profiles and 3,946,319 metadata from 810 datasets, 174,464 samples, 3,018,672 single cells, and 764,232 spatial spots, spanning 77 cancer subtypes from 8 data sources and 55 cancer initiati",
+        "source_url": "https://cna.fengslab.com/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 174464,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "tes and functionally annotates over 3,954,361 CNA profiles and 3,946,319 metadata from 810 datasets, 174,464 samples, 3,018,672 single cells, and 764,232 spatial spots, spanning 77 cancer subtypes from 8 data sources and 55 cancer initiatives and instituti",
+        "source_url": "https://cna.fengslab.com/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 354,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": " CNAScope now curates and functionally annotates over 334,187 CNA profiles and 286,812 metadata from 354 datasets, 97,203 samples, 71,009 single cells, and 118,600 spatial spots, spanning 82 cancer subtypes from 6 data sources and 55 cancer initiatives ",
+        "source_url": "https://cna.fengslab.com/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 97203,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "curates and functionally annotates over 334,187 CNA profiles and 286,812 metadata from 354 datasets, 97,203 samples, 71,009 single cells, and 118,600 spatial spots, spanning 82 cancer subtypes from 6 data sources and 55 cancer initiatives and institutions",
+        "source_url": "https://cna.fengslab.com/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CanGEM",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HTAN",
+    "category": "Cancer Imaging & Digital Pathology",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Current release: 2,383 cases, 10,608 biospecimens, 15 atlases, 34 assay types",
+    "observed_facts": [
+      {
+        "value": 20,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "evolve from precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2383,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "m precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach Bone Pleur",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HTAN Imaging",
+    "category": "Cancer Imaging & Digital Pathology",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Part of HTAN biospecimen collection",
+    "observed_facts": [
+      {
+        "value": 20,
+        "unit": "organs",
+        "qualifier": "",
+        "evidence": "evolve from precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2383,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "m precancerous lesions to advanced disease. Explore Data Learn more Citing HTAN 15 Atlases 20 Organs 2383 Cases 10608 Biospecimen The latest HTAN data release includes tumors originating from 20 tumor sites: # of Cases 1 10 100 1000 Stomach Bone Pleur",
+        "source_url": "https://data.humantumoratlas.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "IDC",
+    "category": "Cancer Imaging & Digital Pathology",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Recent release ~85,000 cases, >1,000,000 image series, ~99 TB",
+    "observed_facts": [
+      {
+        "value": 176,
+        "unit": "collections",
+        "qualifier": "",
+        "evidence": "cence Previous Next Cases by Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 85682,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "ext Cases by Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability Disclosure |",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 99.27,
+        "unit": "tb",
+        "qualifier": "",
+        "evidence": "Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability Disclosure | No FEAR ",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "IDC",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Recent release ~85,000 cases, >1,000,000 image series, ~99 TB",
+    "observed_facts": [
+      {
+        "value": 176,
+        "unit": "collections",
+        "qualifier": "",
+        "evidence": "cence Previous Next Cases by Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 85682,
+        "unit": "cases",
+        "qualifier": "",
+        "evidence": "ext Cases by Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability Disclosure |",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 99.27,
+        "unit": "tb",
+        "qualifier": "",
+        "evidence": "Major Primary Site Data Portal Summary Data Release 24.0 April 27, 2026 176 Collections 85,682 Cases 99.27 TB Data Volume 1,032,911 Image Series Site Home | Contact Us | Privacy Policy | Accessibility | FOIA | HHS Vulnerability Disclosure | No FEAR ",
+        "source_url": "https://portal.imaging.datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Kaplan-Meier Plotter",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large multi-cancer patient aggregation",
+    "observed_facts": [
+      {
+        "value": 21,
+        "unit": "tumor types",
+        "qualifier": "",
+        "evidence": " between the expression of all genes (mRNA, miRNA, protein, & DNA) and survival in 40k+ samples from 21 tumor types . The clinical subsystem includes 3.55 million patients. Applied statistical tools include Cox proportional hazards regression and the comp",
+        "source_url": "https://kmplot.com/analysis/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PLCO",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "~155,000 participants",
+    "observed_facts": [
+      {
+        "value": 155000,
+        "unit": "participants",
+        "qualifier": "approximately",
+        "evidence": " exams reduce mortality from prostate, lung, colorectal and\n                        ovarian cancer. Approximately 155,000 participants were enrolled between November 1993 and July 2001.\n                        PLCO has the following five ClinicalTrials.gov registration numb",
+        "source_url": "https://cdas.cancer.gov/plco/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CTDC",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Growing; dynamic",
+    "observed_facts": [
+      {
+        "value": 17,
+        "unit": "pb",
+        "qualifier": "",
+        "evidence": "d visualization tools for data analysis in the cloud. Watch CRDC Video 200K+ Subjects / Participants 17PB+ Data 533 Studies 1.2K+ Public Tools and Workflows 100K+ Unique Users / Year 533 Studies 200K+ Subjects / Participants 1.2K+ Public Tools a",
+        "source_url": "https://datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 533,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "tion tools for data analysis in the cloud. Watch CRDC Video 200K+ Subjects / Participants 17PB+ Data 533 Studies 1.2K+ Public Tools and Workflows 100K+ Unique Users / Year 533 Studies 200K+ Subjects / Participants 1.2K+ Public Tools and Workflows 100K+",
+        "source_url": "https://datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PROGgene / PROGgeneV2",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PSDC",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Growing; dynamic",
+    "observed_facts": [
+      {
+        "value": 17,
+        "unit": "pb",
+        "qualifier": "",
+        "evidence": "d visualization tools for data analysis in the cloud. Watch CRDC Video 200K+ Subjects / Participants 17PB+ Data 533 Studies 1.2K+ Public Tools and Workflows 100K+ Unique Users / Year 533 Studies 200K+ Subjects / Participants 1.2K+ Public Tools a",
+        "source_url": "https://datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 533,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "tion tools for data analysis in the cloud. Watch CRDC Video 200K+ Subjects / Participants 17PB+ Data 533 Studies 1.2K+ Public Tools and Workflows 100K+ Unique Users / Year 533 Studies 200K+ Subjects / Participants 1.2K+ Public Tools and Workflows 100K+",
+        "source_url": "https://datacommons.cancer.gov/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TISCH2",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TIDE",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "AIRR Data Commons",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TIMER2",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 500,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TIMEDB",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Not separately reported",
+    "observed_facts": [
+      {
+        "value": 39706,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "ve visualization. Please cite our NAR paper. TIMEDB has three key features: Curated TIME database of 39706 samples and 546 datasets across 43 cancers , including bulk RNA data, clinical data, TIME cell-type composition estimated by 10 state-of-the-art to",
+        "source_url": "https://timedb.deepomics.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 546,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "Please cite our NAR paper. TIMEDB has three key features: Curated TIME database of 39706 samples and 546 datasets across 43 cancers , including bulk RNA data, clinical data, TIME cell-type composition estimated by 10 state-of-the-art tools, C1-C6 subtyp",
+        "source_url": "https://timedb.deepomics.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TISIDB",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='cis.hku.hk', port=443): Max retries exceeded with url: /TISIDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "McPAS-TCR",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='friedmanlab.weizmann.ac.il', port=80): Max retries exceeded with url: /McPAS-TCR/ (Caused by NewConnectionError(\"HTTPConnection(host='friedmanlab.weizmann.ac.il', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Cancer Immunome Database (CID)",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='ludwig-sun5.unil.ch', port=80): Max retries exceeded with url: /CancerImmunomeDB/ (Caused by NameResolutionError(\"HTTPConnection(host='ludwig-sun5.unil.ch', port=80): Failed to resolve 'ludwig-sun5.unil.ch' ([Errno -5] No address associated with hostname)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HPtaa",
+    "category": "Cancer Immunology & Immunotherapy",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GMrepo",
+    "category": "Cancer Microbiome",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='gmrepo.humangut.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gmrepo.humangut.cn', port=443): Failed to resolve 'gmrepo.humangut.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "gutMSNP",
+    "category": "Cancer Microbiome",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='bio-computing.hrbmu.edu.cn', port=443): Max retries exceeded with url: /gutMSNP/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='bio-computing.hrbmu.edu.cn', port=443) at 0x7fdb61801e50>, 'Connection to bio-computing.hrbmu.edu.cn timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HMDB",
+    "category": "Cancer Metabolomics & Lipidomics",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 403,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Metabolomics Workbench",
+    "category": "Cancer Metabolomics & Lipidomics",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Thousands of studies overall",
+    "observed_facts": [
+      {
+        "value": 5110,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "sitory Upload and Manage Studies Browse and Search Studies Analyze Studies As of 09/18/26 a total of 5110 studies have been processed by the National Metabolomics Data Repository (NMDR). There are 4574 publicly available studies and the remainder ( 536 ",
+        "source_url": "https://www.metabolomicsworkbench.org/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "IARC TP53 Database",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GEPIA3",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "TCGA/GTEx-scale; >1,000 therapeutic agents in drug module",
+    "observed_facts": [
+      {
+        "value": 33,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "between gene pairs. eQTLs This module allows users to identify both cis-eQTLs and trans-eQTLs across 33 cancer types derived from The Cancer Genome Atlas (TCGA). RNA Alterations analyses: Allele-Specific Expression This function enables users to identify a",
+        "source_url": "https://gepia3.bioinfoliu.com/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Network of Cancer Genes",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large curated gene set; dynamic",
+    "observed_facts": [
+      {
+        "value": 127,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "e cancer drivers 2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healt",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 41780,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 122,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in codin",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 17,
+        "unit": "studies",
+        "qualifier": "",
+        "evidence": "oding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in coding sequence 0 altered in non-codi",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 32895,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "ivers 37 altered in coding sequence 0 altered in non-coding sequence 18 publications 12 tissue types 32895 donors 9 healthy tissues 3 diseased tissues TIME Drivers Cancer genes interacting with the TIME 201 canonical TIME drivers 201 altered in coding s",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 30,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "andidate TIME drivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for C",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 6921,
+        "unit": "donors",
+        "qualifier": "",
+        "evidence": "ivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for Cancer Evolut",
+        "source_url": "http://network-cancer-genes.org",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ArrayMap",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='arraymap.progenetix.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='arraymap.progenetix.org', port=443): Failed to resolve 'arraymap.progenetix.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GSCALite / GSCA",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='bioinfo.life.hust.edu.cn', port=80): Max retries exceeded with url: /GSCA/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinfo.life.hust.edu.cn', port=80): Failed to resolve 'bioinfo.life.hust.edu.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PRECOG",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Hundreds of cohorts; dynamic",
+    "observed_facts": [
+      {
+        "value": 46000,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "survival. PRECOG includes 335 cancer datasets \n                 with survival or response data for >46,000 patients, covering ~55 malignancies. Gentles/Newman et al. Nature Medicine (2015) Benard/Lalgudi et al. Nucleic Acids Research (2025) Adult Explore ",
+        "source_url": "https://precog.stanford.edu/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "TSGene",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='bioinfo.uth.edu', port=443): Read timed out. (read timeout=25)",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerLivER",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large-scale transcriptomics aggregation",
+    "observed_facts": [
+      {
+        "value": 9600,
+        "unit": "samples",
+        "qualifier": "more than",
+        "evidence": "of CancerLivER Datasets Access This module allows the users to retrieve genes expression dataset of more than 9600 samples (115 datasets) in CancerLivER. It has both searching ( Keyword , Complex ) and browsing ( Profiling technique , Disease condition , Type of",
+        "source_url": "https://webs.iiitd.edu.in/raghava/cancerliver/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 115,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "Access This module allows the users to retrieve genes expression dataset of more than 9600 samples (115 datasets) in CancerLivER. It has both searching ( Keyword , Complex ) and browsing ( Profiling technique , Disease condition , Type of Transcript ) ",
+        "source_url": "https://webs.iiitd.edu.in/raghava/cancerliver/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerSCEM",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Specialized collection; dynamic",
+    "observed_facts": [
+      {
+        "value": 100,
+        "unit": "pb",
+        "qualifier": "",
+        "evidence": "向流感病毒的基因组语言模型Influ-BERT (2026年4月18日) 国家生物信息中心发布单体型网络分析软件HaploThread (2026年3月5日) 组学原始数据归档库GSA用户汇交数据突破100PB (2026年2月22日) 了解更多 新闻动态 第11届生命与健康大数据国际研讨会会议通知 (2026年9月15日) 国家生物信息中心-国家基因组科学数据中心（CNCB-NGDC）多领域培训推动生物信息技术落地应用 赋能行业人才培养 (2026年8月26日) 国家生物信息中心-国",
+        "source_url": "https://ngdc.cncb.ac.cn/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 108,
+        "unit": "pb",
+        "qualifier": "",
+        "evidence": "PU: 460; NPU: 2600），16,576个计算核心，108PB的存储资源，2.7Gbps网络带宽，形成了国内领先的生物大数据云计算平台。 16,576 Cores 3,720 TFlops 108PB Storage 2.7Gb Network 分中心 {{c[1]}} {{c[2]}} 友情链接 其他国家数据中心 国家高能物理科学数据中心 国家微生物科学数据中心 国家空间科学数据中心 国家天文科学数据中心 国家对地观测科学数据中心 国家极地科学数据中心 国家青藏高原科学数据",
+        "source_url": "https://ngdc.cncb.ac.cn/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 2.7,
+        "unit": "gb",
+        "qualifier": "",
+        "evidence": "2600），16,576个计算核心，108PB的存储资源，2.7Gbps网络带宽，形成了国内领先的生物大数据云计算平台。 16,576 Cores 3,720 TFlops 108PB Storage 2.7Gb Network 分中心 {{c[1]}} {{c[2]}} 友情链接 其他国家数据中心 国家高能物理科学数据中心 国家微生物科学数据中心 国家空间科学数据中心 国家天文科学数据中心 国家对地观测科学数据中心 国家极地科学数据中心 国家青藏高原科学数据中心 国家生态科学数据中心 ",
+        "source_url": "https://ngdc.cncb.ac.cn/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CanGEM",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Colorectal Cancer Atlas",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.ccrcatlas.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ccrcatlas.org', port=443): Failed to resolve 'www.ccrcatlas.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "COLT-Cancer",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='colt.ccbr.utoronto.ca', port=80): Max retries exceeded with url: /cancer (Caused by NameResolutionError(\"HTTPConnection(host='colt.ccbr.utoronto.ca', port=80): Failed to resolve 'colt.ccbr.utoronto.ca' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CTR-DB v2.0",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='ctrdb.ncpsb.org.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "dbDEMC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.picb.ac.cn', port=80): Max retries exceeded with url: /dbDEMC/ (Caused by NewConnectionError(\"HTTPConnection(host='www.picb.ac.cn', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "GIDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='gidb.bioinfo-minzhao.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='gidb.bioinfo-minzhao.org', port=80): Failed to resolve 'gidb.bioinfo-minzhao.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Pancreatic Expression Database (PED)",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.pancreasexpression.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pancreasexpression.org'. (_ssl.c:1082)\")))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "BCCTBbp",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='bioinformatics.breastcancertissuebank.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.breastcancertissuebank.org', port=80): Failed to resolve 'bioinformatics.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Breast Cancer Campaign Tissue Bank",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.breastcancertissuebank.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.breastcancertissuebank.org', port=443): Failed to resolve 'www.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerPPD",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Max retries exceeded with url: /raghava/cancerppd/ (Caused by ConnectTimeoutError(<HTTPConnection(host='crdd.osdd.net', port=80) at 0x7fdb6186f460>, 'Connection to crdd.osdd.net timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Candidate Cancer Gene Database",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='ccgd-starrlab.oit.umn.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CCGD-ESCC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='db.cbi.pku.edu.cn', port=80): Max retries exceeded with url: /ccgd/ (Caused by NameResolutionError(\"HTTPConnection(host='db.cbi.pku.edu.cn', port=80): Failed to resolve 'db.cbi.pku.edu.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "ccmGDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='bioinfo.uth.edu', port=443): Read timed out. (read timeout=25)",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CellLineNavigator",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.medicalgenomics.org', port=443): Max retries exceeded with url: /celllinenavigator/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CGAP",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CMPD",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='bioinformatics.bioe.uic.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.bioe.uic.edu', port=80): Failed to resolve 'bioinformatics.bioe.uic.edu' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "dbDEPC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/index.do (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "FusionCancer",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "OncoDB.HCC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='oncodb.hcc.ibms.sinica.edu.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='oncodb.hcc.ibms.sinica.edu.tw', port=80) at 0x7fdb6186ead0>, 'Connection to oncodb.hcc.ibms.sinica.edu.tw timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "BreCAN-DB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='14.139.32.56', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='14.139.32.56', port=80) at 0x7fdb6186e8b0>, 'Connection to 14.139.32.56 timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CancerMA",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='www.cancerma.org.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cancerma.org.uk', port=80): Failed to resolve 'www.cancerma.org.uk' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DIVAS",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='divas.uth.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='divas.uth.edu', port=443): Failed to resolve 'divas.uth.edu' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "OncoReveal",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "Rare Cancer Explorer (RaCE)",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "13 rare tumor types",
+    "observed_facts": [
+      {
+        "value": 13,
+        "unit": "datasets",
+        "qualifier": "",
+        "evidence": "e cancer research. title content Number of datasets 69 Number of samples 5451 Number of cancer types 13 Datasets This database includes more than 50 different cancer datasets.\nThese datasets encompass a wide range of cancer types, providing comprehensi",
+        "source_url": "https://biospace.shinyapps.io/race/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 900,
+        "unit": "cell lines",
+        "qualifier": "",
+        "evidence": "ows for rapid, viability screening of more than 900 human cancer cell-line models in mixtures. These 900 cell lines represent more than 45 major lineages of cancer. https://www.theprismlab.org/ Basic Methods Test Set:\nA total of 13 cancer types were used,",
+        "source_url": "https://biospace.shinyapps.io/race/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 13,
+        "unit": "cancer types",
+        "qualifier": "",
+        "evidence": "re than 45 major lineages of cancer. https://www.theprismlab.org/ Basic Methods Test Set:\nA total of 13 cancer types were used, with one representative dataset selected for each cancer type as the test set. Training Set:\nGDSC2、CTRP2、PRISM Analysis Method a",
+        "source_url": "https://biospace.shinyapps.io/race/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CCDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Max retries exceeded with url: /raghava/ccdb/ (Caused by ConnectTimeoutError(<HTTPConnection(host='crdd.osdd.net', port=80) at 0x7fdb6186e470>, 'Connection to crdd.osdd.net timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "CGED",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='cged.hgc.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cged.hgc.jp', port=80): Failed to resolve 'cged.hgc.jp' ([Errno -2] Name or service not known)\"))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "DDPC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 503,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "G2SBC",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "HLungDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "PubMeth",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='matrix.ugent.be', port=80): Max retries exceeded with url: /pubmeth/ (Caused by ConnectTimeoutError(<HTTPConnection(host='matrix.ugent.be', port=80) at 0x7fdb6186fbd0>, 'Connection to matrix.ugent.be timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  },
+  {
+    "resource": "RCDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "",
+    "http_status": 404,
+    "checked_at": "2026-09-18T23:47:56+00:00"
+  }
+]

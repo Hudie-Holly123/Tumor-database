@@ -1,4 +1,4 @@
-window.CANCER_RESOURCE_DATA = {
+{
   "version": "2026-09",
   "generatedFrom": "Cancer_Data_Resource_Master_Directory_Clean_Standardized_2026.xlsx",
   "lastChecked": "2026-09-18",
@@ -8753,4 +8753,4 @@ window.CANCER_RESOURCE_DATA = {
   "lastLiveVerification": "2026-09-18T23:47:56+00:00",
   "verificationCount": 255,
   "verificationPolicy": "Evidence-first: live observations never silently overwrite curated scientific fields."
-};
+}
