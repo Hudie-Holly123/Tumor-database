@@ -1,9 +1,11 @@
 name: Verify and update cancer resources
 
 on:
+  # Automatically run every Monday
   schedule:
-    # Run automatically every Monday
     - cron: '17 6 * * 1'
+
+  # Allow manual runs from the GitHub Actions page
   workflow_dispatch:
 
 permissions:
@@ -14,35 +16,77 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Download the repository
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Set up Python
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
+      # 3. Install Python dependencies
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      # 4. Rebuild website data from the master Excel file
       - name: Rebuild curated website data from Excel
-        run: python scripts/build_data.py Cancer_Data_Resource_Master_Directory_Clean_Standardized_2026.xlsx data/resources.json
+        run: >
+          python scripts/build_data.py
+          Cancer_Data_Resource_Master_Directory_Clean_Standardized_2026.xlsx
+          data/resources.json
 
+      # 5. Check official resource websites and collect evidence
       - name: Verify official resource websites
-        run: python scripts/verify_dynamic.py data/resources.json data/evidence.json data/review_queue.json data/resources_live.json
+        run: >
+          python scripts/verify_dynamic.py
+          data/resources.json
+          data/evidence.json
+          data/review_queue.json
+          data/resources_live.json
 
+      # 6. Merge verification results into website data
       - name: Build updated website data
-        run: python scripts/merge_live_verification.py data/resources.json data/resources_live.json data/resources.js
+        run: >
+          python scripts/merge_live_verification.py
+          data/resources.json
+          data/resources_live.json
+          data/resources.js
 
+      # 7. Look for new cancer-related candidates from NAR
+      # Failure here will NOT stop the rest of the workflow
       - name: Discover new NAR cancer resource candidates
         continue-on-error: true
-        run: python scripts/discover_nar_candidates.py data/nar_candidates.json
+        run: >
+          python scripts/discover_nar_candidates.py
+          data/nar_candidates.json
 
+      # 8. Save updated verification results back to GitHub
       - name: Commit updated verification data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/resources.json data/resources.js data/resources_live.json data/evidence.json data/review_queue.json data/nar_candidates.json
-          git diff --cached --quiet && exit 0
-          git commit -m "chore: verify official cancer resource sources"
+
+          # Add the core files that should be generated
+          git add data/resources.json
+          git add data/resources.js
+          git add data/resources_live.json
+          git add data/evidence.json
+          git add data/review_queue.json
+
+          # nar_candidates.json is optional.
+          # Only add it if the discovery script actually created it.
+          if [ -f data/nar_candidates.json ]; then
+            git add data/nar_candidates.json
+          fi
+
+          # If nothing changed, finish successfully.
+          if git diff --cached --quiet; then
+            echo "No verification changes detected."
+            exit 0
+          fi
+
+          # Commit and push updated data
+          git commit -m "chore: update cancer resource verification"
           git push
