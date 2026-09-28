@@ -14,7 +14,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HTAN",
@@ -39,7 +39,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ICGC-ARGO",
@@ -75,12 +75,12 @@
         "value": 20,
         "unit": "tumour types",
         "qualifier": "",
-        "evidence": "ore 7,056 donors in the ICGC ARGO data platform Browse the Data 63,116 committed donors representing 20 tumour types Find out more Latest News View all news Program Spotlight: Mutographs, reading the geography of cancer causation Mutographs asks what a tum",
+        "evidence": "ore 7,056 donors in the ICGC ARGO data platform Browse the Data 63,116 committed donors representing 20 tumour types Find out more Latest News View all news Landmark global initiative sets out a new roadmap for equitable precision oncology An international",
         "source_url": "https://www.icgc-argo.org/",
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CGGA",
@@ -113,7 +113,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HCMI",
@@ -121,7 +121,15 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "St. Jude Cloud",
+    "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.stjude.cloud', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Expression Atlas",
@@ -138,7 +146,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HTAN",
@@ -163,15 +171,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TISCH",
     "category": "Cancer Single-Cell Data Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPSConnectionPool(host='tisch.comp-genomics.org', port=443): Read timed out. (read timeout=25)",
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TISCH2",
@@ -179,7 +187,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='tisch.comp-genomics.org', port=443): Read timed out. (read timeout=25)",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Broad Single Cell Portal",
@@ -188,23 +196,23 @@
     "curated_data_amount": "Hundreds of studies overall",
     "observed_facts": [
       {
-        "value": 1043,
+        "value": 1048,
         "unit": "studies",
         "qualifier": "",
-        "evidence": "ate study Sign in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1043 studies 87,217,342 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Priv",
+        "evidence": "ate study Sign in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1048 studies 87,656,703 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Priv",
         "source_url": "https://singlecell.broadinstitute.org/single_cell",
         "confidence": "observed_official_page"
       },
       {
-        "value": 87217342,
+        "value": 87656703,
         "unit": "cells",
         "qualifier": "",
-        "evidence": "n in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1043 studies 87,217,342 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Privacy Policy Terms ",
+        "evidence": "n in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1048 studies 87,656,703 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Privacy Policy Terms ",
         "source_url": "https://singlecell.broadinstitute.org/single_cell",
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Single Cell Expression Atlas",
@@ -229,24 +237,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerSEA",
     "category": "Cancer Single-Cell Data Resources",
-    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
-    "curated_data_amount": "Specialized cancer single-cell collection",
-    "observed_facts": [
-      {
-        "value": 25,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "ctional state atlas, involving\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t14 functional states of 41,900 cancer single cells from 25\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tcancer types. Querying which functional states the gene (including PCG and\n\t\t\t\t\t\t\t\t\t\t\t\t\t\tlncRNA) or gene list of interest is related to across different",
-        "source_url": "http://biocc.hrbmu.edu.cn/CancerSEA/",
-        "confidence": "observed_official_page"
-      }
-    ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPConnectionPool(host='biocc.hrbmu.edu.cn', port=80): Max retries exceeded with url: /CancerSEA/ (Caused by NewConnectionError(\"HTTPConnection(host='biocc.hrbmu.edu.cn', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TE-SCALE",
@@ -295,7 +294,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HTAN",
@@ -320,7 +319,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "10x Genomics Public Datasets",
@@ -328,7 +327,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 429,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CosMx Public Datasets",
@@ -345,7 +344,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "STOmicsDB",
@@ -354,18 +353,18 @@
     "curated_data_amount": "Large curated spatial collection",
     "observed_facts": [
       {
-        "value": 377,
+        "value": 378,
         "unit": "datasets",
         "qualifier": "",
-        "evidence": "ent tools for Data analysis, search and visualization. All arrow_drop_down Search 7,339 Publications 377 Datasets 17 Species 128 Tissues 16,231 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOm",
+        "evidence": "ent tools for Data analysis, search and visualization. All arrow_drop_down Search 7,339 Publications 378 Datasets 17 Species 128 Tissues 16,239 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOm",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
       {
-        "value": 16231,
+        "value": 16239,
         "unit": "samples",
         "qualifier": "",
-        "evidence": "and visualization. All arrow_drop_down Search 7,339 Publications 377 Datasets 17 Species 128 Tissues 16,231 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOmicsDB Submit Example Data Visualizatio",
+        "evidence": "and visualization. All arrow_drop_down Search 7,339 Publications 378 Datasets 17 Species 128 Tissues 16,239 Samples Submission See more difference >>> Data Archive Deposit sequencing data and expression data into STOmicsDB Submit Example Data Visualizatio",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -373,7 +372,7 @@
         "value": 175,
         "unit": "datasets",
         "qualifier": "",
-        "evidence": "ization for expression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cyno",
+        "evidence": "ization for expression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cyno",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -381,7 +380,7 @@
         "value": 5461,
         "unit": "samples",
         "qualifier": "",
-        "evidence": "xpression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys",
+        "evidence": "xpression data and present analysis results Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -389,15 +388,15 @@
         "value": 177,
         "unit": "datasets",
         "qualifier": "",
-        "evidence": "ts Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegic",
+        "evidence": "ts Submit Example Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegic",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
       {
-        "value": 9273,
+        "value": 9281,
         "unit": "samples",
         "qualifier": "",
-        "evidence": "mple Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) ",
+        "evidence": "mple Species Homo sapiens (Human) 175 Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) ",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -405,7 +404,7 @@
         "value": 4,
         "unit": "datasets",
         "qualifier": "",
-        "evidence": "Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus",
+        "evidence": "Datasets 5,461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -413,7 +412,7 @@
         "value": 60,
         "unit": "samples",
         "qualifier": "",
-        "evidence": "461 Samples Mus musculus (House mouse) 177 Datasets 9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) ",
+        "evidence": "461 Samples Mus musculus (House mouse) 177 Datasets 9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) ",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -421,7 +420,7 @@
         "value": 5,
         "unit": "datasets",
         "qualifier": "",
-        "evidence": "9,273 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) ",
+        "evidence": "9,281 Samples Danio rerio (Zebrafish) 4 Datasets 60 Samples Macaca fascicularis (Cynomolgus monkeys) 5 Datasets 104 Samples Rattus norvegicus (Brownrat) 3 Datasets 26 Samples Gallus gallus (Chicken) 2 Datasets 15 Samples Ambystoma mexicanum (Axolotl) ",
         "source_url": "https://db.cngb.org/stomics/",
         "confidence": "observed_official_page"
       },
@@ -554,7 +553,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "SpatialDB",
@@ -562,7 +561,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.spatialomics.org', port=443): Max retries exceeded with url: /SpatialDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DeepSpaceDB",
@@ -579,7 +578,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "So3D",
+    "category": "Spatial Transcriptomics & Spatial Omics",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='so3d.bio-database.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ProteomeXchange",
@@ -587,7 +594,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.proteomecentral.proteomexchange.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.proteomecentral.proteomexchange.org', port=80): Failed to resolve 'www.proteomecentral.proteomexchange.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CanProVar",
@@ -595,7 +602,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 502,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "dbDEPC",
@@ -603,7 +610,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/ (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DepMap",
@@ -620,7 +627,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GDSC",
@@ -637,7 +644,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GDSC",
@@ -645,7 +652,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 410,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Project Achilles",
@@ -662,7 +669,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PDX Finder",
@@ -670,7 +677,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.pdxfinder.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pdxfinder.org'. (_ssl.c:1082)\")))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "BioGRID ORCS",
@@ -687,7 +694,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DepMap",
@@ -704,7 +711,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GDSC",
@@ -721,7 +728,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GDSC",
@@ -729,7 +736,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 410,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Connectivity Map / CLUE",
@@ -770,7 +777,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DrugBank",
@@ -778,7 +785,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PRISM",
@@ -795,7 +802,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CellMinerCDB",
@@ -820,7 +827,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CTRP",
@@ -837,7 +844,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerDR",
@@ -845,7 +852,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='bioinf-mini.iitd.ac.in', port=80): Max retries exceeded with url: /cancer_drug/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinf-mini.iitd.ac.in', port=80): Failed to resolve 'bioinf-mini.iitd.ac.in' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ClinicalOmicsDB",
@@ -853,15 +860,15 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='clinicalomicsdb.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='clinicalomicsdb.org', port=443): Failed to resolve 'clinicalomicsdb.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DrugComb",
     "category": "Cancer Drug Response & Resistance",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPSConnectionPool(host='drugcomb.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='drugcomb.org', port=443) at 0x7f47f8684f50>, 'Connection to drugcomb.org timed out. (connect timeout=25)'))",
+    "error": "HTTPSConnectionPool(host='drugcomb.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='drugcomb.org', port=443) at 0x7f99d7365090>, 'Connection to drugcomb.org timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DRMref",
@@ -869,15 +876,15 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ncRNADrug",
     "category": "Cancer Drug Response & Resistance",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPSConnectionPool(host='www.jianglab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jianglab.cn', port=443) at 0x7f47f8685310>, 'Connection to www.jianglab.cn timed out. (connect timeout=25)'))",
+    "error": "HTTPSConnectionPool(host='www.jianglab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jianglab.cn', port=443) at 0x7f99d7ce1e50>, 'Connection to www.jianglab.cn timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PMADS",
@@ -894,7 +901,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "VARIDT",
@@ -943,7 +950,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "UCSC Cancer Genomics Browser",
@@ -951,7 +958,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "UCSC Xena",
@@ -959,7 +966,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='xena.ucsc.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ChimerDB",
@@ -967,7 +974,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.chimerdb.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.chimerdb.net', port=443): Failed to resolve 'www.chimerdb.net' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DriverDBv4",
@@ -975,7 +982,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "intOGen",
@@ -992,7 +999,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "IntOGen",
@@ -1009,7 +1016,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "OncoDB 2.0",
@@ -1034,7 +1041,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PRECOG update",
@@ -1051,7 +1058,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "UALCAN",
@@ -1068,15 +1075,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Cancer RNA-Seq Nexus",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPConnectionPool(host='syslab4.nchu.edu.tw', port=80): Max retries exceeded with url: /CRN (Caused by ConnectTimeoutError(<HTTPConnection(host='syslab4.nchu.edu.tw', port=80) at 0x7f47f847d8c0>, 'Connection to syslab4.nchu.edu.tw timed out. (connect timeout=25)'))",
+    "error": "HTTPConnectionPool(host='syslab4.nchu.edu.tw', port=80): Max retries exceeded with url: /CRN (Caused by ConnectTimeoutError(<HTTPConnection(host='syslab4.nchu.edu.tw', port=80) at 0x7f99d7d4bf00>, 'Connection to syslab4.nchu.edu.tw timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "IARC TP53 Database",
@@ -1084,7 +1091,7 @@
     "reason": "Official URL could not be verified.",
     "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "MethHC",
@@ -1092,7 +1099,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='methhc.mbc.nctu.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methhc.mbc.nctu.edu.tw', port=80): Failed to resolve 'methhc.mbc.nctu.edu.tw' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Network of Cancer Genes (NCG)",
@@ -1157,7 +1164,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Progenetix",
@@ -1165,7 +1172,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "BioMuta",
@@ -1173,7 +1180,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='hive.biochemistry.gwu.edu', port=443): Max retries exceeded with url: /biomuta/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CaSNP",
@@ -1181,7 +1188,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "MethyCancer",
@@ -1189,7 +1196,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='methycancer.psych.ac.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methycancer.psych.ac.cn', port=80): Failed to resolve 'methycancer.psych.ac.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Tumor Associated Gene database",
@@ -1197,7 +1204,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.binfo.ncku.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.binfo.ncku.edu.tw', port=80): Failed to resolve 'www.binfo.ncku.edu.tw' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CNAScope",
@@ -1238,7 +1245,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CanGEM",
@@ -1246,7 +1253,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HTAN",
@@ -1271,7 +1278,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "TCIA",
+    "category": "Cancer Imaging & Digital Pathology",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.cancerimagingarchive.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cancerimagingarchive.net', port=443) at 0x7f99d7366490>, 'Connection to www.cancerimagingarchive.net timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HTAN Imaging",
@@ -1296,7 +1311,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "IDC",
@@ -1329,7 +1344,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "TCIA",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.cancerimagingarchive.net', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.cancerimagingarchive.net', port=443) at 0x7f99d7366490>, 'Connection to www.cancerimagingarchive.net timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "IDC",
@@ -1362,7 +1385,24 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "Kaplan-Meier Plotter",
+    "category": "Cancer Clinical / Epidemiology / Outcomes",
+    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
+    "curated_data_amount": "Large multi-cancer patient aggregation",
+    "observed_facts": [
+      {
+        "value": 21,
+        "unit": "tumor types",
+        "qualifier": "",
+        "evidence": " between the expression of all genes (mRNA, miRNA, protein, & DNA) and survival in 40k+ samples from 21 tumor types . The clinical subsystem includes 3.55 million patients. Applied statistical tools include Cox proportional hazards regression and the comp",
+        "source_url": "https://kmplot.com/analysis/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PLCO",
@@ -1379,7 +1419,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CTDC",
@@ -1404,7 +1444,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PROGgene / PROGgeneV2",
@@ -1412,7 +1452,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PSDC",
@@ -1437,7 +1477,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TISCH2",
@@ -1445,7 +1485,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='tisch.comp-genomics.org', port=443): Read timed out. (read timeout=25)",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TIDE",
@@ -1453,7 +1493,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "AIRR Data Commons",
@@ -1461,40 +1501,15 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
-  },
-  {
-    "resource": "TIMER2",
-    "category": "Cancer Immunology & Immunotherapy",
-    "reason": "Official URL could not be verified.",
-    "error": "",
-    "http_status": 500,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TIMEDB",
     "category": "Cancer Immunology & Immunotherapy",
-    "reason": "Current quantitative facts observed on official page; compare with curated fields before accepting.",
-    "curated_data_amount": "Not separately reported",
-    "observed_facts": [
-      {
-        "value": 39706,
-        "unit": "samples",
-        "qualifier": "",
-        "evidence": "ve visualization. Please cite our NAR paper. TIMEDB has three key features: Curated TIME database of 39706 samples and 546 datasets across 43 cancers , including bulk RNA data, clinical data, TIME cell-type composition estimated by 10 state-of-the-art to",
-        "source_url": "https://timedb.deepomics.org/",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 546,
-        "unit": "datasets",
-        "qualifier": "",
-        "evidence": "Please cite our NAR paper. TIMEDB has three key features: Curated TIME database of 39706 samples and 546 datasets across 43 cancers , including bulk RNA data, clinical data, TIME cell-type composition estimated by 10 state-of-the-art tools, C1-C6 subtyp",
-        "source_url": "https://timedb.deepomics.org/",
-        "confidence": "observed_official_page"
-      }
-    ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='timedb.deepomics.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TISIDB",
@@ -1502,7 +1517,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='cis.hku.hk', port=443): Max retries exceeded with url: /TISIDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "McPAS-TCR",
@@ -1510,7 +1525,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='friedmanlab.weizmann.ac.il', port=80): Max retries exceeded with url: /McPAS-TCR/ (Caused by NewConnectionError(\"HTTPConnection(host='friedmanlab.weizmann.ac.il', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Cancer Immunome Database (CID)",
@@ -1518,15 +1533,15 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='ludwig-sun5.unil.ch', port=80): Max retries exceeded with url: /CancerImmunomeDB/ (Caused by NameResolutionError(\"HTTPConnection(host='ludwig-sun5.unil.ch', port=80): Failed to resolve 'ludwig-sun5.unil.ch' ([Errno -5] No address associated with hostname)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HPtaa",
     "category": "Cancer Immunology & Immunotherapy",
     "reason": "Official URL could not be verified.",
-    "error": "",
-    "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GMrepo",
@@ -1534,7 +1549,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='gmrepo.humangut.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gmrepo.humangut.cn', port=443): Failed to resolve 'gmrepo.humangut.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HMDB",
@@ -1542,7 +1557,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 403,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Metabolomics Workbench",
@@ -1551,15 +1566,23 @@
     "curated_data_amount": "Thousands of studies overall",
     "observed_facts": [
       {
-        "value": 5112,
+        "value": 5158,
         "unit": "studies",
         "qualifier": "",
-        "evidence": "sitory Upload and Manage Studies Browse and Search Studies Analyze Studies As of 09/20/26 a total of 5112 studies have been processed by the National Metabolomics Data Repository (NMDR). There are 4581 publicly available studies and the remainder ( 531 ",
+        "evidence": "sitory Upload and Manage Studies Browse and Search Studies Analyze Studies As of 09/27/26 a total of 5158 studies have been processed by the National Metabolomics Data Repository (NMDR). There are 4590 publicly available studies and the remainder ( 568 ",
+        "source_url": "https://www.metabolomicsworkbench.org/",
+        "confidence": "observed_official_page"
+      },
+      {
+        "value": 480,
+        "unit": "cells",
+        "qualifier": "",
+        "evidence": "niversity ST005225 - Metabolomic profiling of aldehyde dehydrogenase 1B1-dependent metabolites in SW480 cells ; Homo sapiens ; Stanford University MetStat: View most frequently encountered metabolites in NMDR (mapped to RefMet) NMDR submissions from",
         "source_url": "https://www.metabolomicsworkbench.org/",
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "IARC TP53 Database",
@@ -1567,7 +1590,7 @@
     "reason": "Official URL could not be verified.",
     "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GEPIA3",
@@ -1584,7 +1607,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Network of Cancer Genes",
@@ -1649,7 +1672,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ArrayMap",
@@ -1657,7 +1680,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='arraymap.progenetix.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='arraymap.progenetix.org', port=443): Failed to resolve 'arraymap.progenetix.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GSCALite / GSCA",
@@ -1665,7 +1688,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='bioinfo.life.hust.edu.cn', port=80): Max retries exceeded with url: /GSCA/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinfo.life.hust.edu.cn', port=80): Failed to resolve 'bioinfo.life.hust.edu.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PRECOG",
@@ -1682,15 +1705,15 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "TSGene",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPSConnectionPool(host='bioinfo.uth.edu', port=443): Read timed out. (read timeout=25)",
-    "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "error": "",
+    "http_status": 522,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerLivER",
@@ -1715,7 +1738,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerSCEM",
@@ -1748,7 +1771,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CanGEM",
@@ -1756,7 +1779,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Colorectal Cancer Atlas",
@@ -1764,7 +1787,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.ccrcatlas.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ccrcatlas.org', port=443): Failed to resolve 'www.ccrcatlas.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "COLT-Cancer",
@@ -1772,7 +1795,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='colt.ccbr.utoronto.ca', port=80): Max retries exceeded with url: /cancer (Caused by NameResolutionError(\"HTTPConnection(host='colt.ccbr.utoronto.ca', port=80): Failed to resolve 'colt.ccbr.utoronto.ca' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CTR-DB v2.0",
@@ -1780,7 +1803,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='ctrdb.ncpsb.org.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "dbDEMC",
@@ -1788,7 +1811,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.picb.ac.cn', port=80): Max retries exceeded with url: /dbDEMC/ (Caused by NewConnectionError(\"HTTPConnection(host='www.picb.ac.cn', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "GIDB",
@@ -1796,7 +1819,23 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='gidb.bioinfo-minzhao.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='gidb.bioinfo-minzhao.org', port=80): Failed to resolve 'gidb.bioinfo-minzhao.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "HCCDB",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "('Connection broken: IncompleteRead(108229 bytes read, 5422 more expected)', IncompleteRead(108229 bytes read, 5422 more expected))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "Lung Cancer Explorer (LCE)",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='lce.biohpc.swmed.edu', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='lce.biohpc.swmed.edu', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Pancreatic Expression Database (PED)",
@@ -1804,7 +1843,15 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.pancreasexpression.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pancreasexpression.org'. (_ssl.c:1082)\")))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
+  },
+  {
+    "resource": "PROMISE",
+    "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
+    "reason": "Official URL could not be verified.",
+    "error": "HTTPSConnectionPool(host='www.prostatecancerpromise.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.prostatecancerpromise.org', port=443) at 0x7f99d7ce2850>, 'Connection to www.prostatecancerpromise.org timed out. (connect timeout=25)'))",
+    "http_status": null,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "BCCTBbp",
@@ -1812,7 +1859,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='bioinformatics.breastcancertissuebank.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.breastcancertissuebank.org', port=80): Failed to resolve 'bioinformatics.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Breast Cancer Campaign Tissue Bank",
@@ -1820,15 +1867,15 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.breastcancertissuebank.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.breastcancertissuebank.org', port=443): Failed to resolve 'www.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerPPD",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Read timed out. (read timeout=25)",
+    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Max retries exceeded with url: /raghava/cancerppd/ (Caused by ConnectTimeoutError(<HTTPConnection(host='crdd.osdd.net', port=80) at 0x7f99d7319260>, 'Connection to crdd.osdd.net timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Candidate Cancer Gene Database",
@@ -1836,7 +1883,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='ccgd-starrlab.oit.umn.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CCGD-ESCC",
@@ -1844,15 +1891,15 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='db.cbi.pku.edu.cn', port=80): Max retries exceeded with url: /ccgd/ (Caused by NameResolutionError(\"HTTPConnection(host='db.cbi.pku.edu.cn', port=80): Failed to resolve 'db.cbi.pku.edu.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "ccmGDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPSConnectionPool(host='bioinfo.uth.edu', port=443): Read timed out. (read timeout=25)",
-    "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "error": "",
+    "http_status": 522,
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CellLineNavigator",
@@ -1860,7 +1907,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='www.medicalgenomics.org', port=443): Max retries exceeded with url: /celllinenavigator/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CGAP",
@@ -1868,7 +1915,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CMPD",
@@ -1876,7 +1923,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='bioinformatics.bioe.uic.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.bioe.uic.edu', port=80): Failed to resolve 'bioinformatics.bioe.uic.edu' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "dbDEPC",
@@ -1884,7 +1931,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/index.do (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "FusionCancer",
@@ -1892,23 +1939,23 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "OncoDB.HCC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPConnectionPool(host='oncodb.hcc.ibms.sinica.edu.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='oncodb.hcc.ibms.sinica.edu.tw', port=80) at 0x7f47f8b6e7a0>, 'Connection to oncodb.hcc.ibms.sinica.edu.tw timed out. (connect timeout=25)'))",
+    "error": "HTTPConnectionPool(host='oncodb.hcc.ibms.sinica.edu.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='oncodb.hcc.ibms.sinica.edu.tw', port=80) at 0x7f99d7318f30>, 'Connection to oncodb.hcc.ibms.sinica.edu.tw timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "BreCAN-DB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPConnectionPool(host='14.139.32.56', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='14.139.32.56', port=80) at 0x7f47f8b6f020>, 'Connection to 14.139.32.56 timed out. (connect timeout=25)'))",
+    "error": "HTTPConnectionPool(host='14.139.32.56', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='14.139.32.56', port=80) at 0x7f99d7318e20>, 'Connection to 14.139.32.56 timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CancerMA",
@@ -1916,7 +1963,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='www.cancerma.org.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cancerma.org.uk', port=80): Failed to resolve 'www.cancerma.org.uk' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DIVAS",
@@ -1924,7 +1971,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPSConnectionPool(host='divas.uth.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='divas.uth.edu', port=443): Failed to resolve 'divas.uth.edu' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "OncoReveal",
@@ -1932,7 +1979,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "Rare Cancer Explorer (RaCE)",
@@ -1965,7 +2012,7 @@
         "confidence": "observed_official_page"
       }
     ],
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CCDB",
@@ -1973,7 +2020,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Read timed out. (read timeout=25)",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "CGED",
@@ -1981,7 +2028,7 @@
     "reason": "Official URL could not be verified.",
     "error": "HTTPConnectionPool(host='cged.hgc.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cged.hgc.jp', port=80): Failed to resolve 'cged.hgc.jp' ([Errno -2] Name or service not known)\"))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "DDPC",
@@ -1989,7 +2036,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 503,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "G2SBC",
@@ -1997,7 +2044,7 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "HLungDB",
@@ -2005,15 +2052,15 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "PubMeth",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
     "reason": "Official URL could not be verified.",
-    "error": "HTTPConnectionPool(host='matrix.ugent.be', port=80): Max retries exceeded with url: /pubmeth/ (Caused by ConnectTimeoutError(<HTTPConnection(host='matrix.ugent.be', port=80) at 0x7f47f8b6fce0>, 'Connection to matrix.ugent.be timed out. (connect timeout=25)'))",
+    "error": "HTTPConnectionPool(host='matrix.ugent.be', port=80): Max retries exceeded with url: /pubmeth/ (Caused by ConnectTimeoutError(<HTTPConnection(host='matrix.ugent.be', port=80) at 0x7f99d7d4bbd0>, 'Connection to matrix.ugent.be timed out. (connect timeout=25)'))",
     "http_status": null,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   },
   {
     "resource": "RCDB",
@@ -2021,6 +2068,6 @@
     "reason": "Official URL could not be verified.",
     "error": "",
     "http_status": 404,
-    "checked_at": "2026-09-21T06:34:21+00:00"
+    "checked_at": "2026-09-28T06:36:21+00:00"
   }
 ]
