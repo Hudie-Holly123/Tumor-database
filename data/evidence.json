@@ -2,7 +2,7 @@
   {
     "resource": "GDC",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.gdc.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -11,13 +11,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 314,
+    "response_ms": 99,
     "content_hash": "8b8c253cf22766cc2102"
   },
   {
     "resource": "TCGA",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancer.gov/ccg/research/genome-sequencing/tcga",
     "ok": true,
     "http_status": 200,
@@ -35,13 +35,13 @@
       }
     ],
     "error": "",
-    "response_ms": 161,
-    "content_hash": "3a1eaa1343a7fc6efbc5"
+    "response_ms": 157,
+    "content_hash": "f66d84c3931cda167ea2"
   },
   {
     "resource": "AACR Project GENIE",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.aacr.org/professionals/research/aacr-project-genie/",
     "ok": true,
     "http_status": 200,
@@ -50,13 +50,13 @@
     "title": "Home - AACR Project GENIE",
     "facts": [],
     "error": "",
-    "response_ms": 2138,
-    "content_hash": "821e5e89cb58585464f1"
+    "response_ms": 1765,
+    "content_hash": "fba9947e29556b21892b"
   },
   {
     "resource": "CPTAC",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomics.cancer.gov/programs/cptac",
     "ok": true,
     "http_status": 200,
@@ -65,13 +65,13 @@
     "title": "Office of Cancer Clinical Proteomics Research (OCCPR) - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 1026,
-    "content_hash": "9dd1d296b689cbb1c2d3"
+    "response_ms": 358,
+    "content_hash": "8bedd502e0ad7db49601"
   },
   {
     "resource": "HTAN",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://data.humantumoratlas.org/",
     "ok": true,
     "http_status": 200,
@@ -97,13 +97,13 @@
       }
     ],
     "error": "",
-    "response_ms": 369,
+    "response_ms": 387,
     "content_hash": "304ff2709180e10eca0a"
   },
   {
     "resource": "ICGC",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://dcc.icgc.org/",
     "ok": true,
     "http_status": 200,
@@ -112,13 +112,13 @@
     "title": "ICGC Data Portal | Retirement Notice",
     "facts": [],
     "error": "",
-    "response_ms": 282,
+    "response_ms": 323,
     "content_hash": "ab9a309d4b91af398430"
   },
   {
     "resource": "ICGC-ARGO",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.icgc-argo.org/",
     "ok": true,
     "http_status": 200,
@@ -160,13 +160,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1729,
-    "content_hash": "cb36be1ad780d86c9bfc"
+    "response_ms": 1892,
+    "content_hash": "bfc9e81335eeb1c90082"
   },
   {
     "resource": "PCAWG",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://dcc.icgc.org/pcawg",
     "ok": true,
     "http_status": 200,
@@ -175,13 +175,13 @@
     "title": "ICGC Data Portal | Retirement Notice",
     "facts": [],
     "error": "",
-    "response_ms": 36,
+    "response_ms": 125,
     "content_hash": "ab9a309d4b91af398430"
   },
   {
     "resource": "CGGA",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cgga.org.cn/",
     "ok": true,
     "http_status": 200,
@@ -215,13 +215,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1970,
+    "response_ms": 1981,
     "content_hash": "de6dadc6f0132539a988"
   },
   {
     "resource": "METABRIC",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cbioportal.org/",
     "ok": true,
     "http_status": 200,
@@ -230,13 +230,13 @@
     "title": "cBioPortal for Cancer Genomics",
     "facts": [],
     "error": "",
-    "response_ms": 403,
-    "content_hash": "e80d6a284f36b0d8a94f"
+    "response_ms": 357,
+    "content_hash": "f5e6c6466ed17c9dd926"
   },
   {
     "resource": "TARGET",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancer.gov/ccg/research/genome-sequencing/target",
     "ok": true,
     "http_status": 200,
@@ -245,13 +245,13 @@
     "title": "Therapeutically Applicable Research to Generate Effective Treatments (TARGET) - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 96,
-    "content_hash": "6947d8ba170e9c0567b8"
+    "response_ms": 60,
+    "content_hash": "ba87f784544d94baf272"
   },
   {
     "resource": "CBTN",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cbtn.org/",
     "ok": true,
     "http_status": 200,
@@ -260,13 +260,13 @@
     "title": "Children's Brain Tumor Network - United We Cure",
     "facts": [],
     "error": "",
-    "response_ms": 358,
-    "content_hash": "da41b08e8348ed4ffa6e"
+    "response_ms": 262,
+    "content_hash": "c9aeb523ee0796b94d9d"
   },
   {
     "resource": "HCMI",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancer.gov/research/key-initiatives/hcmi",
     "ok": false,
     "http_status": 404,
@@ -275,13 +275,13 @@
     "title": "Page Not Found - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 1210,
-    "content_hash": "b1ad0b364c5424c35139"
+    "response_ms": 360,
+    "content_hash": "9a14b6b73f6aee93ccc3"
   },
   {
     "resource": "MMRF CoMMpass",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://research.themmrf.org/",
     "ok": true,
     "http_status": 200,
@@ -290,13 +290,13 @@
     "title": "MMRF Virtual Lab® Access Request - Intellistack",
     "facts": [],
     "error": "",
-    "response_ms": 670,
-    "content_hash": "d93097411bfb10648d66"
+    "response_ms": 845,
+    "content_hash": "7f40ceec087336568fc3"
   },
   {
     "resource": "St. Jude Cloud",
     "category": "Cancer Genomics & Multi-omics / Patient Cohorts",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.stjude.cloud/",
     "ok": true,
     "http_status": 200,
@@ -305,13 +305,13 @@
     "title": "St. Jude Cloud",
     "facts": [],
     "error": "",
-    "response_ms": 554,
+    "response_ms": 247,
     "content_hash": "e9b9b869a837d6ff1606"
   },
   {
     "resource": "GEO",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -320,13 +320,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 183,
-    "content_hash": "5b1937b7d3326474d64d"
+    "response_ms": 272,
+    "content_hash": "f26a73fd74dacb2dcc10"
   },
   {
     "resource": "SRA",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/sra/",
     "ok": true,
     "http_status": 200,
@@ -335,28 +335,28 @@
     "title": "Home - SRA - NCBI",
     "facts": [],
     "error": "",
-    "response_ms": 407,
-    "content_hash": "046c396d60cbecae12d6"
+    "response_ms": 329,
+    "content_hash": "2652c00715b385999297"
   },
   {
     "resource": "dbGaP",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/gap/",
     "ok": true,
     "http_status": 200,
     "final_url": "https://dbgap.ncbi.nlm.nih.gov/home/",
     "content_type": "text/html; charset=utf-8",
-    "title": "",
+    "title": "dbGaP - Database of Genotypes and Phenotypes",
     "facts": [],
     "error": "",
-    "response_ms": 801,
-    "content_hash": "2864aa49198df1db7b89"
+    "response_ms": 315,
+    "content_hash": "c6dcf4bd6b47c26ecd14"
   },
   {
     "resource": "EGA",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ega-archive.org/",
     "ok": true,
     "http_status": 200,
@@ -365,13 +365,13 @@
     "title": "EGA European Genome-phenome Archive - EGA European Genome-phenome Archive",
     "facts": [],
     "error": "",
-    "response_ms": 962,
+    "response_ms": 754,
     "content_hash": "4eb4aefac49a1f6c414c"
   },
   {
     "resource": "ENA",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/ena/browser/home",
     "ok": true,
     "http_status": 200,
@@ -380,13 +380,13 @@
     "title": "ENA Browser",
     "facts": [],
     "error": "",
-    "response_ms": 748,
+    "response_ms": 813,
     "content_hash": "35fe27dbea74150ad26b"
   },
   {
     "resource": "PDC",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomic.datacommons.cancer.gov/pdc/",
     "ok": true,
     "http_status": 200,
@@ -395,13 +395,13 @@
     "title": "Proteomic Data Commons",
     "facts": [],
     "error": "",
-    "response_ms": 470,
+    "response_ms": 259,
     "content_hash": "dd8709e9102c33a960c4"
   },
   {
     "resource": "Expression Atlas",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/gxa/home",
     "ok": true,
     "http_status": 200,
@@ -419,13 +419,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1140,
+    "response_ms": 672,
     "content_hash": "fc34fbd1d2b25f5f6965"
   },
   {
     "resource": "Synapse",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.synapse.org/",
     "ok": true,
     "http_status": 200,
@@ -434,13 +434,13 @@
     "title": "Synapse | Sage Bionetworks",
     "facts": [],
     "error": "",
-    "response_ms": 554,
-    "content_hash": "ceb18d915bcd1c581bc5"
+    "response_ms": 297,
+    "content_hash": "ef745f585d32b76030f9"
   },
   {
     "resource": "ArrayExpress",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/biostudies/arrayexpress/",
     "ok": true,
     "http_status": 200,
@@ -449,13 +449,13 @@
     "title": "ArrayExpress < BioStudies < EMBL-EBI",
     "facts": [],
     "error": "",
-    "response_ms": 1101,
+    "response_ms": 490,
     "content_hash": "f3c0160009c8a2ff4f4b"
   },
   {
     "resource": "BioStudies",
     "category": "General Omics Repositories Containing Cancer Data",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/biostudies/",
     "ok": true,
     "http_status": 200,
@@ -464,13 +464,13 @@
     "title": "BioStudies < The European Bioinformatics Institute < EMBL-EBI",
     "facts": [],
     "error": "",
-    "response_ms": 958,
+    "response_ms": 494,
     "content_hash": "7a17f65b8b92a84c5b63"
   },
   {
     "resource": "GEO",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -479,13 +479,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 183,
-    "content_hash": "5b1937b7d3326474d64d"
+    "response_ms": 272,
+    "content_hash": "f26a73fd74dacb2dcc10"
   },
   {
     "resource": "CELLxGENE Census",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://chanzuckerberg.github.io/cellxgene-census/",
     "ok": true,
     "http_status": 200,
@@ -494,13 +494,13 @@
     "title": "CZ CELLxGENE Discover Census — cellxgene-census  documentation",
     "facts": [],
     "error": "",
-    "response_ms": 129,
+    "response_ms": 100,
     "content_hash": "a838d708e8d9599a2838"
   },
   {
     "resource": "CELLxGENE Discover",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cellxgene.cziscience.com/",
     "ok": true,
     "http_status": 200,
@@ -509,13 +509,13 @@
     "title": "CZ CELLxGENE Discover - Cellular Visualization Tool",
     "facts": [],
     "error": "",
-    "response_ms": 292,
-    "content_hash": "b6d3907cdd632f5683ee"
+    "response_ms": 307,
+    "content_hash": "dd098ad97180ee76563b"
   },
   {
     "resource": "HTAN",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://data.humantumoratlas.org/",
     "ok": true,
     "http_status": 200,
@@ -541,13 +541,13 @@
       }
     ],
     "error": "",
-    "response_ms": 369,
+    "response_ms": 387,
     "content_hash": "304ff2709180e10eca0a"
   },
   {
     "resource": "TISCH",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tisch.comp-genomics.org/",
     "ok": false,
     "http_status": null,
@@ -556,13 +556,13 @@
     "title": "",
     "facts": [],
     "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "response_ms": 14112,
+    "response_ms": 18192,
     "content_hash": ""
   },
   {
     "resource": "TISCH2",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tisch.comp-genomics.org/",
     "ok": false,
     "http_status": null,
@@ -570,14 +570,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='tisch.comp-genomics.org', port=443): Read timed out. (read timeout=25)",
-    "response_ms": 50224,
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "response_ms": 17406,
     "content_hash": ""
   },
   {
     "resource": "Broad Single Cell Portal",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://singlecell.broadinstitute.org/single_cell",
     "ok": true,
     "http_status": 200,
@@ -586,30 +586,30 @@
     "title": "Single Cell Portal",
     "facts": [
       {
-        "value": 1067,
+        "value": 1066,
         "unit": "studies",
         "qualifier": "",
-        "evidence": "ate study Sign in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1067 studies 88,889,228 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Priv",
+        "evidence": "ate study Sign in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1066 studies 89,206,637 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Priv",
         "source_url": "https://singlecell.broadinstitute.org/single_cell",
         "confidence": "observed_official_page"
       },
       {
-        "value": 88889228,
+        "value": 89206637,
         "unit": "cells",
         "qualifier": "",
-        "evidence": "n in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1067 studies 88,889,228 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Privacy Policy Terms ",
+        "evidence": "n in × 2 New features Reducing barriers and accelerating single-cell research Featuring 1066 studies 89,206,637 cells Browse collections Loading... Please Wait × Deleting... Please Wait × × © 2026 The Broad Institute of MIT and Harvard Privacy Policy Terms ",
         "source_url": "https://singlecell.broadinstitute.org/single_cell",
         "confidence": "observed_official_page"
       }
     ],
     "error": "",
-    "response_ms": 560,
-    "content_hash": "59bfedf0994d28e5a5ac"
+    "response_ms": 704,
+    "content_hash": "de45e4315a6fb45e8105"
   },
   {
     "resource": "Human Cell Atlas",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.humancellatlas.org/",
     "ok": true,
     "http_status": 200,
@@ -618,13 +618,13 @@
     "title": "Home page",
     "facts": [],
     "error": "",
-    "response_ms": 1401,
-    "content_hash": "fc052589e6f777103b58"
+    "response_ms": 1088,
+    "content_hash": "69eb6bb7fdb1eb0f77ad"
   },
   {
     "resource": "HuBMAP",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.hubmapconsortium.org/",
     "ok": true,
     "http_status": 200,
@@ -633,13 +633,13 @@
     "title": "Human BioMolecular Atlas Program Data Portal             | Human Tissue Atlas for Biomedical Research",
     "facts": [],
     "error": "",
-    "response_ms": 384,
+    "response_ms": 316,
     "content_hash": "e661a419e7b0fe708d31"
   },
   {
     "resource": "Single Cell Expression Atlas",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/gxa/sc/home",
     "ok": true,
     "http_status": 200,
@@ -665,28 +665,37 @@
       }
     ],
     "error": "",
-    "response_ms": 751,
+    "response_ms": 445,
     "content_hash": "193957b7ba0b8b43d8d5"
   },
   {
     "resource": "DISCO",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.immunesinglecell.org/",
     "ok": true,
     "http_status": 200,
     "final_url": "https://disco.bii.a-star.edu.sg/",
     "content_type": "text/html",
     "title": "DISCO",
-    "facts": [],
+    "facts": [
+      {
+        "value": 768,
+        "unit": "samples",
+        "qualifier": "",
+        "evidence": "lable single-cell data with the DISCO platform. Nucleic Acids Research, 2025 Recent V1 notes 2025.11 768 samples added 2025.10 DISCO Toolkit R updated 2025.10 Fallopian Tube atlas released Connect Get in touch Direct contact Chen Jinmiao micchenj@duke-",
+        "source_url": "https://disco.bii.a-star.edu.sg/",
+        "confidence": "observed_official_page"
+      }
+    ],
     "error": "",
-    "response_ms": 2058,
-    "content_hash": "280a398054019a04143f"
+    "response_ms": 1421,
+    "content_hash": "3d854ff5af6a3c09bb30"
   },
   {
     "resource": "CancerSEA",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://biocc.hrbmu.edu.cn/CancerSEA/",
     "ok": true,
     "http_status": 200,
@@ -704,13 +713,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1698,
+    "response_ms": 1665,
     "content_hash": "92d9c799eb96f88fa68d"
   },
   {
     "resource": "scCT-DB",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://scctdb.ncpsb.org.cn/",
     "ok": true,
     "http_status": 200,
@@ -719,13 +728,13 @@
     "title": "scct-db",
     "facts": [],
     "error": "",
-    "response_ms": 847,
+    "response_ms": 851,
     "content_hash": "892a914e16220c85482f"
   },
   {
     "resource": "TE-SCALE",
     "category": "Cancer Single-Cell Data Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ngdc.cncb.ac.cn/te-scale/",
     "ok": true,
     "http_status": 200,
@@ -775,13 +784,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1773,
+    "response_ms": 2920,
     "content_hash": "9ee76feaa442abca87c9"
   },
   {
     "resource": "GEO",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -790,13 +799,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 183,
-    "content_hash": "5b1937b7d3326474d64d"
+    "response_ms": 272,
+    "content_hash": "f26a73fd74dacb2dcc10"
   },
   {
     "resource": "CELLxGENE Discover",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cellxgene.cziscience.com/",
     "ok": true,
     "http_status": 200,
@@ -805,13 +814,13 @@
     "title": "CZ CELLxGENE Discover - Cellular Visualization Tool",
     "facts": [],
     "error": "",
-    "response_ms": 292,
-    "content_hash": "b6d3907cdd632f5683ee"
+    "response_ms": 307,
+    "content_hash": "dd098ad97180ee76563b"
   },
   {
     "resource": "HTAN",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://data.humantumoratlas.org/",
     "ok": true,
     "http_status": 200,
@@ -837,13 +846,13 @@
       }
     ],
     "error": "",
-    "response_ms": 369,
+    "response_ms": 387,
     "content_hash": "304ff2709180e10eca0a"
   },
   {
     "resource": "10x Genomics Public Datasets",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.10xgenomics.com/datasets",
     "ok": false,
     "http_status": 429,
@@ -852,13 +861,13 @@
     "title": "Vercel Security Checkpoint",
     "facts": [],
     "error": "",
-    "response_ms": 135,
-    "content_hash": "e0b124dcac1b0f67e636"
+    "response_ms": 111,
+    "content_hash": "45a9d116abaad451719c"
   },
   {
     "resource": "CosMx Public Datasets",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://nanostring.com/products/cosmx-spatial-molecular-imager/",
     "ok": true,
     "http_status": 200,
@@ -876,13 +885,13 @@
       }
     ],
     "error": "",
-    "response_ms": 382,
-    "content_hash": "4b41d2e969fb997d7d15"
+    "response_ms": 684,
+    "content_hash": "7351e29cee6602e8bbfd"
   },
   {
     "resource": "GeoMx Public Datasets",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://nanostring.com/products/geomx-digital-spatial-profiler/",
     "ok": true,
     "http_status": 200,
@@ -891,13 +900,13 @@
     "title": "GeoMx Digital Spatial Profiler | Bruker Spatial Biology",
     "facts": [],
     "error": "",
-    "response_ms": 519,
-    "content_hash": "0a0be559f8d141598cca"
+    "response_ms": 751,
+    "content_hash": "5165f34406a50724a568"
   },
   {
     "resource": "STOmicsDB",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://db.cngb.org/stomics/",
     "ok": true,
     "http_status": 200,
@@ -1107,28 +1116,28 @@
       }
     ],
     "error": "",
-    "response_ms": 2322,
-    "content_hash": "4d1335202ae82ca7457a"
+    "response_ms": 1361,
+    "content_hash": "2b40231d712ff9d24891"
   },
   {
     "resource": "SODB",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://gene.ai.tencent.com/SpatialOmics/",
     "ok": false,
-    "http_status": 504,
+    "http_status": 502,
     "final_url": "https://gene.ai.tencent.com/SpatialOmics/",
     "content_type": "text/html",
-    "title": "504 Gateway Time-out",
+    "title": "502 Bad Gateway",
     "facts": [],
     "error": "",
-    "response_ms": 5422,
-    "content_hash": "a02fe6c72c3f6a26b7f1"
+    "response_ms": 1091,
+    "content_hash": "cd1d616769938493e98e"
   },
   {
     "resource": "SpatialDB",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.spatialomics.org/SpatialDB/",
     "ok": false,
     "http_status": null,
@@ -1137,13 +1146,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.spatialomics.org', port=443): Max retries exceeded with url: /SpatialDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 453,
+    "response_ms": 503,
     "content_hash": ""
   },
   {
     "resource": "DeepSpaceDB",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.deepspacedb.com",
     "ok": true,
     "http_status": 200,
@@ -1161,13 +1170,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1501,
+    "response_ms": 1011,
     "content_hash": "36bfb92043632adc1b8f"
   },
   {
     "resource": "So3D",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://so3d.bio-database.com/",
     "ok": false,
     "http_status": null,
@@ -1176,13 +1185,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='so3d.bio-database.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
-    "response_ms": 655,
+    "response_ms": 695,
     "content_hash": ""
   },
   {
     "resource": "Spatial GWAS Atlas",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://zhaolab.cpl.ac.cn/spatialgwas",
     "ok": true,
     "http_status": 200,
@@ -1191,13 +1200,13 @@
     "title": "SpatialGWAS",
     "facts": [],
     "error": "",
-    "response_ms": 1459,
+    "response_ms": 1613,
     "content_hash": "5995d62c91377a051e25"
   },
   {
     "resource": "Spatial2GWAS",
     "category": "Spatial Transcriptomics & Spatial Omics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.spatial2gwas.cn/",
     "ok": true,
     "http_status": 200,
@@ -1206,13 +1215,13 @@
     "title": "Spatial2GWAS",
     "facts": [],
     "error": "",
-    "response_ms": 700,
+    "response_ms": 827,
     "content_hash": "c103dfe6df5791e1d308"
   },
   {
     "resource": "CPTAC",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomics.cancer.gov/programs/cptac",
     "ok": true,
     "http_status": 200,
@@ -1221,13 +1230,13 @@
     "title": "Office of Cancer Clinical Proteomics Research (OCCPR) - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 1026,
-    "content_hash": "9dd1d296b689cbb1c2d3"
+    "response_ms": 358,
+    "content_hash": "8bedd502e0ad7db49601"
   },
   {
     "resource": "Human Protein Atlas – Cancer",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.proteinatlas.org/",
     "ok": true,
     "http_status": 200,
@@ -1236,13 +1245,13 @@
     "title": "The Human Protein Atlas",
     "facts": [],
     "error": "",
-    "response_ms": 1867,
-    "content_hash": "8c4aff80311119c3f753"
+    "response_ms": 1000,
+    "content_hash": "ad0f9b724d80015d435f"
   },
   {
     "resource": "PDC",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomic.datacommons.cancer.gov/pdc/",
     "ok": true,
     "http_status": 200,
@@ -1251,13 +1260,13 @@
     "title": "Proteomic Data Commons",
     "facts": [],
     "error": "",
-    "response_ms": 470,
+    "response_ms": 259,
     "content_hash": "dd8709e9102c33a960c4"
   },
   {
     "resource": "PRIDE",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/pride/",
     "ok": true,
     "http_status": 200,
@@ -1266,28 +1275,28 @@
     "title": "PRIDE - PRoteomics IDEntifications Database",
     "facts": [],
     "error": "",
-    "response_ms": 569,
-    "content_hash": "ddffa8656490f9e8b13e"
+    "response_ms": 439,
+    "content_hash": "69264ba7ce1099519a31"
   },
   {
     "resource": "MassIVE",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://massive.ucsd.edu/",
-    "ok": false,
-    "http_status": null,
-    "final_url": "https://massive.ucsd.edu/",
-    "content_type": "",
-    "title": "",
+    "ok": true,
+    "http_status": 200,
+    "final_url": "https://massive.ucsd.edu/ProteoSAFe/",
+    "content_type": "text/html;charset=UTF-8",
+    "title": "CCMS ProteoSAFe Workflow Input Form",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='massive.ucsd.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)')))",
-    "response_ms": 201,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 536,
+    "content_hash": "84678baa7b0ef6435e8b"
   },
   {
     "resource": "Pan-Cancer Proteome Atlas",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomics.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -1296,13 +1305,13 @@
     "title": "Office of Cancer Clinical Proteomics Research (OCCPR) - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 1340,
-    "content_hash": "9dd1d296b689cbb1c2d3"
+    "response_ms": 506,
+    "content_hash": "8bedd502e0ad7db49601"
   },
   {
     "resource": "ProteomeXchange",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.proteomecentral.proteomexchange.org/",
     "ok": false,
     "http_status": null,
@@ -1311,13 +1320,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.proteomecentral.proteomexchange.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.proteomecentral.proteomexchange.org', port=80): Failed to resolve 'www.proteomecentral.proteomexchange.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 171,
+    "response_ms": 76,
     "content_hash": ""
   },
   {
     "resource": "jPOST",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://jpostdb.org/",
     "ok": true,
     "http_status": 200,
@@ -1326,13 +1335,13 @@
     "title": "jPOST | Japan ProteOme STandard Repository / DataBase",
     "facts": [],
     "error": "",
-    "response_ms": 781,
+    "response_ms": 795,
     "content_hash": "5e26ad68c638fcada43a"
   },
   {
     "resource": "MatrisomeDB",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://matrisomedb.org/",
     "ok": false,
     "http_status": null,
@@ -1341,13 +1350,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='matrisomedb.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 1544,
+    "response_ms": 1207,
     "content_hash": ""
   },
   {
     "resource": "CanProVar",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bioinfo.vanderbilt.edu/CanProVar/",
     "ok": false,
     "http_status": 502,
@@ -1356,13 +1365,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 773,
+    "response_ms": 488,
     "content_hash": "8bc36331ef8b0fc6c198"
   },
   {
     "resource": "dbDEPC",
     "category": "Cancer Proteomics & Proteogenomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://lifecenter.sgst.cn/dbdepc/",
     "ok": false,
     "http_status": null,
@@ -1371,13 +1380,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/ (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 284,
+    "response_ms": 350,
     "content_hash": ""
   },
   {
     "resource": "CCLE",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/ccle/",
     "ok": true,
     "http_status": 200,
@@ -1386,13 +1395,13 @@
     "title": "DepMap — Verification",
     "facts": [],
     "error": "",
-    "response_ms": 393,
-    "content_hash": "d935d6cb0d7a66edae54"
+    "response_ms": 209,
+    "content_hash": "2edd97dba7873f7b1652"
   },
   {
     "resource": "DepMap",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/",
     "ok": true,
     "http_status": 200,
@@ -1401,13 +1410,13 @@
     "title": "DepMap: The Cancer Dependency Map Project at Broad Institute",
     "facts": [],
     "error": "",
-    "response_ms": 314,
-    "content_hash": "090149bd41deb7bb2b38"
+    "response_ms": 315,
+    "content_hash": "150f0039e69a7008e596"
   },
   {
     "resource": "GDSC",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancerrxgene.org/",
     "ok": false,
     "http_status": 410,
@@ -1425,13 +1434,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1027,
+    "response_ms": 847,
     "content_hash": "699ce8d4cd6fc8f26a2e"
   },
   {
     "resource": "Project Achilles",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/",
     "ok": true,
     "http_status": 200,
@@ -1440,13 +1449,13 @@
     "title": "DepMap: The Cancer Dependency Map Project at Broad Institute",
     "facts": [],
     "error": "",
-    "response_ms": 3122,
-    "content_hash": "090149bd41deb7bb2b38"
+    "response_ms": 160,
+    "content_hash": "150f0039e69a7008e596"
   },
   {
     "resource": "CancerModels.org",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancermodels.org/",
     "ok": true,
     "http_status": 200,
@@ -1455,13 +1464,13 @@
     "title": "BioStudies < The European Bioinformatics Institute < EMBL-EBI",
     "facts": [],
     "error": "",
-    "response_ms": 1630,
+    "response_ms": 1635,
     "content_hash": "8ebb1b7c65da46aee57a"
   },
   {
     "resource": "PDX Finder",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.pdxfinder.org/",
     "ok": false,
     "http_status": null,
@@ -1470,13 +1479,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.pdxfinder.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pdxfinder.org'. (_ssl.c:1082)\")))",
-    "response_ms": 627,
+    "response_ms": 433,
     "content_hash": ""
   },
   {
     "resource": "Project Score",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.sanger.ac.uk/",
     "ok": true,
     "http_status": 200,
@@ -1485,13 +1494,13 @@
     "title": "The Cancer Dependency Map at Sanger\n        \n        \n        \n        - The Cancer Dependency Map at Sanger",
     "facts": [],
     "error": "",
-    "response_ms": 851,
-    "content_hash": "695b83b5d59fda301bfe"
+    "response_ms": 810,
+    "content_hash": "3c76aaae9af055c11a5b"
   },
   {
     "resource": "BioGRID ORCS",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://orcs.thebiogrid.org/",
     "ok": true,
     "http_status": 200,
@@ -1509,28 +1518,28 @@
       }
     ],
     "error": "",
-    "response_ms": 349,
-    "content_hash": "803c548eb6c2816e95ca"
+    "response_ms": 335,
+    "content_hash": "c929895bc6790ca1ccce"
   },
   {
     "resource": "GenomeCRISPR",
     "category": "Cancer Models & Functional Genomics / CRISPR",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://genomecrispr.dkfz.de/",
-    "ok": false,
-    "http_status": 502,
+    "ok": true,
+    "http_status": 200,
     "final_url": "https://genomecrispr.dkfz.de/",
-    "content_type": "",
-    "title": "",
+    "content_type": "text/html; charset=utf-8",
+    "title": "GenomeCRISPR",
     "facts": [],
     "error": "",
-    "response_ms": 1972,
-    "content_hash": "8bc36331ef8b0fc6c198"
+    "response_ms": 1476,
+    "content_hash": "451796fd2c5589fbead7"
   },
   {
     "resource": "CCLE",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/ccle/",
     "ok": true,
     "http_status": 200,
@@ -1539,13 +1548,13 @@
     "title": "DepMap — Verification",
     "facts": [],
     "error": "",
-    "response_ms": 393,
-    "content_hash": "d935d6cb0d7a66edae54"
+    "response_ms": 209,
+    "content_hash": "2edd97dba7873f7b1652"
   },
   {
     "resource": "DepMap",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/",
     "ok": true,
     "http_status": 200,
@@ -1554,13 +1563,13 @@
     "title": "DepMap: The Cancer Dependency Map Project at Broad Institute",
     "facts": [],
     "error": "",
-    "response_ms": 314,
-    "content_hash": "090149bd41deb7bb2b38"
+    "response_ms": 315,
+    "content_hash": "150f0039e69a7008e596"
   },
   {
     "resource": "GDSC",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancerrxgene.org/",
     "ok": false,
     "http_status": 410,
@@ -1578,13 +1587,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1027,
+    "response_ms": 847,
     "content_hash": "699ce8d4cd6fc8f26a2e"
   },
   {
     "resource": "IUPHAR/BPS Guide to Pharmacology",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.guidetopharmacology.org/",
     "ok": true,
     "http_status": 200,
@@ -1593,13 +1602,13 @@
     "title": "Home | IUPHAR/BPS Guide to PHARMACOLOGY",
     "facts": [],
     "error": "",
-    "response_ms": 1815,
+    "response_ms": 916,
     "content_hash": "f2b7daf1cbfd3c2cbfbc"
   },
   {
     "resource": "canSAR",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cansar.ai/",
     "ok": true,
     "http_status": 200,
@@ -1608,13 +1617,13 @@
     "title": "canSAR | the Cancer Drug Discovery Platform | canSAR",
     "facts": [],
     "error": "",
-    "response_ms": 456,
+    "response_ms": 442,
     "content_hash": "975d243861ad5be040c9"
   },
   {
     "resource": "Connectivity Map / CLUE",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://clue.io/",
     "ok": true,
     "http_status": 200,
@@ -1656,13 +1665,13 @@
       }
     ],
     "error": "",
-    "response_ms": 331,
+    "response_ms": 262,
     "content_hash": "19ea6a7f4c8736541621"
   },
   {
     "resource": "DrugBank",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://go.drugbank.com/",
     "ok": false,
     "http_status": 403,
@@ -1671,13 +1680,13 @@
     "title": "Securing Connection",
     "facts": [],
     "error": "",
-    "response_ms": 101,
-    "content_hash": "94aa64b97deaec2fd20a"
+    "response_ms": 146,
+    "content_hash": "a5cdf7759f19c70060d0"
   },
   {
     "resource": "DTP / NCI-60",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://dtp.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -1686,13 +1695,13 @@
     "title": "Developmental Therapeutics Program (DTP) - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 491,
-    "content_hash": "c2f45c5f3efed6d0eccc"
+    "response_ms": 247,
+    "content_hash": "ca31ed7dd64e1b629118"
   },
   {
     "resource": "LINCS",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://lincsproject.org/",
     "ok": true,
     "http_status": 200,
@@ -1701,13 +1710,13 @@
     "title": "NIH LINCS Program",
     "facts": [],
     "error": "",
-    "response_ms": 458,
-    "content_hash": "f6c591a52f6438237238"
+    "response_ms": 248,
+    "content_hash": "164ce94d33573022bc79"
   },
   {
     "resource": "NCI-60 / CellMiner",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://discover.nci.nih.gov/cellminer/",
     "ok": true,
     "http_status": 200,
@@ -1716,13 +1725,13 @@
     "title": "CellMiner - Analysis Tools | Genomics and Pharmacology Facility",
     "facts": [],
     "error": "",
-    "response_ms": 436,
-    "content_hash": "6f5ef4d59ae5c19aa57a"
+    "response_ms": 159,
+    "content_hash": "eb6c82593447c4b6af0e"
   },
   {
     "resource": "PharmacoDB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://pharmacodb.ca/",
     "ok": true,
     "http_status": 200,
@@ -1731,13 +1740,13 @@
     "title": "PharmacoDB",
     "facts": [],
     "error": "",
-    "response_ms": 247,
+    "response_ms": 139,
     "content_hash": "bee8974b64b1a7edc1e4"
   },
   {
     "resource": "PharmGKB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.pharmgkb.org/",
     "ok": true,
     "http_status": 200,
@@ -1746,13 +1755,13 @@
     "title": "ClinPGx",
     "facts": [],
     "error": "",
-    "response_ms": 241,
-    "content_hash": "b3c7bcc05b9c800761c3"
+    "response_ms": 693,
+    "content_hash": "4501140cbbfd5717a5a9"
   },
   {
     "resource": "PRISM",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://depmap.org/portal/",
     "ok": true,
     "http_status": 200,
@@ -1761,13 +1770,13 @@
     "title": "DepMap: The Cancer Dependency Map Project at Broad Institute",
     "facts": [],
     "error": "",
-    "response_ms": 593,
-    "content_hash": "090149bd41deb7bb2b38"
+    "response_ms": 353,
+    "content_hash": "150f0039e69a7008e596"
   },
   {
     "resource": "Therapeutic Target Database (TTD)",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ttd.idrblab.cn/",
     "ok": true,
     "http_status": 200,
@@ -1776,13 +1785,13 @@
     "title": "TTD: Therapeutic Target Database",
     "facts": [],
     "error": "",
-    "response_ms": 1178,
+    "response_ms": 1345,
     "content_hash": "4902fc7ad1c4f8a43566"
   },
   {
     "resource": "TTD 2026",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ttd.idrblab.cn/",
     "ok": true,
     "http_status": 200,
@@ -1791,13 +1800,13 @@
     "title": "TTD: Therapeutic Target Database",
     "facts": [],
     "error": "",
-    "response_ms": 877,
+    "response_ms": 1288,
     "content_hash": "4902fc7ad1c4f8a43566"
   },
   {
     "resource": "CellMinerCDB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://discover.nci.nih.gov/cellminercdb/",
     "ok": true,
     "http_status": 200,
@@ -1823,13 +1832,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1864,
-    "content_hash": "42fd1ce467d9568fdcce"
+    "response_ms": 2003,
+    "content_hash": "4d7e478413502ea37392"
   },
   {
     "resource": "CTRP",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portals.broadinstitute.org/ctrp/",
     "ok": true,
     "http_status": 200,
@@ -1847,13 +1856,13 @@
       }
     ],
     "error": "",
-    "response_ms": 343,
+    "response_ms": 180,
     "content_hash": "4a41ad21ccf992682849"
   },
   {
     "resource": "CancerDR",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bioinf-mini.iitd.ac.in/cancer_drug/",
     "ok": false,
     "http_status": null,
@@ -1862,13 +1871,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='bioinf-mini.iitd.ac.in', port=80): Max retries exceeded with url: /cancer_drug/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinf-mini.iitd.ac.in', port=80): Failed to resolve 'bioinf-mini.iitd.ac.in' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 247,
+    "response_ms": 291,
     "content_hash": ""
   },
   {
     "resource": "ClinicalOmicsDB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://clinicalomicsdb.org/",
     "ok": false,
     "http_status": null,
@@ -1877,13 +1886,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='clinicalomicsdb.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='clinicalomicsdb.org', port=443): Failed to resolve 'clinicalomicsdb.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 171,
+    "response_ms": 184,
     "content_hash": ""
   },
   {
     "resource": "DRESIS 2.0",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://idrblab.org/dresis/",
     "ok": true,
     "http_status": 200,
@@ -1892,13 +1901,13 @@
     "title": "DRESIS",
     "facts": [],
     "error": "",
-    "response_ms": 438,
+    "response_ms": 648,
     "content_hash": "097415749dd8ce0fced7"
   },
   {
     "resource": "DrugComb",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://drugcomb.org/",
     "ok": false,
     "http_status": null,
@@ -1906,14 +1915,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='drugcomb.org', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='drugcomb.org', port=443) at 0x7f11db3d9310>, 'Connection to drugcomb.org timed out. (connect timeout=25)'))",
-    "response_ms": 25194,
+    "error": "HTTPSConnectionPool(host='drugcomb.org', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='drugcomb.org', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 347,
     "content_hash": ""
   },
   {
     "resource": "DRMref",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://ccsm.uth.edu/",
     "ok": false,
     "http_status": 403,
@@ -1922,13 +1931,13 @@
     "title": "403 Forbidden",
     "facts": [],
     "error": "",
-    "response_ms": 517,
+    "response_ms": 440,
     "content_hash": "f427e5aa15d03e8cc96f"
   },
   {
     "resource": "ncRNADrug",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.jianglab.cn/",
     "ok": false,
     "http_status": null,
@@ -1936,14 +1945,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='www.jianglab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jianglab.cn', port=443) at 0x7f11dbb92490>, 'Connection to www.jianglab.cn timed out. (connect timeout=25)'))",
-    "response_ms": 25456,
+    "error": "HTTPSConnectionPool(host='www.jianglab.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jianglab.cn', port=443) at 0x7fe8ed4ddbd0>, 'Connection to www.jianglab.cn timed out. (connect timeout=25)'))",
+    "response_ms": 25672,
     "content_hash": ""
   },
   {
     "resource": "PMADS",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://pmads-db.org/",
     "ok": true,
     "http_status": 200,
@@ -1961,13 +1970,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1271,
+    "response_ms": 452,
     "content_hash": "28e887426c603b27732d"
   },
   {
     "resource": "RadioPharm",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://idrblab.org/radiopharm/",
     "ok": true,
     "http_status": 200,
@@ -1976,13 +1985,13 @@
     "title": "RadioPharm",
     "facts": [],
     "error": "",
-    "response_ms": 240,
+    "response_ms": 675,
     "content_hash": "714a18448c93bd25102e"
   },
   {
     "resource": "theRNA",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://therna.renlab.cn/",
     "ok": true,
     "http_status": 200,
@@ -1991,13 +2000,13 @@
     "title": "‎",
     "facts": [],
     "error": "",
-    "response_ms": 1413,
-    "content_hash": "281e4d70502a8794e6a2"
+    "response_ms": 1617,
+    "content_hash": "60bb973ec96b6c2c82fb"
   },
   {
     "resource": "VARIDT",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://idrblab.org/varidt/",
     "ok": true,
     "http_status": 200,
@@ -2047,13 +2056,13 @@
       }
     ],
     "error": "",
-    "response_ms": 2028,
+    "response_ms": 2490,
     "content_hash": "096c80bb15a589945367"
   },
   {
     "resource": "MGDB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://mgdb.idruglab.cn/",
     "ok": true,
     "http_status": 200,
@@ -2062,13 +2071,13 @@
     "title": "molecular-glue",
     "facts": [],
     "error": "",
-    "response_ms": 629,
+    "response_ms": 788,
     "content_hash": "52f543fb47fb736a6a5a"
   },
   {
     "resource": "MGTbind",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://mgtbind.pkumdl.cn/",
     "ok": true,
     "http_status": 200,
@@ -2077,13 +2086,13 @@
     "title": "MGTbind: Molecular Glue and Ternary binding database",
     "facts": [],
     "error": "",
-    "response_ms": 1579,
+    "response_ms": 1642,
     "content_hash": "5fc2a57e18986575a3af"
   },
   {
     "resource": "MolGlueDB",
     "category": "Cancer Drug Response & Resistance",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.molgluedb.com/",
     "ok": true,
     "http_status": 200,
@@ -2092,13 +2101,13 @@
     "title": "MolGlueDB - molecular glue database",
     "facts": [],
     "error": "",
-    "response_ms": 882,
+    "response_ms": 899,
     "content_hash": "dc4aef0f16b62e2980bb"
   },
   {
     "resource": "cBioPortal",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cbioportal.org/",
     "ok": true,
     "http_status": 200,
@@ -2107,13 +2116,13 @@
     "title": "cBioPortal for Cancer Genomics",
     "facts": [],
     "error": "",
-    "response_ms": 142,
-    "content_hash": "6666d5d9f82f1afaab3d"
+    "response_ms": 120,
+    "content_hash": "2cd4062a2ed92d88db5b"
   },
   {
     "resource": "COSMIC",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cancer.sanger.ac.uk/cosmic/",
     "ok": true,
     "http_status": 200,
@@ -2122,13 +2131,13 @@
     "title": "Login",
     "facts": [],
     "error": "",
-    "response_ms": 991,
+    "response_ms": 779,
     "content_hash": "c7306c095137c1f4d8e1"
   },
   {
     "resource": "AACR Project GENIE",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.aacr.org/professionals/research/aacr-project-genie/",
     "ok": true,
     "http_status": 200,
@@ -2137,13 +2146,13 @@
     "title": "Home - AACR Project GENIE",
     "facts": [],
     "error": "",
-    "response_ms": 2138,
-    "content_hash": "821e5e89cb58585464f1"
+    "response_ms": 1765,
+    "content_hash": "fba9947e29556b21892b"
   },
   {
     "resource": "Cancer Gene Census",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cancer.sanger.ac.uk/census",
     "ok": true,
     "http_status": 200,
@@ -2152,13 +2161,13 @@
     "title": "Login",
     "facts": [],
     "error": "",
-    "response_ms": 774,
+    "response_ms": 603,
     "content_hash": "c7306c095137c1f4d8e1"
   },
   {
     "resource": "OncoKB",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.oncokb.org/",
     "ok": true,
     "http_status": 200,
@@ -2167,28 +2176,28 @@
     "title": "OncoKBâ¢ - MSK's Precision Oncology Knowledge Base",
     "facts": [],
     "error": "",
-    "response_ms": 354,
-    "content_hash": "d0381c295cc2398f1deb"
+    "response_ms": 302,
+    "content_hash": "849657e09f0872b86893"
   },
   {
     "resource": "UCSC Cancer Genomics Browser",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://genome.ucsc.edu/cancer/",
     "ok": false,
-    "http_status": null,
+    "http_status": 404,
     "final_url": "https://genome.ucsc.edu/cancer/",
-    "content_type": "",
-    "title": "",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Genome Browser Error 404",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='genome.ucsc.edu', port=443): Max retries exceeded with url: /cancer/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 306,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 758,
+    "content_hash": "e2524fd5354252ddb9e8"
   },
   {
     "resource": "UCSC Xena",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://xena.ucsc.edu/",
     "ok": false,
     "http_status": null,
@@ -2197,13 +2206,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='xena.ucsc.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 87,
+    "response_ms": 189,
     "content_hash": ""
   },
   {
     "resource": "Cancer Genome Interpreter",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancergenomeinterpreter.org/",
     "ok": true,
     "http_status": 200,
@@ -2212,13 +2221,13 @@
     "title": "Cancer Genome Interpreter",
     "facts": [],
     "error": "",
-    "response_ms": 803,
+    "response_ms": 839,
     "content_hash": "71dfcd2aad8d7184992f"
   },
   {
     "resource": "Cancer Hotspots",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://cancerhotspots.org/",
     "ok": true,
     "http_status": 200,
@@ -2227,13 +2236,13 @@
     "title": "Cancer Hotspots",
     "facts": [],
     "error": "",
-    "response_ms": 741,
+    "response_ms": 601,
     "content_hash": "db5c8b8e7252b64847ed"
   },
   {
     "resource": "ChimerDB",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.chimerdb.net/",
     "ok": false,
     "http_status": null,
@@ -2242,13 +2251,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.chimerdb.net', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.chimerdb.net', port=443): Failed to resolve 'www.chimerdb.net' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 50,
+    "response_ms": 26,
     "content_hash": ""
   },
   {
     "resource": "DriverDBv4",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ngdc.cncb.ac.cn/driverdb/",
     "ok": false,
     "http_status": 404,
@@ -2257,13 +2266,13 @@
     "title": "Error - 国家基因组科学数据中心 (CNCB - NGDC)",
     "facts": [],
     "error": "",
-    "response_ms": 1793,
+    "response_ms": 2268,
     "content_hash": "aed34bfcec351ab1a1e4"
   },
   {
     "resource": "GEPIA2",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://gepia2.cancer-pku.cn/",
     "ok": true,
     "http_status": 200,
@@ -2272,13 +2281,13 @@
     "title": "GEPIA 2",
     "facts": [],
     "error": "",
-    "response_ms": 840,
+    "response_ms": 892,
     "content_hash": "3a806a154f6b792d4ca3"
   },
   {
     "resource": "intOGen",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.intogen.org/",
     "ok": true,
     "http_status": 200,
@@ -2296,13 +2305,13 @@
       }
     ],
     "error": "",
-    "response_ms": 2091,
-    "content_hash": "64f73e67e164a588a0a3"
+    "response_ms": 1757,
+    "content_hash": "b0d26a0257c0a550edc5"
   },
   {
     "resource": "IntOGen",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.intogen.org/",
     "ok": true,
     "http_status": 200,
@@ -2320,13 +2329,13 @@
       }
     ],
     "error": "",
-    "response_ms": 2091,
-    "content_hash": "64f73e67e164a588a0a3"
+    "response_ms": 1757,
+    "content_hash": "b0d26a0257c0a550edc5"
   },
   {
     "resource": "OncoDB 2.0",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://oncodb.org/",
     "ok": true,
     "http_status": 200,
@@ -2352,13 +2361,13 @@
       }
     ],
     "error": "",
-    "response_ms": 303,
+    "response_ms": 230,
     "content_hash": "20e362261a7dac55729d"
   },
   {
     "resource": "OncoMine",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.oncomine.org/",
     "ok": true,
     "http_status": 200,
@@ -2367,52 +2376,52 @@
     "title": "Oncomine Next-Generation Sequencing Solutions for Genomic Profiling | Thermo Fisher Scientific - US",
     "facts": [],
     "error": "",
-    "response_ms": 535,
-    "content_hash": "145e58c2616eda8bdbd6"
+    "response_ms": 925,
+    "content_hash": "9e0a74fbe81f8528b258"
   },
   {
     "resource": "PRECOG update",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://precog.stanford.edu/",
-    "ok": false,
-    "http_status": null,
-    "final_url": "https://precog.stanford.edu/",
-    "content_type": "",
-    "title": "",
-    "facts": [],
-    "error": "HTTPSConnectionPool(host='precog.stanford.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 108,
-    "content_hash": ""
-  },
-  {
-    "resource": "UALCAN",
-    "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
-    "requested_url": "https://ualcan.path.uab.edu/",
     "ok": true,
     "http_status": 200,
-    "final_url": "https://ualcan.path.uab.edu/",
+    "final_url": "https://precog.stanford.edu/",
     "content_type": "text/html; charset=UTF-8",
-    "title": "UALCAN",
+    "title": "",
     "facts": [
       {
-        "value": 20000,
-        "unit": "samples",
-        "qualifier": "over",
-        "evidence": "7-y\" 04/21/2025 MammOnc-DB , an integrative breast cancer proteogenomic data analysis platform with over 20,000 samples including single cell sequencing data is now online: http://resource.path.uab.edu/MammOnc-Home.html Publuication in npj Breast Cancer: Kart",
-        "source_url": "https://ualcan.path.uab.edu/",
+        "value": 46000,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "survival. PRECOG includes 335 cancer datasets \n                 with survival or response data for >46,000 patients, covering ~55 malignancies. Gentles/Newman et al. Nature Medicine (2015) Benard/Lalgudi et al. Nucleic Acids Research (2025) Adult Explore ",
+        "source_url": "https://precog.stanford.edu/",
         "confidence": "observed_official_page"
       }
     ],
     "error": "",
-    "response_ms": 684,
-    "content_hash": "0d768e88c23a8f683bcf"
+    "response_ms": 8079,
+    "content_hash": "b3e936f81f489bec2cac"
+  },
+  {
+    "resource": "UALCAN",
+    "category": "Cancer Genomic Alterations & Processed Data Portals",
+    "checked_at": "2026-10-26T13:01:50+00:00",
+    "requested_url": "https://ualcan.path.uab.edu/",
+    "ok": false,
+    "http_status": null,
+    "final_url": "https://ualcan.path.uab.edu/",
+    "content_type": "",
+    "title": "",
+    "facts": [],
+    "error": "HTTPSConnectionPool(host='ualcan.path.uab.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
+    "response_ms": 212,
+    "content_hash": ""
   },
   {
     "resource": "Cancer RNA-Seq Nexus",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://syslab4.nchu.edu.tw/CRN",
     "ok": false,
     "http_status": null,
@@ -2420,14 +2429,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPConnectionPool(host='syslab4.nchu.edu.tw', port=80): Max retries exceeded with url: /CRN (Caused by ConnectTimeoutError(<HTTPConnection(host='syslab4.nchu.edu.tw', port=80) at 0x7f11db9358c0>, 'Connection to syslab4.nchu.edu.tw timed out. (connect timeout=25)'))",
-    "response_ms": 25288,
+    "error": "HTTPConnectionPool(host='syslab4.nchu.edu.tw', port=80): Max retries exceeded with url: /CRN (Caused by ConnectTimeoutError(<HTTPConnection(host='syslab4.nchu.edu.tw', port=80) at 0x7fe8ed543020>, 'Connection to syslab4.nchu.edu.tw timed out. (connect timeout=25)'))",
+    "response_ms": 25363,
     "content_hash": ""
   },
   {
     "resource": "Cancer3D",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cancer3d.org",
     "ok": false,
     "http_status": 404,
@@ -2436,13 +2445,13 @@
     "title": "404 Not Found",
     "facts": [],
     "error": "",
-    "response_ms": 256,
+    "response_ms": 517,
     "content_hash": "66cf12b4ce70e6ef2cee"
   },
   {
     "resource": "DiseaseMeth",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bio-bigdata.hrbmu.edu.cn/diseasemeth/",
     "ok": true,
     "http_status": 200,
@@ -2451,13 +2460,13 @@
     "title": "The human disease methylation database",
     "facts": [],
     "error": "",
-    "response_ms": 3254,
+    "response_ms": 3532,
     "content_hash": "df632c6b30284ac69220"
   },
   {
     "resource": "IARC TP53 Database",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tp53.isb-cgc.org/",
     "ok": false,
     "http_status": null,
@@ -2466,13 +2475,13 @@
     "title": "",
     "facts": [],
     "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "response_ms": 405,
+    "response_ms": 406,
     "content_hash": ""
   },
   {
     "resource": "MethHC",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://methhc.mbc.nctu.edu.tw/",
     "ok": false,
     "http_status": null,
@@ -2481,85 +2490,28 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='methhc.mbc.nctu.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methhc.mbc.nctu.edu.tw', port=80): Failed to resolve 'methhc.mbc.nctu.edu.tw' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 669,
+    "response_ms": 557,
     "content_hash": ""
   },
   {
     "resource": "Network of Cancer Genes (NCG)",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://ncg.kcl.ac.uk/",
-    "ok": true,
-    "http_status": 200,
-    "final_url": "http://network-cancer-genes.org",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "Network of Cancer Genes Home",
-    "facts": [
-      {
-        "value": 127,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "e cancer drivers 2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healt",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 41780,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 122,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in codin",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 17,
-        "unit": "studies",
-        "qualifier": "",
-        "evidence": "oding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in coding sequence 0 altered in non-codi",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 32895,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "ivers 37 altered in coding sequence 0 altered in non-coding sequence 18 publications 12 tissue types 32895 donors 9 healthy tissues 3 diseased tissues TIME Drivers Cancer genes interacting with the TIME 201 canonical TIME drivers 201 altered in coding s",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 30,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "andidate TIME drivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for C",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 6921,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "ivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for Cancer Evolut",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      }
-    ],
-    "error": "",
-    "response_ms": 2218,
-    "content_hash": "9b493fe336c02def0ef6"
+    "ok": false,
+    "http_status": null,
+    "final_url": "http://ncg.kcl.ac.uk/",
+    "content_type": "",
+    "title": "",
+    "facts": [],
+    "error": "HTTPConnectionPool(host='network-cancer-genes.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='network-cancer-genes.org', port=80) at 0x7fe8ed542cf0>, 'Connection to network-cancer-genes.org timed out. (connect timeout=25)'))",
+    "response_ms": 25655,
+    "content_hash": ""
   },
   {
     "resource": "Progenetix",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://progenetix.org/",
     "ok": false,
     "http_status": 403,
@@ -2568,13 +2520,13 @@
     "title": "Just a moment...",
     "facts": [],
     "error": "",
-    "response_ms": 246,
-    "content_hash": "8f816255902075a1cac5"
+    "response_ms": 284,
+    "content_hash": "dd6451ea8d989aecf424"
   },
   {
     "resource": "TCGA SpliceSeq",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bioinformatics.mdanderson.org/TCGASpliceSeq/",
     "ok": true,
     "http_status": 200,
@@ -2583,13 +2535,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 899,
+    "response_ms": 1397,
     "content_hash": "27d3ce016dcd06e63edb"
   },
   {
     "resource": "BioMuta",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://hive.biochemistry.gwu.edu/biomuta/",
     "ok": false,
     "http_status": null,
@@ -2598,13 +2550,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='hive.biochemistry.gwu.edu', port=443): Max retries exceeded with url: /biomuta/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 317,
+    "response_ms": 159,
     "content_hash": ""
   },
   {
     "resource": "CaSNP",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://cistrome.dfci.harvard.edu/CaSNP/",
     "ok": false,
     "http_status": 404,
@@ -2613,13 +2565,13 @@
     "title": "404 Not Found",
     "facts": [],
     "error": "",
-    "response_ms": 541,
+    "response_ms": 178,
     "content_hash": "80c3fe2ae1062abf5645"
   },
   {
     "resource": "COSMICMart",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cancer.sanger.ac.uk/cosmic",
     "ok": true,
     "http_status": 200,
@@ -2628,13 +2580,13 @@
     "title": "Login",
     "facts": [],
     "error": "",
-    "response_ms": 782,
+    "response_ms": 573,
     "content_hash": "c7306c095137c1f4d8e1"
   },
   {
     "resource": "MethyCancer",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://methycancer.psych.ac.cn/",
     "ok": false,
     "http_status": null,
@@ -2643,13 +2595,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='methycancer.psych.ac.cn', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='methycancer.psych.ac.cn', port=80): Failed to resolve 'methycancer.psych.ac.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 166,
+    "response_ms": 376,
     "content_hash": ""
   },
   {
     "resource": "Mutagene",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/research/mutagene/",
     "ok": true,
     "http_status": 200,
@@ -2658,13 +2610,13 @@
     "title": "MutaGene: Explore and analyze context-dependent mutational signatures in cancer - Home page",
     "facts": [],
     "error": "",
-    "response_ms": 144,
-    "content_hash": "2049ee3ef4e887493979"
+    "response_ms": 5581,
+    "content_hash": "9e8bad546b448f94f675"
   },
   {
     "resource": "SNP500Cancer",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://varianttools.sourceforge.net/",
     "ok": true,
     "http_status": 200,
@@ -2673,13 +2625,13 @@
     "title": "variant tools download | SourceForge.net",
     "facts": [],
     "error": "",
-    "response_ms": 284,
-    "content_hash": "a434c7188734fd4320f7"
+    "response_ms": 514,
+    "content_hash": "a40fe001c4fb470704c4"
   },
   {
     "resource": "Tumor Associated Gene database",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.binfo.ncku.edu.tw/",
     "ok": false,
     "http_status": null,
@@ -2688,13 +2640,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.binfo.ncku.edu.tw', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.binfo.ncku.edu.tw', port=80): Failed to resolve 'www.binfo.ncku.edu.tw' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 286,
+    "response_ms": 717,
     "content_hash": ""
   },
   {
     "resource": "CCDB",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://webs.iiitd.edu.in/raghava/ccdb/",
     "ok": true,
     "http_status": 200,
@@ -2703,13 +2655,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 12012,
+    "response_ms": 6025,
     "content_hash": "379808c81d7bb5b47b7a"
   },
   {
     "resource": "CNAScope",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cna.fengslab.com/",
     "ok": true,
     "http_status": 200,
@@ -2751,13 +2703,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1058,
+    "response_ms": 1260,
     "content_hash": "c70f321178d1383ba0ad"
   },
   {
     "resource": "MutEx",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.innovebioinfo.com/Databases/Mutationdb_About.php",
     "ok": true,
     "http_status": 200,
@@ -2766,13 +2718,13 @@
     "title": "Innove Bioinformatics",
     "facts": [],
     "error": "",
-    "response_ms": 676,
+    "response_ms": 314,
     "content_hash": "52b3f2daec6d3e057bc0"
   },
   {
     "resource": "PCsRNAdb",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://pcsrnadb.cloudna.cn/",
     "ok": true,
     "http_status": 200,
@@ -2781,13 +2733,13 @@
     "title": "pcsrnadb",
     "facts": [],
     "error": "",
-    "response_ms": 912,
+    "response_ms": 891,
     "content_hash": "d9231a59f9dc7c62c274"
   },
   {
     "resource": "RaCE",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://biospace.shinyapps.io/race/",
     "ok": true,
     "http_status": 202,
@@ -2796,13 +2748,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 1632,
+    "response_ms": 1698,
     "content_hash": "627e6c88a3a26f9ac53b"
   },
   {
     "resource": "TPDdb",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://idrblab.org/tpddb/",
     "ok": true,
     "http_status": 200,
@@ -2811,13 +2763,13 @@
     "title": "TPDdb",
     "facts": [],
     "error": "",
-    "response_ms": 41,
+    "response_ms": 553,
     "content_hash": "301cbe488bf2d77f675b"
   },
   {
     "resource": "CanGEM",
     "category": "Cancer Genomic Alterations & Processed Data Portals",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cangem.org/",
     "ok": false,
     "http_status": null,
@@ -2826,13 +2778,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
-    "response_ms": 10017,
+    "response_ms": 10016,
     "content_hash": ""
   },
   {
     "resource": "GDC",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.gdc.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -2841,13 +2793,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 314,
+    "response_ms": 99,
     "content_hash": "8b8c253cf22766cc2102"
   },
   {
     "resource": "HTAN",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://data.humantumoratlas.org/",
     "ok": true,
     "http_status": 200,
@@ -2873,13 +2825,13 @@
       }
     ],
     "error": "",
-    "response_ms": 369,
+    "response_ms": 387,
     "content_hash": "304ff2709180e10eca0a"
   },
   {
     "resource": "TCGA Digital Pathology",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.gdc.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -2888,13 +2840,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 232,
+    "response_ms": 58,
     "content_hash": "8b8c253cf22766cc2102"
   },
   {
     "resource": "TCIA",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancerimagingarchive.net/",
     "ok": true,
     "http_status": 200,
@@ -2903,13 +2855,13 @@
     "title": "Welcome to The Cancer Imaging Archive - The Cancer Imaging Archive (TCIA)",
     "facts": [],
     "error": "",
-    "response_ms": 799,
-    "content_hash": "7b84147681e909e1e2fd"
+    "response_ms": 841,
+    "content_hash": "c1960ff8266f70a30fd1"
   },
   {
     "resource": "HTAN Imaging",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://data.humantumoratlas.org/",
     "ok": true,
     "http_status": 200,
@@ -2935,13 +2887,13 @@
       }
     ],
     "error": "",
-    "response_ms": 332,
+    "response_ms": 246,
     "content_hash": "304ff2709180e10eca0a"
   },
   {
     "resource": "IDC",
     "category": "Cancer Imaging & Digital Pathology",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.imaging.datacommons.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -2975,13 +2927,13 @@
       }
     ],
     "error": "",
-    "response_ms": 299,
+    "response_ms": 245,
     "content_hash": "1bcfbcd172906696dc66"
   },
   {
     "resource": "cBioPortal",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cbioportal.org/",
     "ok": true,
     "http_status": 200,
@@ -2990,13 +2942,13 @@
     "title": "cBioPortal for Cancer Genomics",
     "facts": [],
     "error": "",
-    "response_ms": 142,
-    "content_hash": "6666d5d9f82f1afaab3d"
+    "response_ms": 120,
+    "content_hash": "2cd4062a2ed92d88db5b"
   },
   {
     "resource": "ClinicalTrials.gov",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://clinicaltrials.gov/",
     "ok": true,
     "http_status": 200,
@@ -3005,13 +2957,13 @@
     "title": "ClinicalTrials.gov",
     "facts": [],
     "error": "",
-    "response_ms": 301,
+    "response_ms": 174,
     "content_hash": "c8f2db34b30c0fd6a317"
   },
   {
     "resource": "GDC",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.gdc.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -3020,13 +2972,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 314,
+    "response_ms": 99,
     "content_hash": "8b8c253cf22766cc2102"
   },
   {
     "resource": "SEER",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://seer.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -3035,13 +2987,13 @@
     "title": "Surveillance, Epidemiology, and End Results Program",
     "facts": [],
     "error": "",
-    "response_ms": 447,
+    "response_ms": 152,
     "content_hash": "2485a78bd3c4ae3b7d04"
   },
   {
     "resource": "AACR Project GENIE",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.aacr.org/professionals/research/aacr-project-genie/",
     "ok": true,
     "http_status": 200,
@@ -3050,13 +3002,13 @@
     "title": "Home - AACR Project GENIE",
     "facts": [],
     "error": "",
-    "response_ms": 2138,
-    "content_hash": "821e5e89cb58585464f1"
+    "response_ms": 1765,
+    "content_hash": "fba9947e29556b21892b"
   },
   {
     "resource": "NCDB",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.facs.org/quality-programs/cancer-programs/national-cancer-database/",
     "ok": true,
     "http_status": 200,
@@ -3065,13 +3017,13 @@
     "title": "National Cancer Database (NCDB) | ACS",
     "facts": [],
     "error": "",
-    "response_ms": 267,
+    "response_ms": 606,
     "content_hash": "c74612750aee041f969f"
   },
   {
     "resource": "TCIA",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancerimagingarchive.net/",
     "ok": true,
     "http_status": 200,
@@ -3080,13 +3032,13 @@
     "title": "Welcome to The Cancer Imaging Archive - The Cancer Imaging Archive (TCIA)",
     "facts": [],
     "error": "",
-    "response_ms": 799,
-    "content_hash": "7b84147681e909e1e2fd"
+    "response_ms": 841,
+    "content_hash": "c1960ff8266f70a30fd1"
   },
   {
     "resource": "IDC",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://portal.imaging.datacommons.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -3120,13 +3072,13 @@
       }
     ],
     "error": "",
-    "response_ms": 299,
+    "response_ms": 245,
     "content_hash": "1bcfbcd172906696dc66"
   },
   {
     "resource": "Kaplan-Meier Plotter",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://kmplot.com/analysis/",
     "ok": true,
     "http_status": 200,
@@ -3144,13 +3096,13 @@
       }
     ],
     "error": "",
-    "response_ms": 976,
+    "response_ms": 577,
     "content_hash": "d041fb5b707ee60000c3"
   },
   {
     "resource": "PLCO",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cdas.cancer.gov/plco/",
     "ok": true,
     "http_status": 200,
@@ -3168,13 +3120,13 @@
       }
     ],
     "error": "",
-    "response_ms": 831,
-    "content_hash": "985dc3231942ed701f0b"
+    "response_ms": 522,
+    "content_hash": "bdcb58911c894d1a6561"
   },
   {
     "resource": "CTDC",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://datacommons.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -3200,13 +3152,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1486,
-    "content_hash": "b4f297849dfe149cf0e2"
+    "response_ms": 1226,
+    "content_hash": "de89f4ea5dd19bbfb50a"
   },
   {
     "resource": "Foundation Medicine Adult Cancer Clinical Dataset",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://gdc.cancer.gov/about-gdc/contributed-genomic-data-cancer-research/foundation-medicine",
     "ok": true,
     "http_status": 200,
@@ -3215,13 +3167,13 @@
     "title": "Foundation Medicine | NCI Genomic Data Commons",
     "facts": [],
     "error": "",
-    "response_ms": 631,
-    "content_hash": "7fc0a244fd9afcecf77e"
+    "response_ms": 300,
+    "content_hash": "156e9d6c27fd348ad696"
   },
   {
     "resource": "Clinical Genomic Database (CGD)",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://research.nhgri.nih.gov/CGD/",
     "ok": true,
     "http_status": 200,
@@ -3230,13 +3182,13 @@
     "title": "Clinical Genomic Database",
     "facts": [],
     "error": "",
-    "response_ms": 572,
+    "response_ms": 194,
     "content_hash": "5e9e0abc992a62bd5ff7"
   },
   {
     "resource": "Count Me In",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://joincountmein.org/",
     "ok": true,
     "http_status": 200,
@@ -3245,13 +3197,13 @@
     "title": "Count Me In",
     "facts": [],
     "error": "",
-    "response_ms": 231,
+    "response_ms": 306,
     "content_hash": "11cd603d355e242420ae"
   },
   {
     "resource": "Danish Head and Neck Cancer Database",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.dahanca.dk/",
     "ok": true,
     "http_status": 200,
@@ -3260,13 +3212,13 @@
     "title": "D A H A N C A",
     "facts": [],
     "error": "",
-    "response_ms": 2815,
+    "response_ms": 740,
     "content_hash": "1421ea8d1975f375aa49"
   },
   {
     "resource": "PROGgene / PROGgeneV2",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.progtools.net/gene/",
     "ok": false,
     "http_status": 404,
@@ -3275,13 +3227,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 79,
+    "response_ms": 199,
     "content_hash": "e3b0c44298fc1c149afb"
   },
   {
     "resource": "PSDC",
     "category": "Cancer Clinical / Epidemiology / Outcomes",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://datacommons.cancer.gov/",
     "ok": true,
     "http_status": 200,
@@ -3307,13 +3259,13 @@
       }
     ],
     "error": "",
-    "response_ms": 1438,
-    "content_hash": "b4f297849dfe149cf0e2"
+    "response_ms": 1116,
+    "content_hash": "de89f4ea5dd19bbfb50a"
   },
   {
     "resource": "TISCH2",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tisch.comp-genomics.org/",
     "ok": false,
     "http_status": null,
@@ -3321,14 +3273,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='tisch.comp-genomics.org', port=443): Read timed out. (read timeout=25)",
-    "response_ms": 50224,
+    "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
+    "response_ms": 17406,
     "content_hash": ""
   },
   {
     "resource": "IEDB",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.iedb.org/",
     "ok": true,
     "http_status": 200,
@@ -3337,13 +3289,13 @@
     "title": "IEDB.org: Free epitope database and prediction resource",
     "facts": [],
     "error": "",
-    "response_ms": 326,
-    "content_hash": "eaa2fa271205f75fc576"
+    "response_ms": 394,
+    "content_hash": "38ba325b7da36e665f08"
   },
   {
     "resource": "TIDE",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://tide.dfci.harvard.edu/",
     "ok": false,
     "http_status": 403,
@@ -3352,13 +3304,13 @@
     "title": "403 Forbidden",
     "facts": [],
     "error": "",
-    "response_ms": 740,
+    "response_ms": 752,
     "content_hash": "58bf2215b395dcac74c0"
   },
   {
     "resource": "TIMER",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cistrome.shinyapps.io/timer/",
     "ok": true,
     "http_status": 200,
@@ -3367,13 +3319,13 @@
     "title": "TIMER",
     "facts": [],
     "error": "",
-    "response_ms": 527,
-    "content_hash": "4dc5dafcee67e6f0f5fa"
+    "response_ms": 275,
+    "content_hash": "45e12653dc783c91103e"
   },
   {
     "resource": "AIRR Data Commons",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.airr-community.org/",
     "ok": false,
     "http_status": 403,
@@ -3382,28 +3334,28 @@
     "title": "Just a moment...",
     "facts": [],
     "error": "",
-    "response_ms": 1234,
-    "content_hash": "9acb36bf2ee763f98ed9"
+    "response_ms": 767,
+    "content_hash": "86a6a15082caac26bbdc"
   },
   {
     "resource": "Cancer Immunome Atlas",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tcia.at/",
     "ok": true,
     "http_status": 200,
     "final_url": "https://tcia.at/",
     "content_type": "text/html; charset=UTF-8",
-    "title": "",
+    "title": "TCIA - The Cancer Immunome Atlas",
     "facts": [],
     "error": "",
-    "response_ms": 874,
-    "content_hash": "209520f864e93d0b429f"
+    "response_ms": 705,
+    "content_hash": "f7ebbe50ae6d51f98002"
   },
   {
     "resource": "ImmPort",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.immport.org/",
     "ok": true,
     "http_status": 200,
@@ -3412,28 +3364,28 @@
     "title": "ImmPort Shared Data",
     "facts": [],
     "error": "",
-    "response_ms": 1044,
+    "response_ms": 216,
     "content_hash": "2aa1fe8635ae72304c52"
   },
   {
     "resource": "TIMER2",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://timer.cistrome.org/",
-    "ok": false,
-    "http_status": null,
-    "final_url": "http://timer.cistrome.org/",
-    "content_type": "",
-    "title": "",
+    "ok": true,
+    "http_status": 200,
+    "final_url": "https://compbio.cn/timer3/",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "TIMER3",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='compbio.cn', port=443): Read timed out. (read timeout=25)",
-    "response_ms": 27134,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 1894,
+    "content_hash": "9f37aa65b785b8f41b10"
   },
   {
     "resource": "TIMEDB",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://timedb.deepomics.org/",
     "ok": true,
     "http_status": 200,
@@ -3459,13 +3411,13 @@
       }
     ],
     "error": "",
-    "response_ms": 937,
-    "content_hash": "088318d613ca033c50ed"
+    "response_ms": 3029,
+    "content_hash": "f272bd5cb854981b4afb"
   },
   {
     "resource": "TISIDB",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://cis.hku.hk/TISIDB/",
     "ok": false,
     "http_status": null,
@@ -3474,13 +3426,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='cis.hku.hk', port=443): Max retries exceeded with url: /TISIDB/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1082)')))",
-    "response_ms": 1117,
+    "response_ms": 1084,
     "content_hash": ""
   },
   {
     "resource": "VDJdb",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://vdjdb.cdr3.net/",
     "ok": true,
     "http_status": 200,
@@ -3489,13 +3441,13 @@
     "title": "VDJdb",
     "facts": [],
     "error": "",
-    "response_ms": 1775,
+    "response_ms": 1265,
     "content_hash": "ad7bf00df23fd50d17d5"
   },
   {
     "resource": "McPAS-TCR",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://friedmanlab.weizmann.ac.il/McPAS-TCR/",
     "ok": false,
     "http_status": null,
@@ -3504,13 +3456,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='friedmanlab.weizmann.ac.il', port=80): Max retries exceeded with url: /McPAS-TCR/ (Caused by NewConnectionError(\"HTTPConnection(host='friedmanlab.weizmann.ac.il', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "response_ms": 1377,
+    "response_ms": 427,
     "content_hash": ""
   },
   {
     "resource": "Cancer Immunome Database (CID)",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://ludwig-sun5.unil.ch/CancerImmunomeDB/",
     "ok": false,
     "http_status": null,
@@ -3519,43 +3471,43 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='ludwig-sun5.unil.ch', port=80): Max retries exceeded with url: /CancerImmunomeDB/ (Caused by NameResolutionError(\"HTTPConnection(host='ludwig-sun5.unil.ch', port=80): Failed to resolve 'ludwig-sun5.unil.ch' ([Errno -5] No address associated with hostname)\"))",
-    "response_ms": 423,
+    "response_ms": 114,
     "content_hash": ""
   },
   {
     "resource": "CTdatabase",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cta.lncc.br/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "http://www.cta.lncc.br/",
-    "content_type": "text/html",
-    "title": "CTpedia",
+    "content_type": "",
+    "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 1180,
-    "content_hash": "5202e4e67a118990da08"
+    "error": "HTTPConnectionPool(host='www.cta.lncc.br', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPConnection(host='www.cta.lncc.br', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 764,
+    "content_hash": ""
   },
   {
     "resource": "HPtaa",
     "category": "Cancer Immunology & Immunotherapy",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.bioinfo.org.cn/hptaa/",
     "ok": false,
-    "http_status": null,
+    "http_status": 404,
     "final_url": "http://www.bioinfo.org.cn/hptaa/",
-    "content_type": "",
-    "title": "",
+    "content_type": "text/html",
+    "title": "404 Not Found",
     "facts": [],
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "response_ms": 3566,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 1196,
+    "content_hash": "ee1a27178227546d3dcc"
   },
   {
     "resource": "GEO",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -3564,13 +3516,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 183,
-    "content_hash": "5b1937b7d3326474d64d"
+    "response_ms": 272,
+    "content_hash": "f26a73fd74dacb2dcc10"
   },
   {
     "resource": "HMP",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://hmpdacc.org/",
     "ok": true,
     "http_status": 200,
@@ -3579,13 +3531,13 @@
     "title": "Casino utan Svensk Licens 🎖 Casino utan Spelpaus 2026",
     "facts": [],
     "error": "",
-    "response_ms": 1594,
-    "content_hash": "1020651201de9727ac67"
+    "response_ms": 1391,
+    "content_hash": "d796a4b92605a58bab7b"
   },
   {
     "resource": "curatedMetagenomicData",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://waldronlab.io/curatedMetagenomicData/",
     "ok": true,
     "http_status": 200,
@@ -3594,13 +3546,13 @@
     "title": "Curated Metagenomic Data of the Human Microbiome • curatedMetagenomicData",
     "facts": [],
     "error": "",
-    "response_ms": 211,
+    "response_ms": 146,
     "content_hash": "872beef5721c3e6dbc84"
   },
   {
     "resource": "GMrepo",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://gmrepo.humangut.cn/",
     "ok": false,
     "http_status": null,
@@ -3609,13 +3561,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='gmrepo.humangut.cn', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='gmrepo.humangut.cn', port=443): Failed to resolve 'gmrepo.humangut.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 428,
+    "response_ms": 302,
     "content_hash": ""
   },
   {
     "resource": "MGnify",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/metagenomics/",
     "ok": true,
     "http_status": 200,
@@ -3624,28 +3576,28 @@
     "title": "MGnify - EBI",
     "facts": [],
     "error": "",
-    "response_ms": 960,
-    "content_hash": "63adeae52110d888034e"
+    "response_ms": 639,
+    "content_hash": "f75d9d24b5abae3d965e"
   },
   {
     "resource": "Qiita",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://qiita.ucsd.edu/",
-    "ok": false,
-    "http_status": null,
+    "ok": true,
+    "http_status": 200,
     "final_url": "https://qiita.ucsd.edu/",
-    "content_type": "",
-    "title": "",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "Qiita",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='qiita.ucsd.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1082)')))",
-    "response_ms": 439,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 546,
+    "content_hash": "697c18857bb23365f5ff"
   },
   {
     "resource": "gutMSNP",
     "category": "Cancer Microbiome",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bio-computing.hrbmu.edu.cn/gutMSNP/",
     "ok": true,
     "http_status": 200,
@@ -3654,13 +3606,13 @@
     "title": "gutMSNP",
     "facts": [],
     "error": "",
-    "response_ms": 1736,
+    "response_ms": 2279,
     "content_hash": "6910538ffa3bf310cfeb"
   },
   {
     "resource": "HMDB",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://hmdb.ca/",
     "ok": false,
     "http_status": 403,
@@ -3669,13 +3621,13 @@
     "title": "Just a moment...",
     "facts": [],
     "error": "",
-    "response_ms": 149,
-    "content_hash": "2accec2b9e1f49500fe0"
+    "response_ms": 150,
+    "content_hash": "ba26def663a9c4a51f91"
   },
   {
     "resource": "LIPID MAPS",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.lipidmaps.org/",
     "ok": true,
     "http_status": 200,
@@ -3684,13 +3636,13 @@
     "title": "LIPID MAPS",
     "facts": [],
     "error": "",
-    "response_ms": 1146,
-    "content_hash": "cd857ec83098a3058842"
+    "response_ms": 728,
+    "content_hash": "3d2608946f75ed22519d"
   },
   {
     "resource": "MetaboLights",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ebi.ac.uk/metabolights/",
     "ok": true,
     "http_status": 200,
@@ -3699,13 +3651,13 @@
     "title": "MetaboLights",
     "facts": [],
     "error": "",
-    "response_ms": 562,
+    "response_ms": 638,
     "content_hash": "0a46e55153136e553954"
   },
   {
     "resource": "Metabolomics Workbench",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.metabolomicsworkbench.org/",
     "ok": true,
     "http_status": 200,
@@ -3714,22 +3666,22 @@
     "title": "Metabolomics Workbench : Home",
     "facts": [
       {
-        "value": 5225,
+        "value": 5253,
         "unit": "studies",
         "qualifier": "",
-        "evidence": "sitory Upload and Manage Studies Browse and Search Studies Analyze Studies As of 10/19/26 a total of 5225 studies have been processed by the National Metabolomics Data Repository (NMDR). There are 4647 publicly available studies and the remainder ( 578 ",
+        "evidence": "sitory Upload and Manage Studies Browse and Search Studies Analyze Studies As of 10/26/26 a total of 5253 studies have been processed by the National Metabolomics Data Repository (NMDR). There are 4657 publicly available studies and the remainder ( 596 ",
         "source_url": "https://www.metabolomicsworkbench.org/",
         "confidence": "observed_official_page"
       }
     ],
     "error": "",
-    "response_ms": 820,
-    "content_hash": "6b7a70c4b2f59237d54c"
+    "response_ms": 868,
+    "content_hash": "e7877296f4d45f50df33"
   },
   {
     "resource": "CMBD",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.sysbio.org.cn/CMBD/",
     "ok": true,
     "http_status": 200,
@@ -3738,13 +3690,13 @@
     "title": "Home",
     "facts": [],
     "error": "",
-    "response_ms": 1608,
+    "response_ms": 1303,
     "content_hash": "b6f25fd39e777df7c32d"
   },
   {
     "resource": "MassBank",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://massbank.eu/MassBank/",
     "ok": true,
     "http_status": 200,
@@ -3753,13 +3705,13 @@
     "title": "MassBank",
     "facts": [],
     "error": "",
-    "response_ms": 731,
+    "response_ms": 759,
     "content_hash": "bab259837ae383987f11"
   },
   {
     "resource": "DBLiPro",
     "category": "Cancer Metabolomics & Lipidomics",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://lipid.cloudna.cn/home",
     "ok": true,
     "http_status": 200,
@@ -3768,13 +3720,13 @@
     "title": "DBLiPro",
     "facts": [],
     "error": "",
-    "response_ms": 836,
+    "response_ms": 877,
     "content_hash": "87b5b95c576112644159"
   },
   {
     "resource": "GEO",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -3783,13 +3735,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 183,
-    "content_hash": "5b1937b7d3326474d64d"
+    "response_ms": 272,
+    "content_hash": "f26a73fd74dacb2dcc10"
   },
   {
     "resource": "GEO/SRA liquid-biopsy studies",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/geo/",
     "ok": true,
     "http_status": 200,
@@ -3798,13 +3750,13 @@
     "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 258,
-    "content_hash": "797ab7487025ce9c3e61"
+    "response_ms": 137,
+    "content_hash": "0aa8cdd42c6f2bc8ea0b"
   },
   {
     "resource": "cfOmics",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cfomics.com/",
     "ok": true,
     "http_status": 200,
@@ -3813,13 +3765,13 @@
     "title": "CFOmics | Finance, Risk & Technology Advisory",
     "facts": [],
     "error": "",
-    "response_ms": 353,
+    "response_ms": 669,
     "content_hash": "30c2d1ac68974461a4fc"
   },
   {
     "resource": "ExoCarta",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.exocarta.org/",
     "ok": true,
     "http_status": 200,
@@ -3828,13 +3780,13 @@
     "title": "ExoCarta: Home   -  sEV database",
     "facts": [],
     "error": "",
-    "response_ms": 1682,
-    "content_hash": "a41d35f228a32a19051d"
+    "response_ms": 1964,
+    "content_hash": "0fffd56c5643c9dd4cab"
   },
   {
     "resource": "Vesiclepedia",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.microvesicles.org/",
     "ok": true,
     "http_status": 200,
@@ -3843,13 +3795,13 @@
     "title": "Vesiclepedia: Home - Extracellular vesicles database",
     "facts": [],
     "error": "",
-    "response_ms": 1612,
-    "content_hash": "479e06ae41a0640483a8"
+    "response_ms": 1741,
+    "content_hash": "47368e5fb1897569dc02"
   },
   {
     "resource": "SVAtlas",
     "category": "Extracellular Vesicle / Liquid Biopsy / CTC / ctDNA",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.svatlas.org/",
     "ok": true,
     "http_status": 200,
@@ -3858,13 +3810,13 @@
     "title": "SVA | Single Vesicle Atlas",
     "facts": [],
     "error": "",
-    "response_ms": 825,
+    "response_ms": 778,
     "content_hash": "302000062660118f0a56"
   },
   {
     "resource": "COSMIC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cancer.sanger.ac.uk/cosmic/",
     "ok": true,
     "http_status": 200,
@@ -3873,13 +3825,13 @@
     "title": "Login",
     "facts": [],
     "error": "",
-    "response_ms": 991,
+    "response_ms": 779,
     "content_hash": "c7306c095137c1f4d8e1"
   },
   {
     "resource": "IARC TP53 Database",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tp53.isb-cgc.org/",
     "ok": false,
     "http_status": null,
@@ -3888,13 +3840,13 @@
     "title": "",
     "facts": [],
     "error": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))",
-    "response_ms": 405,
+    "response_ms": 406,
     "content_hash": ""
   },
   {
     "resource": "canSAR",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://cansar.ai",
     "ok": true,
     "http_status": 200,
@@ -3903,13 +3855,13 @@
     "title": "canSAR | the Cancer Drug Discovery Platform | canSAR",
     "facts": [],
     "error": "",
-    "response_ms": 465,
+    "response_ms": 432,
     "content_hash": "975d243861ad5be040c9"
   },
   {
     "resource": "CIViCdb",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://civicdb.org/",
     "ok": true,
     "http_status": 200,
@@ -3918,28 +3870,28 @@
     "title": "CIViC - Clinical Interpretation of Variants in Cancer",
     "facts": [],
     "error": "",
-    "response_ms": 162,
+    "response_ms": 415,
     "content_hash": "ca50605a6322b3be2f43"
   },
   {
     "resource": "ClinVar",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/clinvar/",
     "ok": true,
     "http_status": 200,
     "final_url": "https://www.ncbi.nlm.nih.gov/clinvar/",
     "content_type": "text/html; charset=utf-8",
-    "title": "ClinVar - Home",
+    "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 339,
-    "content_hash": "c0cda15573878b13a53e"
+    "response_ms": 136,
+    "content_hash": "a06717a713194703a2d2"
   },
   {
     "resource": "GEPIA3",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://gepia3.bioinfoliu.com/",
     "ok": true,
     "http_status": 200,
@@ -3957,13 +3909,13 @@
       }
     ],
     "error": "",
-    "response_ms": 775,
-    "content_hash": "090cbc93cfbbf8edad78"
+    "response_ms": 774,
+    "content_hash": "42f0de267ed4f4a7c5ae"
   },
   {
     "resource": "Mitelman Database",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://mitelmandatabase.isb-cgc.org/",
     "ok": true,
     "http_status": 200,
@@ -3972,85 +3924,28 @@
     "title": "Mitelman Database Chromosome Aberrations and Gene Fusions in Cancer",
     "facts": [],
     "error": "",
-    "response_ms": 488,
+    "response_ms": 348,
     "content_hash": "2adb7c0c19da0f9b14f7"
   },
   {
     "resource": "Network of Cancer Genes",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://ncg.kcl.ac.uk/",
-    "ok": true,
-    "http_status": 200,
-    "final_url": "http://network-cancer-genes.org",
-    "content_type": "text/html; charset=UTF-8",
-    "title": "Network of Cancer Genes Home",
-    "facts": [
-      {
-        "value": 127,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "e cancer drivers 2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healt",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 41780,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "2235 altered in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 122,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "in coding sequence 652 altered in non-coding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in codin",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 17,
-        "unit": "studies",
-        "qualifier": "",
-        "evidence": "oding sequence 313 publications 127 cancer types 41780 donors 122 cancer types 5 pan-cancer groups (17 studies) Healthy Drivers hd Altered genes driving noncancer clones 57 canonical healthy drivers 57 altered in coding sequence 0 altered in non-codi",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 32895,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "ivers 37 altered in coding sequence 0 altered in non-coding sequence 18 publications 12 tissue types 32895 donors 9 healthy tissues 3 diseased tissues TIME Drivers Cancer genes interacting with the TIME 201 canonical TIME drivers 201 altered in coding s",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 30,
-        "unit": "cancer types",
-        "qualifier": "",
-        "evidence": "andidate TIME drivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for C",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      },
-      {
-        "value": 6921,
-        "unit": "donors",
-        "qualifier": "",
-        "evidence": "ivers 395 altered in coding sequence 0 altered in non-coding sequence 6 publications 30 cancer types 6921 donors TIME = tumour immune microenvironment Supported by: NCG is maintained by the Ciccarelli group . We are part of the Centre for Cancer Evolut",
-        "source_url": "http://network-cancer-genes.org",
-        "confidence": "observed_official_page"
-      }
-    ],
-    "error": "",
-    "response_ms": 1982,
-    "content_hash": "9b493fe336c02def0ef6"
+    "ok": false,
+    "http_status": null,
+    "final_url": "http://ncg.kcl.ac.uk/",
+    "content_type": "",
+    "title": "",
+    "facts": [],
+    "error": "HTTPConnectionPool(host='network-cancer-genes.org', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='network-cancer-genes.org', port=80) at 0x7fe8ed542be0>, 'Connection to network-cancer-genes.org timed out. (connect timeout=25)'))",
+    "response_ms": 25655,
+    "content_hash": ""
   },
   {
     "resource": "ArrayMap",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://arraymap.progenetix.org/",
     "ok": false,
     "http_status": null,
@@ -4059,13 +3954,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='arraymap.progenetix.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='arraymap.progenetix.org', port=443): Failed to resolve 'arraymap.progenetix.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 41,
+    "response_ms": 192,
     "content_hash": ""
   },
   {
     "resource": "CancerGenes",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancer.org.uk/",
     "ok": true,
     "http_status": 200,
@@ -4074,13 +3969,13 @@
     "title": "Cancer Research UK | The world's leading cancer charity",
     "facts": [],
     "error": "",
-    "response_ms": 775,
-    "content_hash": "dd29ec95f1edd28c4065"
+    "response_ms": 651,
+    "content_hash": "ae9548e9f80c88b16204"
   },
   {
     "resource": "FerrDb",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.zhounan.org/ferrdb/",
     "ok": true,
     "http_status": 200,
@@ -4089,13 +3984,13 @@
     "title": "FerrDb",
     "facts": [],
     "error": "",
-    "response_ms": 274,
+    "response_ms": 692,
     "content_hash": "ebe0e7eef26269614100"
   },
   {
     "resource": "FerrDb V3",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.zhounan.org/ferrdb/",
     "ok": true,
     "http_status": 200,
@@ -4104,13 +3999,13 @@
     "title": "FerrDb",
     "facts": [],
     "error": "",
-    "response_ms": 56,
+    "response_ms": 181,
     "content_hash": "ebe0e7eef26269614100"
   },
   {
     "resource": "GSCALite / GSCA",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bioinfo.life.hust.edu.cn/GSCA/",
     "ok": false,
     "http_status": null,
@@ -4119,13 +4014,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='bioinfo.life.hust.edu.cn', port=80): Max retries exceeded with url: /GSCA/ (Caused by NameResolutionError(\"HTTPConnection(host='bioinfo.life.hust.edu.cn', port=80): Failed to resolve 'bioinfo.life.hust.edu.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 854,
+    "response_ms": 929,
     "content_hash": ""
   },
   {
     "resource": "metsDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://relab.xidian.edu.cn/",
     "ok": true,
     "http_status": 200,
@@ -4134,13 +4029,13 @@
     "title": "Rehabilitation Engineering Lab åº·å¤å·¥ç¨å®éªå®¤",
     "facts": [],
     "error": "",
-    "response_ms": 2624,
+    "response_ms": 2785,
     "content_hash": "c74f0772367ee73ee57f"
   },
   {
     "resource": "OncoMine/Oncomine",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.oncomine.org/",
     "ok": true,
     "http_status": 200,
@@ -4149,28 +4044,37 @@
     "title": "Oncomine Next-Generation Sequencing Solutions for Genomic Profiling | Thermo Fisher Scientific - US",
     "facts": [],
     "error": "",
-    "response_ms": 468,
-    "content_hash": "e560ad843a0468ad8278"
+    "response_ms": 812,
+    "content_hash": "23396ff954967a910a5d"
   },
   {
     "resource": "PRECOG",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://precog.stanford.edu/",
-    "ok": false,
-    "http_status": null,
+    "ok": true,
+    "http_status": 200,
     "final_url": "https://precog.stanford.edu/",
-    "content_type": "",
+    "content_type": "text/html; charset=UTF-8",
     "title": "",
-    "facts": [],
-    "error": "HTTPSConnectionPool(host='precog.stanford.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 84,
-    "content_hash": ""
+    "facts": [
+      {
+        "value": 46000,
+        "unit": "patients",
+        "qualifier": "",
+        "evidence": "survival. PRECOG includes 335 cancer datasets \n                 with survival or response data for >46,000 patients, covering ~55 malignancies. Gentles/Newman et al. Nature Medicine (2015) Benard/Lalgudi et al. Nucleic Acids Research (2025) Adult Explore ",
+        "source_url": "https://precog.stanford.edu/",
+        "confidence": "observed_official_page"
+      }
+    ],
+    "error": "",
+    "response_ms": 8932,
+    "content_hash": "b3e936f81f489bec2cac"
   },
   {
     "resource": "SynLethDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://synlethdb.sist.shanghaitech.edu.cn/",
     "ok": true,
     "http_status": 200,
@@ -4179,13 +4083,13 @@
     "title": "SynLethDB",
     "facts": [],
     "error": "",
-    "response_ms": 3248,
+    "response_ms": 2461,
     "content_hash": "bb3617b04ec40b9df52e"
   },
   {
     "resource": "TSGene",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bioinfo.uth.edu/TSGene/",
     "ok": false,
     "http_status": 403,
@@ -4194,13 +4098,13 @@
     "title": "UTHealth Houston WAF Blocked Page",
     "facts": [],
     "error": "",
-    "response_ms": 296,
-    "content_hash": "9a8b531773b88f694529"
+    "response_ms": 223,
+    "content_hash": "244a9d91d12df4685bf1"
   },
   {
     "resource": "CancerLivER",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://webs.iiitd.edu.in/raghava/cancerliver/",
     "ok": true,
     "http_status": 200,
@@ -4226,28 +4130,28 @@
       }
     ],
     "error": "",
-    "response_ms": 10967,
+    "response_ms": 1598,
     "content_hash": "5e91ae8bff8d4687fb00"
   },
   {
     "resource": "CancerResource",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bioinformatics.charite.de/cancerresource/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "https://bioinformatics.charite.de/cancerresource/",
-    "content_type": "text/html",
+    "content_type": "",
     "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 593,
-    "content_hash": "75a9cce6378accfa4d25"
+    "error": "HTTPSConnectionPool(host='bioinformatics.charite.de', port=443): Max retries exceeded with url: /cancerresource/ (Caused by NewConnectionError(\"HTTPSConnection(host='bioinformatics.charite.de', port=443): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 242,
+    "content_hash": ""
   },
   {
     "resource": "CancerSCEM",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ngdc.cncb.ac.cn/",
     "ok": true,
     "http_status": 200,
@@ -4259,7 +4163,7 @@
         "value": 100,
         "unit": "pb",
         "qualifier": "",
-        "evidence": "向流感病毒的基因组语言模型Influ-BERT (2026年4月18日) 国家生物信息中心发布单体型网络分析软件HaploThread (2026年3月5日) 组学原始数据归档库GSA用户汇交数据突破100PB (2026年2月22日) 了解更多 新闻动态 第11届生命与健康大数据国际研讨会会议通知 (2026年9月15日) 国家生物信息中心-国家基因组科学数据中心（CNCB-NGDC）多领域培训推动生物信息技术落地应用 赋能行业人才培养 (2026年8月26日) 国家生物信息中心-国",
+        "evidence": "向流感病毒的基因组语言模型Influ-BERT (2026年4月18日) 国家生物信息中心发布单体型网络分析软件HaploThread (2026年3月5日) 组学原始数据归档库GSA用户汇交数据突破100PB (2026年2月22日) 了解更多 新闻动态 国家生物信息中心举办第11届生命与健康大数据国际研讨会 (2026年10月21日) 第11届生命与健康大数据国际研讨会会议通知 (2026年9月15日) 国家生物信息中心-国家基因组科学数据中心（CNCB-NGDC）多领域培训推动生",
         "source_url": "https://ngdc.cncb.ac.cn/",
         "confidence": "observed_official_page"
       },
@@ -4281,13 +4185,13 @@
       }
     ],
     "error": "",
-    "response_ms": 2234,
-    "content_hash": "c79dc3b5f89a0ca370c4"
+    "response_ms": 2451,
+    "content_hash": "a0aeebddc9dc49953d4b"
   },
   {
     "resource": "CanGEM",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cangem.org",
     "ok": false,
     "http_status": null,
@@ -4296,13 +4200,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.cangem.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cangem.org', port=80): Failed to resolve 'www.cangem.org' ([Errno -3] Temporary failure in name resolution)\"))",
-    "response_ms": 10024,
+    "response_ms": 10015,
     "content_hash": ""
   },
   {
     "resource": "Colorectal Cancer Atlas",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ccrcatlas.org/",
     "ok": false,
     "http_status": null,
@@ -4311,13 +4215,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.ccrcatlas.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.ccrcatlas.org', port=443): Failed to resolve 'www.ccrcatlas.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 249,
+    "response_ms": 146,
     "content_hash": ""
   },
   {
     "resource": "COLT-Cancer",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://colt.ccbr.utoronto.ca/cancer",
     "ok": false,
     "http_status": null,
@@ -4326,13 +4230,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='colt.ccbr.utoronto.ca', port=80): Max retries exceeded with url: /cancer (Caused by NameResolutionError(\"HTTPConnection(host='colt.ccbr.utoronto.ca', port=80): Failed to resolve 'colt.ccbr.utoronto.ca' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 155,
+    "response_ms": 44,
     "content_hash": ""
   },
   {
     "resource": "CTR-DB v2.0",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ctrdb.ncpsb.org.cn/",
     "ok": false,
     "http_status": null,
@@ -4341,13 +4245,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='ctrdb.ncpsb.org.cn', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 1186,
+    "response_ms": 613,
     "content_hash": ""
   },
   {
     "resource": "dbDEMC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.picb.ac.cn/dbDEMC/",
     "ok": false,
     "http_status": null,
@@ -4356,13 +4260,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.picb.ac.cn', port=80): Max retries exceeded with url: /dbDEMC/ (Caused by NewConnectionError(\"HTTPConnection(host='www.picb.ac.cn', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
-    "response_ms": 1574,
+    "response_ms": 1258,
     "content_hash": ""
   },
   {
     "resource": "GIDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://gidb.bioinfo-minzhao.org/",
     "ok": false,
     "http_status": null,
@@ -4371,13 +4275,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='gidb.bioinfo-minzhao.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='gidb.bioinfo-minzhao.org', port=80): Failed to resolve 'gidb.bioinfo-minzhao.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 323,
+    "response_ms": 238,
     "content_hash": ""
   },
   {
     "resource": "HCCDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://lifeome.net/database/hccdb/",
     "ok": true,
     "http_status": 200,
@@ -4386,13 +4290,13 @@
     "title": "HCCDB: Integrative Molecular Database of Hepatocellular Carcinoma",
     "facts": [],
     "error": "",
-    "response_ms": 9178,
+    "response_ms": 10436,
     "content_hash": "f30c4dca8ece4e788cbb"
   },
   {
     "resource": "lnc2cancer",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bio-bigdata.hrbmu.edu.cn/lnc2cancer/",
     "ok": true,
     "http_status": 200,
@@ -4401,13 +4305,13 @@
     "title": "Lnc2Cancer 3.0",
     "facts": [],
     "error": "",
-    "response_ms": 3209,
+    "response_ms": 7595,
     "content_hash": "4cc3774694c40fa75d57"
   },
   {
     "resource": "Lung Cancer Explorer (LCE)",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://lce.biohpc.swmed.edu/",
     "ok": true,
     "http_status": 200,
@@ -4416,13 +4320,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 526,
+    "response_ms": 503,
     "content_hash": "a930f86d57890939f63e"
   },
   {
     "resource": "OncomiR / OMCD",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.oncomir.org/",
     "ok": true,
     "http_status": 200,
@@ -4431,13 +4335,13 @@
     "title": "OncomiR",
     "facts": [],
     "error": "",
-    "response_ms": 767,
+    "response_ms": 554,
     "content_hash": "83e9e89cc3dd600d9bb4"
   },
   {
     "resource": "Pancreatic Expression Database (PED)",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.pancreasexpression.org/",
     "ok": false,
     "http_status": null,
@@ -4446,13 +4350,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.pancreasexpression.org', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.pancreasexpression.org'. (_ssl.c:1082)\")))",
-    "response_ms": 413,
+    "response_ms": 527,
     "content_hash": ""
   },
   {
     "resource": "PROMISE",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.prostatecancerpromise.org/",
     "ok": true,
     "http_status": 200,
@@ -4461,13 +4365,13 @@
     "title": "Prostate Cancer Promise – In The Fight Against Prostate Cancer, Your DNA May Be The Most Powerful Tool",
     "facts": [],
     "error": "",
-    "response_ms": 3584,
+    "response_ms": 1132,
     "content_hash": "678d90f1077160fbcee3"
   },
   {
     "resource": "TISMO",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://tismo.cistrome.org/",
     "ok": true,
     "http_status": 200,
@@ -4476,13 +4380,13 @@
     "title": "TISMO",
     "facts": [],
     "error": "",
-    "response_ms": 1337,
+    "response_ms": 956,
     "content_hash": "c2afc20440a2ba79a00e"
   },
   {
     "resource": "UMD TP53 Database",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://p53.fr/",
     "ok": true,
     "http_status": 200,
@@ -4491,28 +4395,28 @@
     "title": "The TP53 Website - The TP53 Web Site",
     "facts": [],
     "error": "",
-    "response_ms": 1252,
+    "response_ms": 1028,
     "content_hash": "f0c0c2bbc02ae39e5caa"
   },
   {
     "resource": "UMD-BRCA1/BRCA2",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://databases.lovd.nl/shared/genes/BRCA1",
-    "ok": false,
-    "http_status": 403,
-    "final_url": "https://www.lovd.nl/403_abuse.php",
+    "ok": true,
+    "http_status": 200,
+    "final_url": "https://databases.lovd.nl/shared/genes/BRCA1",
     "content_type": "text/html; charset=UTF-8",
-    "title": "Home - LOVD - An Open Source DNA variation database system",
+    "title": "The BRCA1 gene homepage - Global Variome shared LOVD",
     "facts": [],
     "error": "",
-    "response_ms": 3397,
-    "content_hash": "d6e545d7092a0021b016"
+    "response_ms": 1695,
+    "content_hash": "e1ab0b86f21d04cb59a9"
   },
   {
     "resource": "BCCTBbp",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://bioinformatics.breastcancertissuebank.org/",
     "ok": false,
     "http_status": null,
@@ -4521,13 +4425,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='bioinformatics.breastcancertissuebank.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.breastcancertissuebank.org', port=80): Failed to resolve 'bioinformatics.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 268,
+    "response_ms": 119,
     "content_hash": ""
   },
   {
     "resource": "Breast Cancer Campaign Tissue Bank",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.breastcancertissuebank.org/",
     "ok": false,
     "http_status": null,
@@ -4536,28 +4440,28 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.breastcancertissuebank.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.breastcancertissuebank.org', port=443): Failed to resolve 'www.breastcancertissuebank.org' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 170,
+    "response_ms": 211,
     "content_hash": ""
   },
   {
     "resource": "CancerPPD",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://crdd.osdd.net/raghava/cancerppd/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "http://crdd.osdd.net/raghava/cancerppd/",
-    "content_type": "text/html",
-    "title": "CancerPPD",
+    "content_type": "",
+    "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 618,
-    "content_hash": "d222983e93719f5cb47e"
+    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Max retries exceeded with url: /raghava/cancerppd/ (Caused by NewConnectionError(\"HTTPConnection(host='crdd.osdd.net', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 408,
+    "content_hash": ""
   },
   {
     "resource": "Candidate Cancer Gene Database",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ccgd-starrlab.oit.umn.edu/",
     "ok": false,
     "http_status": null,
@@ -4566,13 +4470,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='ccgd-starrlab.oit.umn.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
-    "response_ms": 360,
+    "response_ms": 237,
     "content_hash": ""
   },
   {
     "resource": "CCGD-ESCC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://db.cbi.pku.edu.cn/ccgd/",
     "ok": false,
     "http_status": null,
@@ -4581,13 +4485,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='db.cbi.pku.edu.cn', port=80): Max retries exceeded with url: /ccgd/ (Caused by NameResolutionError(\"HTTPConnection(host='db.cbi.pku.edu.cn', port=80): Failed to resolve 'db.cbi.pku.edu.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 1502,
+    "response_ms": 2175,
     "content_hash": ""
   },
   {
     "resource": "ccmGDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bioinfo.uth.edu/ccmGDB/",
     "ok": false,
     "http_status": 403,
@@ -4596,13 +4500,13 @@
     "title": "UTHealth Houston WAF Blocked Page",
     "facts": [],
     "error": "",
-    "response_ms": 220,
-    "content_hash": "755f07001ddc7ce9cdba"
+    "response_ms": 200,
+    "content_hash": "f14051923421bdd0ed1e"
   },
   {
     "resource": "CellLineNavigator",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.medicalgenomics.org/celllinenavigator/",
     "ok": false,
     "http_status": null,
@@ -4611,13 +4515,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='www.medicalgenomics.org', port=443): Max retries exceeded with url: /celllinenavigator/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate (_ssl.c:1082)')))",
-    "response_ms": 1003,
+    "response_ms": 714,
     "content_hash": ""
   },
   {
     "resource": "CGAP",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.cancer.gov/ccg/research/genome-sequencing/cgap",
     "ok": false,
     "http_status": 404,
@@ -4626,13 +4530,13 @@
     "title": "Page Not Found - NCI",
     "facts": [],
     "error": "",
-    "response_ms": 834,
-    "content_hash": "f58ba484f180e50c9a22"
+    "response_ms": 520,
+    "content_hash": "813e6af9fb4ee7679639"
   },
   {
     "resource": "CMPD",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://proteomics.bioengr.uic.edu/cmpd/",
     "ok": false,
     "http_status": null,
@@ -4641,28 +4545,28 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='bioinformatics.bioe.uic.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bioinformatics.bioe.uic.edu', port=80): Failed to resolve 'bioinformatics.bioe.uic.edu' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 482,
+    "response_ms": 97,
     "content_hash": ""
   },
   {
     "resource": "CTDatabase",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cta.lncc.br/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "http://www.cta.lncc.br/",
-    "content_type": "text/html",
-    "title": "CTpedia",
+    "content_type": "",
+    "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 1180,
-    "content_hash": "5202e4e67a118990da08"
+    "error": "HTTPConnectionPool(host='www.cta.lncc.br', port=80): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPConnection(host='www.cta.lncc.br', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 764,
+    "content_hash": ""
   },
   {
     "resource": "dbDEPC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://lifecenter.sgst.cn/dbdepc/index.do",
     "ok": false,
     "http_status": null,
@@ -4671,13 +4575,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='lifecenter.sgst.cn', port=80): Max retries exceeded with url: /dbdepc/index.do (Caused by NameResolutionError(\"HTTPConnection(host='lifecenter.sgst.cn', port=80): Failed to resolve 'lifecenter.sgst.cn' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 290,
+    "response_ms": 548,
     "content_hash": ""
   },
   {
     "resource": "dbEM",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://webs.iiitd.edu.in/raghava/dbem/",
     "ok": true,
     "http_status": 200,
@@ -4686,13 +4590,13 @@
     "title": "dbEM: A database of epigenetic modifiers",
     "facts": [],
     "error": "",
-    "response_ms": 5820,
+    "response_ms": 1138,
     "content_hash": "65c873423bb87a881f12"
   },
   {
     "resource": "FusionCancer",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bis.zju.edu.cn/fusioncancer/",
     "ok": false,
     "http_status": 404,
@@ -4701,28 +4605,28 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 1796,
+    "response_ms": 2003,
     "content_hash": "99eb12f2ab3c4866a353"
   },
   {
     "resource": "miRCancer",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://mircancer.ecu.edu/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "http://mircancer.ecu.edu/",
-    "content_type": "text/html;charset=UTF-8",
-    "title": "miRCancer - microRNA Cancer Association Database",
+    "content_type": "",
+    "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 180,
-    "content_hash": "ba528de3ea5198710b75"
+    "error": "HTTPConnectionPool(host='mircancer.ecu.edu', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='mircancer.ecu.edu', port=80) at 0x7fe8ed542f10>, 'Connection to mircancer.ecu.edu timed out. (connect timeout=25)'))",
+    "response_ms": 25098,
+    "content_hash": ""
   },
   {
     "resource": "OncoDB.HCC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://oncodb.hcc.ibms.sinica.edu.tw/",
     "ok": false,
     "http_status": null,
@@ -4730,14 +4634,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPConnectionPool(host='oncodb.hcc.ibms.sinica.edu.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='oncodb.hcc.ibms.sinica.edu.tw', port=80) at 0x7f11dbbf2be0>, 'Connection to oncodb.hcc.ibms.sinica.edu.tw timed out. (connect timeout=25)'))",
-    "response_ms": 26641,
+    "error": "HTTPConnectionPool(host='oncodb.hcc.ibms.sinica.edu.tw', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='oncodb.hcc.ibms.sinica.edu.tw', port=80) at 0x7fe8ed543570>, 'Connection to oncodb.hcc.ibms.sinica.edu.tw timed out. (connect timeout=25)'))",
+    "response_ms": 26001,
     "content_hash": ""
   },
   {
     "resource": "BreCAN-DB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://14.139.32.56/",
     "ok": false,
     "http_status": null,
@@ -4745,14 +4649,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPConnectionPool(host='14.139.32.56', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='14.139.32.56', port=80) at 0x7f11db9346b0>, 'Connection to 14.139.32.56 timed out. (connect timeout=25)'))",
-    "response_ms": 25006,
+    "error": "HTTPConnectionPool(host='14.139.32.56', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='14.139.32.56', port=80) at 0x7fe8ed542cf0>, 'Connection to 14.139.32.56 timed out. (connect timeout=25)'))",
+    "response_ms": 25008,
     "content_hash": ""
   },
   {
     "resource": "CancerMA",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.cancerma.org.uk/",
     "ok": false,
     "http_status": null,
@@ -4761,13 +4665,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='www.cancerma.org.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='www.cancerma.org.uk', port=80): Failed to resolve 'www.cancerma.org.uk' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 39,
+    "response_ms": 60,
     "content_hash": ""
   },
   {
     "resource": "curatedOvarianData",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://bioconductor.org/packages/curatedOvarianData/",
     "ok": true,
     "http_status": 200,
@@ -4776,13 +4680,13 @@
     "title": "Bioconductor - curatedOvarianData",
     "facts": [],
     "error": "",
-    "response_ms": 998,
-    "content_hash": "686b030fbd74cdfdebc0"
+    "response_ms": 1176,
+    "content_hash": "26b498afdca940d2ec32"
   },
   {
     "resource": "DIVAS",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://divas.uth.edu/",
     "ok": false,
     "http_status": null,
@@ -4791,13 +4695,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPSConnectionPool(host='divas.uth.edu', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='divas.uth.edu', port=443): Failed to resolve 'divas.uth.edu' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 61,
+    "response_ms": 202,
     "content_hash": ""
   },
   {
     "resource": "GCGene",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://gcgene.bioinfo-minzhao.org/",
     "ok": true,
     "http_status": 200,
@@ -4806,13 +4710,13 @@
     "title": "GCGene database Home",
     "facts": [],
     "error": "",
-    "response_ms": 855,
+    "response_ms": 1994,
     "content_hash": "9dcf928a70575c3d2653"
   },
   {
     "resource": "OncoReveal",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://oncokb.org/",
     "ok": false,
     "http_status": 404,
@@ -4821,13 +4725,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 376,
+    "response_ms": 568,
     "content_hash": "b16e15764b8bc06c5c3f"
   },
   {
     "resource": "OncoSexome",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://idrblab.org/oncosexome/",
     "ok": true,
     "http_status": 200,
@@ -4836,13 +4740,13 @@
     "title": "OncoSexome",
     "facts": [],
     "error": "",
-    "response_ms": 257,
+    "response_ms": 549,
     "content_hash": "fe91c37a0d00ec24ea52"
   },
   {
     "resource": "Osteosarcoma Database",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://osteosarcoma-db.uni-muenster.de/",
     "ok": true,
     "http_status": 200,
@@ -4851,13 +4755,13 @@
     "title": "Osteosarcoma-db",
     "facts": [],
     "error": "",
-    "response_ms": 1921,
+    "response_ms": 1106,
     "content_hash": "b273ed19645db0de2d4e"
   },
   {
     "resource": "Rare Cancer Explorer (RaCE)",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://biospace.shinyapps.io/race/",
     "ok": true,
     "http_status": 200,
@@ -4891,28 +4795,28 @@
       }
     ],
     "error": "",
-    "response_ms": 15077,
-    "content_hash": "372ef633362009a2757e"
+    "response_ms": 14520,
+    "content_hash": "6d21887b286a4fd4b2db"
   },
   {
     "resource": "CCDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://crdd.osdd.net/raghava/ccdb/",
-    "ok": true,
-    "http_status": 200,
+    "ok": false,
+    "http_status": null,
     "final_url": "http://crdd.osdd.net/raghava/ccdb/",
-    "content_type": "text/html",
+    "content_type": "",
     "title": "",
     "facts": [],
-    "error": "",
-    "response_ms": 538,
-    "content_hash": "a7d31cd5a289c68c0981"
+    "error": "HTTPConnectionPool(host='crdd.osdd.net', port=80): Max retries exceeded with url: /raghava/ccdb/ (Caused by NewConnectionError(\"HTTPConnection(host='crdd.osdd.net', port=80): Failed to establish a new connection: [Errno 111] Connection refused\"))",
+    "response_ms": 311,
+    "content_hash": ""
   },
   {
     "resource": "CGED",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://cged.hgc.jp/",
     "ok": false,
     "http_status": null,
@@ -4921,13 +4825,13 @@
     "title": "",
     "facts": [],
     "error": "HTTPConnectionPool(host='cged.hgc.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cged.hgc.jp', port=80): Failed to resolve 'cged.hgc.jp' ([Errno -2] Name or service not known)\"))",
-    "response_ms": 225,
+    "response_ms": 237,
     "content_hash": ""
   },
   {
     "resource": "CRDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.habdsk.org/crdb",
     "ok": true,
     "http_status": 200,
@@ -4936,13 +4840,13 @@
     "title": "Home of All Biological Database (HABDSK)",
     "facts": [],
     "error": "",
-    "response_ms": 832,
-    "content_hash": "bf8251d71a55c0bc2ca2"
+    "response_ms": 1376,
+    "content_hash": "b8e82137dde7219e90a8"
   },
   {
     "resource": "DDPC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://cbrc.kaust.edu.sa/ddpc/",
     "ok": false,
     "http_status": 503,
@@ -4951,13 +4855,13 @@
     "title": "",
     "facts": [],
     "error": "",
-    "response_ms": 10097,
-    "content_hash": "60473c9d358d48ff4df7"
+    "response_ms": 10152,
+    "content_hash": "1768d10a98ae3440556e"
   },
   {
     "resource": "G2SBC",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.itb.cnr.it/breastcancer",
     "ok": false,
     "http_status": 404,
@@ -4966,13 +4870,13 @@
     "title": "Page not found – CNR-ITB",
     "facts": [],
     "error": "",
-    "response_ms": 3936,
-    "content_hash": "70bd3e8532c007b97350"
+    "response_ms": 3800,
+    "content_hash": "b64353344d3a206346a9"
   },
   {
     "resource": "HLungDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.megabionet.org/bio/hlung/",
     "ok": false,
     "http_status": 404,
@@ -4981,13 +4885,13 @@
     "title": "404 Not Found",
     "facts": [],
     "error": "",
-    "response_ms": 3333,
+    "response_ms": 4047,
     "content_hash": "cd433d1cfb9da2b94e4c"
   },
   {
     "resource": "PubMeth",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://matrix.ugent.be/pubmeth/",
     "ok": false,
     "http_status": null,
@@ -4995,14 +4899,14 @@
     "content_type": "",
     "title": "",
     "facts": [],
-    "error": "HTTPConnectionPool(host='matrix.ugent.be', port=80): Max retries exceeded with url: /pubmeth/ (Caused by ConnectTimeoutError(<HTTPConnection(host='matrix.ugent.be', port=80) at 0x7f11db934e20>, 'Connection to matrix.ugent.be timed out. (connect timeout=25)'))",
-    "response_ms": 25299,
+    "error": "HTTPConnectionPool(host='matrix.ugent.be', port=80): Max retries exceeded with url: /pubmeth/ (Caused by ConnectTimeoutError(<HTTPConnection(host='matrix.ugent.be', port=80) at 0x7fe8ed543570>, 'Connection to matrix.ugent.be timed out. (connect timeout=25)'))",
+    "response_ms": 25241,
     "content_hash": ""
   },
   {
     "resource": "RCDB",
     "category": "Cancer-Type-Specific & Other Specialized Cancer Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "http://www.juit.ac.in/attachments/jsr/rcdb/",
     "ok": false,
     "http_status": 404,
@@ -5011,13 +4915,13 @@
     "title": "Not Found",
     "facts": [],
     "error": "",
-    "response_ms": 1378,
+    "response_ms": 1460,
     "content_hash": "8cbc10ee9755ef972000"
   },
   {
     "resource": "Gene Ontology",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://geneontology.org/",
     "ok": true,
     "http_status": 200,
@@ -5026,13 +4930,13 @@
     "title": "Gene Ontology Resource",
     "facts": [],
     "error": "",
-    "response_ms": 261,
+    "response_ms": 264,
     "content_hash": "7a25ba233d228a220f58"
   },
   {
     "resource": "GTEx",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://gtexportal.org/",
     "ok": true,
     "http_status": 200,
@@ -5041,13 +4945,13 @@
     "title": "GTEx Portal",
     "facts": [],
     "error": "",
-    "response_ms": 420,
-    "content_hash": "47aba24434f294e2481f"
+    "response_ms": 688,
+    "content_hash": "c078a69c03b77c44af2e"
   },
   {
     "resource": "KEGG",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.kegg.jp/",
     "ok": true,
     "http_status": 200,
@@ -5056,13 +4960,13 @@
     "title": "KEGG: Kyoto Encyclopedia of Genes and Genomes",
     "facts": [],
     "error": "",
-    "response_ms": 1074,
+    "response_ms": 1595,
     "content_hash": "46f2663c9c3c71cd2d10"
   },
   {
     "resource": "Reactome",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://reactome.org/",
     "ok": true,
     "http_status": 200,
@@ -5071,13 +4975,13 @@
     "title": "Home - Reactome Pathway Database",
     "facts": [],
     "error": "",
-    "response_ms": 406,
-    "content_hash": "144f0bac9f3842eb7ef1"
+    "response_ms": 549,
+    "content_hash": "93f522eb17eaa7082cc6"
   },
   {
     "resource": "Ensembl",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ensembl.org/",
     "ok": true,
     "http_status": 200,
@@ -5086,13 +4990,13 @@
     "title": "Ensembl",
     "facts": [],
     "error": "",
-    "response_ms": 1350,
+    "response_ms": 791,
     "content_hash": "63a9691ed9994146d02b"
   },
   {
     "resource": "MSigDB",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.gsea-msigdb.org/gsea/msigdb/",
     "ok": true,
     "http_status": 200,
@@ -5101,13 +5005,13 @@
     "title": "GSEA | MSigDB",
     "facts": [],
     "error": "",
-    "response_ms": 172,
+    "response_ms": 503,
     "content_hash": "352a195469bf627376a9"
   },
   {
     "resource": "RCSB PDB",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.rcsb.org/",
     "ok": true,
     "http_status": 200,
@@ -5116,13 +5020,13 @@
     "title": "RCSB PDB: Homepage",
     "facts": [],
     "error": "",
-    "response_ms": 477,
-    "content_hash": "8cfe7afd02d085851f38"
+    "response_ms": 314,
+    "content_hash": "5e158c719ec2c1abe9d0"
   },
   {
     "resource": "STRING",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://string-db.org/",
     "ok": true,
     "http_status": 200,
@@ -5131,28 +5035,28 @@
     "title": "STRING: functional protein association networks",
     "facts": [],
     "error": "",
-    "response_ms": 963,
-    "content_hash": "e375677f94f1e8ce306b"
+    "response_ms": 415,
+    "content_hash": "12594be7798536ddc561"
   },
   {
     "resource": "UCSC Genome Browser",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://genome.ucsc.edu/",
-    "ok": false,
-    "http_status": null,
+    "ok": true,
+    "http_status": 200,
     "final_url": "https://genome.ucsc.edu/",
-    "content_type": "",
-    "title": "",
+    "content_type": "text/html; charset=UTF-8",
+    "title": "UCSC Genome Browser Home",
     "facts": [],
-    "error": "HTTPSConnectionPool(host='genome.ucsc.edu', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1082)')))",
-    "response_ms": 269,
-    "content_hash": ""
+    "error": "",
+    "response_ms": 865,
+    "content_hash": "09cf9e0eaf2467379e95"
   },
   {
     "resource": "UniProt",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.uniprot.org/",
     "ok": true,
     "http_status": 200,
@@ -5161,28 +5065,28 @@
     "title": "UniProt",
     "facts": [],
     "error": "",
-    "response_ms": 580,
-    "content_hash": "4d5ee983e6ac6aa40e64"
+    "response_ms": 599,
+    "content_hash": "b0fb9ec58cc7109e8d7e"
   },
   {
     "resource": "ClinVar",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://www.ncbi.nlm.nih.gov/clinvar/",
     "ok": true,
     "http_status": 200,
     "final_url": "https://www.ncbi.nlm.nih.gov/clinvar/",
     "content_type": "text/html; charset=utf-8",
-    "title": "ClinVar - Home",
+    "title": "Checking your browser - reCAPTCHA",
     "facts": [],
     "error": "",
-    "response_ms": 339,
-    "content_hash": "c0cda15573878b13a53e"
+    "response_ms": 136,
+    "content_hash": "a06717a713194703a2d2"
   },
   {
     "resource": "AlphaFold DB",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://alphafold.ebi.ac.uk/",
     "ok": true,
     "http_status": 200,
@@ -5191,13 +5095,13 @@
     "title": "AlphaFold Protein Structure Database",
     "facts": [],
     "error": "",
-    "response_ms": 1131,
-    "content_hash": "2bc0a2d3b6291a2563b2"
+    "response_ms": 1089,
+    "content_hash": "faec39ff85d92f7e3677"
   },
   {
     "resource": "CTD",
     "category": "Supporting Cancer Bioinformatics Knowledge Resources",
-    "checked_at": "2026-10-19T06:57:35+00:00",
+    "checked_at": "2026-10-26T13:01:50+00:00",
     "requested_url": "https://ctdbase.org/",
     "ok": true,
     "http_status": 302,
@@ -5206,7 +5110,7 @@
     "title": "Comparative Toxicogenomic Database",
     "facts": [],
     "error": "",
-    "response_ms": 359,
+    "response_ms": 302,
     "content_hash": "b0df5af6727be6c1cb81"
   }
 ]
